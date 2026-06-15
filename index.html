@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>母子基金回測 Dashboard</title>
+  <link rel="stylesheet" href="assets/app.css">
+</head>
+<body class="locked">
+  <header>
+    <div class="brand">
+      <img src="assets/owner.jpg" alt="">
+      <div class="brand-copy">
+        <h1>母子基金回測 Dashboard</h1>
+        <div class="tagline">陪你一路牛</div>
+      </div>
+    </div>
+    <div class="source">
+      <div>資料來源：BlackRock 台灣官網</div>
+      <div id="dataStamp">資料更新時間：讀取中</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel controls">
+      <h2>設定</h2>
+      <div class="field">
+        <label for="motherQuery">母基金</label>
+        <input id="motherQuery" value="貝萊德環球資產配置基金" autocomplete="off">
+      </div>
+      <div class="field">
+        <select id="motherSelect"></select>
+      </div>
+      <div class="field">
+        <label for="childQuery">子基金</label>
+        <input id="childQuery" value="貝萊德世界科技基金" autocomplete="off">
+      </div>
+      <div class="field">
+        <select id="childSelect"></select>
+      </div>
+      <div class="split">
+        <div class="field">
+          <label for="principal">本金</label>
+          <input id="principal" type="number" min="1" step="10000" value="1000000">
+        </div>
+        <div class="field">
+          <label for="durationMonths">時間長度（月）</label>
+          <input id="durationMonths" type="number" min="1" step="1" value="120">
+        </div>
+      </div>
+      <div class="split">
+        <div class="field">
+          <label for="startMonth">起始月份</label>
+          <input id="startMonth" type="month">
+        </div>
+        <div class="field">
+          <label for="endMonth">結束月份</label>
+          <input id="endMonth" type="month">
+        </div>
+      </div>
+      <div class="field">
+        <label for="frequency">母轉子頻率</label>
+        <select id="frequency">
+          <option value="monthly_1">每月一次</option>
+          <option value="monthly_2">每月兩次</option>
+          <option value="quarterly">每季一次</option>
+          <option value="yearly">每年一次</option>
+          <option value="biweekly">每兩週一次</option>
+        </select>
+      </div>
+      <div class="three">
+        <div class="field">
+          <label for="transferDay1">日期一</label>
+          <input id="transferDay1" type="number" min="1" max="28" value="1">
+        </div>
+        <div class="field">
+          <label for="transferDay2">日期二</label>
+          <input id="transferDay2" type="number" min="1" max="28" value="15">
+        </div>
+        <div class="field">
+          <label id="transferValueLabel" for="transferValue">自動計算，不用填</label>
+          <input id="transferValue" type="number" min="0" step="0.1" value="5">
+          <div id="transferValueHint" class="small-note"></div>
+        </div>
+      </div>
+      <div class="field">
+        <label for="transferRule">每次轉出方式</label>
+        <select id="transferRule">
+          <option value="even_over_period">依期間平均轉完</option>
+          <option value="initial_percent">本金比例（%）</option>
+          <option value="mother_percent">母基金餘額比例（%）</option>
+          <option value="fixed_amount">固定金額</option>
+        </select>
+      </div>
+      <div id="transferRuleHelp" class="help-text"></div>
+      <div class="split">
+        <div class="field">
+          <label>停利機制</label>
+          <div class="checkbox-line">
+            <input id="takeProfitEnabled" type="checkbox">
+            <span>達標自動出場</span>
+          </div>
+        </div>
+        <div class="field">
+          <label for="takeProfitTarget">停利目標（%）</label>
+          <input id="takeProfitTarget" type="number" min="0" step="0.1" value="20" disabled>
+        </div>
+      </div>
+      <div id="takeProfitHelp" class="small-note"></div>
+      <div class="split">
+        <button id="runButton">開始回測</button>
+        <button id="csvButton" class="secondary" disabled>下載 CSV</button>
+      </div>
+      <div id="status" class="status"></div>
+    </section>
+
+    <div class="workspace">
+      <section class="panel results">
+        <h2>結果</h2>
+        <div class="kpis" id="kpis"></div>
+        <div id="warnings"></div>
+      </section>
+      <section class="panel chart-panel">
+        <div class="chart-top">
+          <h2>走勢（報酬率）</h2>
+          <div class="legend">
+            <span><i class="dot" style="background:#1f2937"></i>母轉子策略</span>
+            <span><i class="dot" style="background:#315fbd"></i>只持有母基金</span>
+            <span><i class="dot" style="background:#c56a20"></i>只持有子基金</span>
+          </div>
+        </div>
+        <div class="chart-wrap"><svg id="chart" viewBox="0 0 960 360" role="img"></svg></div>
+      </section>
+      <div class="table-grid">
+        <section class="panel table-panel">
+          <h2>同長度亮眼區間</h2>
+          <div id="suggestionNote" class="small-note"></div>
+          <div class="scroll-table">
+            <table>
+              <thead><tr><th>區間</th><th>母轉子報酬</th><th>母</th><th>子</th><th>勝出</th><th>最大跌幅</th><th>停利</th></tr></thead>
+              <tbody id="suggestionsBody"></tbody>
+            </table>
+          </div>
+        </section>
+        <section class="panel table-panel">
+          <h2>轉換路徑</h2>
+          <div id="transferNote" class="small-note"></div>
+          <div class="scroll-table">
+            <table>
+              <thead><tr><th>日期</th><th>動作</th><th>轉出金額</th><th>母基金餘額</th><th>子基金餘額</th><th>整包報酬率</th></tr></thead>
+              <tbody id="transfersBody"></tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <div class="assumptions" id="assumptions"></div>
+
+  <div class="login-mask" id="loginMask">
+    <form class="login-card" id="loginForm">
+      <h2>母子基金回測 Dashboard</h2>
+      <p>請輸入密碼後使用。這是 GitHub Pages 靜態版，密碼只做簡單入口提示。</p>
+      <label for="password">密碼</label>
+      <input id="password" type="password" autocomplete="current-password" autofocus>
+      <button type="submit">登入</button>
+      <div class="login-error" id="loginError"></div>
+    </form>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
