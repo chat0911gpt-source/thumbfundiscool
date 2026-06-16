@@ -475,6 +475,7 @@ function prettyWindows(allPoints, settings, limit = 12) {
       strategyReturn,
       motherReturn,
       childReturn,
+      advantageVsMother: strategyReturn - motherReturn,
       advantageVsBestSingle: strategyReturn - bestSingle,
       maxDrawdown: strategyMetric.maxDrawdown,
       beatsBoth: strategyReturn > motherReturn && strategyReturn > childReturn,
@@ -484,7 +485,7 @@ function prettyWindows(allPoints, settings, limit = 12) {
     });
   }
   return results
-    .sort((a, b) => b.strategyReturn - a.strategyReturn || b.advantageVsBestSingle - a.advantageVsBestSingle || b.maxDrawdown - a.maxDrawdown)
+    .sort((a, b) => b.strategyReturn - a.strategyReturn || b.advantageVsMother - a.advantageVsMother || b.maxDrawdown - a.maxDrawdown)
     .slice(0, limit);
 }
 
@@ -754,7 +755,7 @@ function renderChart(rows) {
 function renderSuggestions(result) {
   const body = $("suggestionsBody");
   const months = result.period.requestedDurationMonths || result.period.durationMonths;
-  $("suggestionNote").textContent = `依目前設定的 ${months} 個月與同一套母轉子方法，掃描歷史上每個可用起點，並依母轉子策略報酬由高到低排序。`;
+  $("suggestionNote").textContent = `依目前設定的 ${months} 個月與同一套母轉子方法，掃描歷史上每個可用起點；勝出母基金代表母轉子策略比單純持有母基金多出的報酬率。`;
   body.innerHTML = "";
   for (const row of result.suggestions || []) {
     const tr = document.createElement("tr");
@@ -763,7 +764,7 @@ function renderSuggestions(result) {
       <td class="${signedClass(row.strategyReturn)}">${formatPct(row.strategyReturn)}</td>
       <td>${formatPct(row.motherReturn)}</td>
       <td>${formatPct(row.childReturn)}</td>
-      <td class="${signedClass(row.advantageVsBestSingle)}">${formatPct(row.advantageVsBestSingle)}</td>
+      <td class="${signedClass(row.advantageVsMother)}">${formatPct(row.advantageVsMother)}</td>
       <td>${formatPct(row.maxDrawdown)}</td>
       <td>${row.takeProfitHit ? `${row.monthsToExit} 月` : "-"}</td>
     `;
@@ -781,9 +782,10 @@ function renderTransfers(result) {
   body.innerHTML = "";
   const transfers = result.transfers || [];
   const summary = result.transferSummary || {};
+  const finalRow = result.rows?.[result.rows.length - 1];
   const total = Number(summary.transferCount || 0);
   const shownText = total > transfers.length ? `目前顯示前 ${transfers.length} 筆。` : "已顯示全部轉換。";
-  $("transferNote").textContent = `一開始本金全數放在母基金，再依設定轉出到子基金。共 ${total} 次，表格依時間由早到晚揭露。${shownText}`;
+  $("transferNote").textContent = `一開始本金全數放在母基金，再依設定轉出到子基金。共 ${total} 次，表格依時間由早到晚揭露，最後一列期末結算會對齊上方母轉子策略總報酬。${shownText}`;
   const initial = document.createElement("tr");
   initial.innerHTML = `
     <td>${summary.initialDate || result.period.start}</td>
@@ -806,9 +808,17 @@ function renderTransfers(result) {
     `;
     body.appendChild(tr);
   }
-  if (body.children.length === 1 && !transfers.length) {
+  if (finalRow) {
+    const finalReturn = Number(finalRow.strategy) / Number(result.settings.principal || 1) - 1;
     const tr = document.createElement("tr");
-    tr.innerHTML = `<td colspan="6">尚無轉換紀錄</td>`;
+    tr.innerHTML = `
+      <td>${finalRow.date}</td>
+      <td>期末結算</td>
+      <td>-</td>
+      <td>${formatMoney(finalRow.motherPart)}</td>
+      <td>${formatMoney(finalRow.childPart)}</td>
+      <td>${formatPct(finalReturn)}</td>
+    `;
     body.appendChild(tr);
   }
 }
