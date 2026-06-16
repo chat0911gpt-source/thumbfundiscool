@@ -1,12 +1,12 @@
 const APP_PASSWORD = "BLK168";
-const AUTH_KEY = "blk_static_dashboard_auth";
 const state = {
   catalog: [],
   manifest: null,
   funds: new Map(),
   motherOptions: [],
   childOptions: [],
-  lastResult: null
+  lastResult: null,
+  unlocked: false
 };
 
 const $ = (id) => document.getElementById(id);
@@ -20,6 +20,20 @@ function formatMoney(value) {
 
 function formatPct(value) {
   return pctFmt.format(Number(value || 0));
+}
+
+function percentNumber(value) {
+  return (Number(value || 0) * 100).toFixed(6);
+}
+
+function csvCell(value) {
+  if (value === null || value === undefined) return "";
+  const text = String(value);
+  return /[",\n]/.test(text) ? `"${text.replace(/"/g, '""')}"` : text;
+}
+
+function csvLine(values) {
+  return values.map(csvCell).join(",");
 }
 
 function signedClass(value) {
@@ -495,6 +509,11 @@ async function buildBacktest(settings) {
   if (mother.seriesKind !== "nav" || child.seriesKind !== "nav") {
     warnings.push("其中一檔基金未抓到 daily NAV，已改用官網績效序列。");
   }
+  const requestedStart = settings.startDate || addMonthsKey((settings.endDate || allPoints[allPoints.length - 1].date), -settings.durationMonths);
+  const requestedEnd = settings.endDate || allPoints[allPoints.length - 1].date;
+  if (rows[0].date !== requestedStart || rows[rows.length - 1].date !== requestedEnd) {
+    warnings.push(`你選的是月份，實際回測會採用兩檔基金都有淨值的共同日期；本次實際使用 ${rows[0].date} 至 ${rows[rows.length - 1].date}。`);
+  }
   const suggestions = prettyWindows(allPoints, settings);
   const totalTransferred = transfers.reduce((sum, row) => sum + Number(row.amount || 0), 0);
   const averageTransferAmount = transfers.length ? totalTransferred / transfers.length : 0;
@@ -510,7 +529,10 @@ async function buildBacktest(settings) {
       durationMonths: diffMonths(selectedPoints[0].date, selectedPoints[selectedPoints.length - 1].date),
       requestedDurationMonths: settings.durationMonths,
       earliest: allPoints[0].date,
-      latest: allPoints[allPoints.length - 1].date
+      latest: allPoints[allPoints.length - 1].date,
+      requestedStart,
+      requestedEnd,
+      commonPointCount: allPoints.length
     },
     settings,
     metrics,
@@ -610,6 +632,14 @@ function chartReturnRows(rows) {
     motherOnlyReturn: Number(row.motherOnly) / base.motherOnly - 1,
     childOnlyReturn: Number(row.childOnly) / base.childOnly - 1
   }));
+}
+
+function rowReturnMap(rows) {
+  const output = new Map();
+  for (const row of chartReturnRows(rows)) {
+    output.set(row.date, row);
+  }
+  return output;
 }
 
 function makePath(rows, key, x, y) {
@@ -928,7 +958,7 @@ async function runBacktest() {
     renderResult(result);
     const latestMother = result.funds.mother.latestDate || "-";
     const latestChild = result.funds.child.latestDate || "-";
-    setStatus(`完成：${result.period.start} 至 ${result.period.end}，約 ${result.period.durationMonths} 個月。最新淨值：母 ${latestMother}，子 ${latestChild}。`);
+    setStatus(`完成：${result.period.start} 至 ${result.period.end}，約 ${result.period.durationMonths} 個月。共同資料 ${result.period.commonPointCount} 筆，範圍 ${result.period.earliest} 至 ${result.period.latest}。最新淨值：母 ${latestMother}，子 ${latestChild}。`);
   } catch (error) {
     setStatus(error.message || String(error));
   } finally {
@@ -939,21 +969,50 @@ async function runBacktest() {
 function downloadCsv() {
   const result = state.lastResult;
   if (!result) return;
-  const header = ["date", "strategy", "mother_only", "child_only", "mother_part", "child_part", "mother_nav", "child_nav"];
-  const lines = [header.join(",")];
+  const header = [
+    "date",
+    "strategy_value",
+    "mother_only_value",
+    "child_only_value",
+    "strategy_return_pct",
+    "mother_only_return_pct",
+    "child_only_return_pct",
+    "mother_part_value",
+    "child_part_value",
+    "mother_nav",
+    "child_nav",
+    "transfer_amount",
+    "is_transfer"
+  ];
+  const returnMap = rowReturnMap(result.rows);
+  const transferMap = new Map((result.transfers || []).map((row) => [row.date, Number(row.amount || 0)]));
+  const lines = [
+    csvLine([`母基金：${result.funds.mother.display || result.funds.mother.name || ""}`]),
+    csvLine([`子基金：${result.funds.child.display || result.funds.child.name || ""}`]),
+    csvLine([`實際回測區間：${result.period.start} 至 ${result.period.end}`]),
+    csvLine([`共同資料範圍：${result.period.earliest} 至 ${result.period.latest}，${result.period.commonPointCount} 筆共同日期`]),
+    header.join(",")
+  ];
   for (const row of result.rows) {
-    lines.push([
+    const returnsForDate = returnMap.get(row.date) || {};
+    const transferAmountForDate = transferMap.get(row.date) || 0;
+    lines.push(csvLine([
       row.date,
       row.strategy,
       row.motherOnly,
       row.childOnly,
+      percentNumber(returnsForDate.strategyReturn),
+      percentNumber(returnsForDate.motherOnlyReturn),
+      percentNumber(returnsForDate.childOnlyReturn),
       row.motherPart,
       row.childPart,
       row.motherNav,
-      row.childNav
-    ].join(","));
+      row.childNav,
+      transferAmountForDate,
+      transferAmountForDate > 0 ? 1 : 0
+    ]));
   }
-  const blob = new Blob([lines.join("\n")], { type: "text/csv;charset=utf-8" });
+  const blob = new Blob(["\ufeff" + lines.join("\n")], { type: "text/csv;charset=utf-8" });
   const url = URL.createObjectURL(blob);
   const a = document.createElement("a");
   a.href = url;
@@ -1036,6 +1095,8 @@ async function bootDashboard() {
 }
 
 function unlock() {
+  if (state.unlocked) return;
+  state.unlocked = true;
   $("loginMask").classList.add("hidden");
   document.body.classList.remove("locked");
   bootDashboard();
@@ -1045,13 +1106,11 @@ function setupAuth() {
   $("loginForm").addEventListener("submit", (event) => {
     event.preventDefault();
     if ($("password").value === APP_PASSWORD) {
-      localStorage.setItem(AUTH_KEY, "1");
       unlock();
     } else {
       $("loginError").textContent = "密碼不正確";
     }
   });
-  if (localStorage.getItem(AUTH_KEY) === "1") unlock();
 }
 
 function init() {
