@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-15",
+  "latestDate": "2026-06-16",
   "pageName": "貝萊德環球資產配置基金 (基金之配息來源可能為本金) | A2",
-  "pointCount": 5257,
+  "pointCount": 5258,
   "points": [
     [
       "2005-07-01",
@@ -21030,18 +21030,22 @@
     [
       "2026-06-15",
       85.84
+    ],
+    [
+      "2026-06-16",
+      86.35
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德環球資產配置基金 (基金之配息來源可能為本金)｜A2 EUR｜淨值 85.84｜2026年6月15日",
+    "display": "貝萊德環球資產配置基金 (基金之配息來源可能為本金)｜A2 EUR｜淨值 86.35｜2026年6月16日",
     "hedged": false,
     "id": "228272",
     "inceptionDate": "2002年7月31日",
     "name": "貝萊德環球資產配置基金 (基金之配息來源可能為本金)",
-    "nav": "85.84",
-    "navDate": "2026年6月15日",
+    "nav": "86.35",
+    "navDate": "2026年6月16日",
     "oneYear": "16.25",
     "shareClass": "A2",
     "slug": "blackrock-global-allocation-fund-a2-eur",
