@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-17",
+  "latestDate": "2026-06-18",
   "pageName": "貝萊德歐元市場基金 | A4",
-  "pointCount": 5261,
+  "pointCount": 5262,
   "points": [
     [
       "2005-07-01",
@@ -21046,18 +21046,22 @@
     [
       "2026-06-17",
       48.84
+    ],
+    [
+      "2026-06-18",
+      49.41
     ]
   ],
   "product": {
     "classLabel": "A4 EUR",
     "currency": "EUR",
-    "display": "貝萊德歐元市場基金｜A4 EUR｜淨值 48.84｜2026年6月17日",
+    "display": "貝萊德歐元市場基金｜A4 EUR｜淨值 49.41｜2026年6月18日",
     "hedged": false,
     "id": "229612",
     "inceptionDate": "2003年2月14日",
     "name": "貝萊德歐元市場基金",
-    "nav": "48.84",
-    "navDate": "2026年6月17日",
+    "nav": "49.41",
+    "navDate": "2026年6月18日",
     "oneYear": "10.66",
     "shareClass": "A4",
     "slug": "blackrock-euro-markets-fund-a4-eur",
