@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-18",
+  "latestDate": "2026-06-19",
   "pageName": "貝萊德世界科技基金（基金之配息來源可能為本金） | B2",
-  "pointCount": 554,
+  "pointCount": 555,
   "points": [
     [
       "2024-03-27",
@@ -2218,18 +2218,22 @@
     [
       "2026-06-18",
       19.15
+    ],
+    [
+      "2026-06-19",
+      19.36
     ]
   ],
   "product": {
     "classLabel": "ID 336569",
     "currency": "",
-    "display": "貝萊德世界科技基金（基金之配息來源可能為本金）｜ID 336569｜淨值 19.15｜2026年6月18日",
+    "display": "貝萊德世界科技基金（基金之配息來源可能為本金）｜ID 336569｜淨值 19.36｜2026年6月19日",
     "hedged": false,
     "id": "336569",
     "inceptionDate": "2024年3月27日",
     "name": "貝萊德世界科技基金（基金之配息來源可能為本金）",
-    "nav": "19.15",
-    "navDate": "2026年6月18日",
+    "nav": "19.36",
+    "navDate": "2026年6月19日",
     "oneYear": "65.99",
     "shareClass": "",
     "slug": "blackrock-world-technology-fund",
