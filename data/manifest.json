@@ -1,16 +1,10 @@
 {
-  "changedFundFiles": 0,
-  "failureCount": 1,
-  "failures": [
-    {
-      "error": "HTTP Error 504: Gateway Time-out；沿用既有資料",
-      "id": "229987",
-      "name": "貝萊德世界礦業基金（基金之配息來源可能為本金）"
-    }
-  ],
+  "changedFundFiles": 22,
+  "failureCount": 0,
+  "failures": [],
   "fundCount": 320,
   "productCount": 320,
   "requestedFundCount": 320,
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-06-23T08:40:23+00:00"
+  "updatedAt": "2026-06-23T15:28:41+00:00"
 }
