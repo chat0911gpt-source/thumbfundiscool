@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-22",
+  "latestDate": "2026-06-24",
   "pageName": "貝萊德環球非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金) | A3 避險股份",
-  "pointCount": 5263,
+  "pointCount": 5264,
   "points": [
     [
       "2005-07-01",
@@ -21054,18 +21054,22 @@
     [
       "2026-06-22",
       4.28
+    ],
+    [
+      "2026-06-24",
+      4.28
     ]
   ],
   "product": {
     "classLabel": "A3 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德環球非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)｜A3 EUR 避險｜淨值 4.28｜2026年6月22日",
+    "display": "貝萊德環球非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)｜A3 EUR 避險｜淨值 4.28｜2026年6月24日",
     "hedged": true,
     "id": "229759",
     "inceptionDate": "2003年9月1日",
     "name": "貝萊德環球非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)",
     "nav": "4.28",
-    "navDate": "2026年6月22日",
+    "navDate": "2026年6月24日",
     "oneYear": "4.60",
     "shareClass": "A3",
     "slug": "blackrock-global-high-yield-bond-fund-a3-eur-hedged",

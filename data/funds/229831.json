@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-22",
+  "latestDate": "2026-06-24",
   "pageName": "貝萊德拉丁美洲基金 | C2",
-  "pointCount": 5261,
+  "pointCount": 5262,
   "points": [
     [
       "2005-07-01",
@@ -21046,18 +21046,22 @@
     [
       "2026-06-22",
       56.37
+    ],
+    [
+      "2026-06-24",
+      55.45
     ]
   ],
   "product": {
     "classLabel": "C2 USD",
     "currency": "USD",
-    "display": "貝萊德拉丁美洲基金｜C2 USD｜淨值 56.37｜2026年6月22日",
+    "display": "貝萊德拉丁美洲基金｜C2 USD｜淨值 55.45｜2026年6月24日",
     "hedged": false,
     "id": "229831",
     "inceptionDate": "2002年7月1日",
     "name": "貝萊德拉丁美洲基金",
-    "nav": "56.37",
-    "navDate": "2026年6月22日",
+    "nav": "55.45",
+    "navDate": "2026年6月24日",
     "oneYear": "18.54",
     "shareClass": "C2",
     "slug": "blackrock-latin-american-fund-c2-usd",
