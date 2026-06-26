@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-24",
+  "latestDate": "2026-06-25",
   "pageName": "貝萊德環球動力股票基金 (本基金非屬環境、社會及治理相關主題基金) | A2",
-  "pointCount": 5094,
+  "pointCount": 5095,
   "points": [
     [
       "2006-02-28",
@@ -20378,18 +20378,22 @@
     [
       "2026-06-24",
       44.34
+    ],
+    [
+      "2026-06-25",
+      44.24
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德環球動力股票基金 (本基金非屬環境、社會及治理相關主題基金)｜A2 USD｜淨值 44.34｜2026年6月24日",
+    "display": "貝萊德環球動力股票基金 (本基金非屬環境、社會及治理相關主題基金)｜A2 USD｜淨值 44.24｜2026年6月25日",
     "hedged": false,
     "id": "229698",
     "inceptionDate": "2006年7月31日",
     "name": "貝萊德環球動力股票基金 (本基金非屬環境、社會及治理相關主題基金)",
-    "nav": "44.34",
-    "navDate": "2026年6月24日",
+    "nav": "44.24",
+    "navDate": "2026年6月25日",
     "oneYear": "26.78",
     "shareClass": "A2",
     "slug": "blackrock-global-dynamic-equity-fund-a2-usd",

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-24",
+  "latestDate": "2026-06-25",
   "pageName": "貝萊德新興市場當地債券基金 (基金有相當比重投資於非投資等級之高風險債券) | A2",
-  "pointCount": 4863,
+  "pointCount": 4864,
   "points": [
     [
       "2007-02-05",
@@ -19454,18 +19454,22 @@
     [
       "2026-06-24",
       24.83
+    ],
+    [
+      "2026-06-25",
+      24.88
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德新興市場當地債券基金 (基金有相當比重投資於非投資等級之高風險債券)｜A2 EUR｜淨值 24.83｜2026年6月24日",
+    "display": "貝萊德新興市場當地債券基金 (基金有相當比重投資於非投資等級之高風險債券)｜A2 EUR｜淨值 24.88｜2026年6月25日",
     "hedged": false,
     "id": "229844",
     "inceptionDate": "2007年2月2日",
     "name": "貝萊德新興市場當地債券基金 (基金有相當比重投資於非投資等級之高風險債券)",
-    "nav": "24.83",
-    "navDate": "2026年6月24日",
+    "nav": "24.88",
+    "navDate": "2026年6月25日",
     "oneYear": "7.96",
     "shareClass": "A2",
     "slug": "blackrock-emerging-markets-local-currency-bond-fund-a2-eur",
