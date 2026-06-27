@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-25",
+  "latestDate": "2026-06-26",
   "pageName": "貝萊德美元優質債券基金 | A10",
-  "pointCount": 231,
+  "pointCount": 232,
   "points": [
     [
       "2025-07-23",
@@ -926,18 +926,22 @@
     [
       "2026-06-25",
       9.98
+    ],
+    [
+      "2026-06-26",
+      9.96
     ]
   ],
   "product": {
     "classLabel": "ID 344465",
     "currency": "",
-    "display": "貝萊德美元優質債券基金｜ID 344465｜淨值 9.98｜2026年6月25日",
+    "display": "貝萊德美元優質債券基金｜ID 344465｜淨值 9.96｜2026年6月26日",
     "hedged": false,
     "id": "344465",
     "inceptionDate": "2025年7月23日",
     "name": "貝萊德美元優質債券基金",
-    "nav": "9.98",
-    "navDate": "2026年6月25日",
+    "nav": "9.96",
+    "navDate": "2026年6月26日",
     "oneYear": "-",
     "shareClass": "",
     "slug": "blackrock-us-dollar-bond-fund",

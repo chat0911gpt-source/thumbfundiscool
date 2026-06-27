@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-25",
+  "latestDate": "2026-06-26",
   "pageName": "貝萊德中國基金(基金之配息來源可能為本金） | A2 避險股份",
-  "pointCount": 3045,
+  "pointCount": 3046,
   "points": [
     [
       "2014-02-26",
@@ -12182,18 +12182,22 @@
     [
       "2026-06-25",
       14.42
+    ],
+    [
+      "2026-06-26",
+      14.19
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德中國基金(基金之配息來源可能為本金）｜A2 AUD 避險｜淨值 14.42｜2026年6月25日",
+    "display": "貝萊德中國基金(基金之配息來源可能為本金）｜A2 AUD 避險｜淨值 14.19｜2026年6月26日",
     "hedged": true,
     "id": "260707",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德中國基金(基金之配息來源可能為本金）",
-    "nav": "14.42",
-    "navDate": "2026年6月25日",
+    "nav": "14.19",
+    "navDate": "2026年6月26日",
     "oneYear": "17.10",
     "shareClass": "A2",
     "slug": "bgf-china-fund-a2-aud-hedged",

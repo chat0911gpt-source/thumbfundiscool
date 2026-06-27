@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-25",
+  "latestDate": "2026-06-26",
   "pageName": "貝萊德全球通膨連結債券基金 | A2 避險股份",
-  "pointCount": 4247,
+  "pointCount": 4248,
   "points": [
     [
       "2009-07-23",
@@ -16990,18 +16990,22 @@
     [
       "2026-06-25",
       13.74
+    ],
+    [
+      "2026-06-26",
+      13.72
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德全球通膨連結債券基金｜A2 EUR 避險｜淨值 13.74｜2026年6月25日",
+    "display": "貝萊德全球通膨連結債券基金｜A2 EUR 避險｜淨值 13.72｜2026年6月26日",
     "hedged": true,
     "id": "228342",
     "inceptionDate": "2009年7月23日",
     "name": "貝萊德全球通膨連結債券基金",
-    "nav": "13.74",
-    "navDate": "2026年6月25日",
+    "nav": "13.72",
+    "navDate": "2026年6月26日",
     "oneYear": "2.38",
     "shareClass": "A2",
     "slug": "blackrock-global-inflation-linked-bond-fund-a2-eur-hedged",

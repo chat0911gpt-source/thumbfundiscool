@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-25",
+  "latestDate": "2026-06-26",
   "pageName": "貝萊德歐洲特別時機基金 | A2 避險股份",
-  "pointCount": 3194,
+  "pointCount": 3195,
   "points": [
     [
       "2013-09-25",
@@ -12778,18 +12778,22 @@
     [
       "2026-06-25",
       29.48
+    ],
+    [
+      "2026-06-26",
+      29.22
     ]
   ],
   "product": {
     "classLabel": "A2 USD 避險",
     "currency": "USD",
-    "display": "貝萊德歐洲特別時機基金｜A2 USD 避險｜淨值 29.48｜2026年6月25日",
+    "display": "貝萊德歐洲特別時機基金｜A2 USD 避險｜淨值 29.22｜2026年6月26日",
     "hedged": true,
     "id": "257475",
     "inceptionDate": "2013年9月25日",
     "name": "貝萊德歐洲特別時機基金",
-    "nav": "29.48",
-    "navDate": "2026年6月25日",
+    "nav": "29.22",
+    "navDate": "2026年6月26日",
     "oneYear": "1.86",
     "shareClass": "A2",
     "slug": "blackrock-european-special-situations-fund-a2-usd-hedged",
