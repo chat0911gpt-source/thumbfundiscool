@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-26",
+  "latestDate": "2026-06-29",
   "pageName": "貝萊德美國價值型基金(基金之配息來源可能為本金） | A2",
-  "pointCount": 5264,
+  "pointCount": 5265,
   "points": [
     [
       "2005-07-01",
@@ -21058,18 +21058,22 @@
     [
       "2026-06-26",
       130.03
+    ],
+    [
+      "2026-06-29",
+      130.4
     ]
   ],
   "product": {
     "classLabel": "A2 GBP",
     "currency": "GBP",
-    "display": "貝萊德美國價值型基金(基金之配息來源可能為本金）｜A2 GBP｜淨值 130.03｜2026年6月26日",
+    "display": "貝萊德美國價值型基金(基金之配息來源可能為本金）｜A2 GBP｜淨值 130.40｜2026年6月29日",
     "hedged": false,
     "id": "228566",
     "inceptionDate": "2002年6月29日",
     "name": "貝萊德美國價值型基金(基金之配息來源可能為本金）",
-    "nav": "130.03",
-    "navDate": "2026年6月26日",
+    "nav": "130.40",
+    "navDate": "2026年6月29日",
     "oneYear": "24.36",
     "shareClass": "A2",
     "slug": "blackrock-us-basic-value-fund-a2-gbp",

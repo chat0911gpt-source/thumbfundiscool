@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-26",
+  "latestDate": "2026-06-29",
   "pageName": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金） | A8 避險股份",
-  "pointCount": 3342,
+  "pointCount": 3343,
   "points": [
     [
       "2013-02-21",
@@ -13370,18 +13370,22 @@
     [
       "2026-06-26",
       7.82
+    ],
+    [
+      "2026-06-29",
+      7.83
     ]
   ],
   "product": {
     "classLabel": "A8 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金）｜A8 AUD 避險｜淨值 7.82｜2026年6月26日",
+    "display": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金）｜A8 AUD 避險｜淨值 7.83｜2026年6月29日",
     "hedged": true,
     "id": "246709",
     "inceptionDate": "2013年2月20日",
     "name": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金）",
-    "nav": "7.82",
-    "navDate": "2026年6月26日",
+    "nav": "7.83",
+    "navDate": "2026年6月29日",
     "oneYear": "6.60",
     "shareClass": "A8",
     "slug": "blackrock-us-dollar-high-yield-bond-fund-a8-aud-hedged",

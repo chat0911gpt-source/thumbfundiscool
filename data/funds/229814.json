@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-26",
+  "latestDate": "2026-06-29",
   "pageName": "貝萊德日本靈活股票基金 | A2",
-  "pointCount": 4910,
+  "pointCount": 4911,
   "points": [
     [
       "2006-05-29",
@@ -19642,18 +19642,22 @@
     [
       "2026-06-26",
       4100.0
+    ],
+    [
+      "2026-06-29",
+      4106.0
     ]
   ],
   "product": {
     "classLabel": "A2 JPY",
     "currency": "JPY",
-    "display": "貝萊德日本靈活股票基金｜A2 JPY｜淨值 4,100.00｜2026年6月26日",
+    "display": "貝萊德日本靈活股票基金｜A2 JPY｜淨值 4,106.00｜2026年6月29日",
     "hedged": false,
     "id": "229814",
     "inceptionDate": "2005年2月28日",
     "name": "貝萊德日本靈活股票基金",
-    "nav": "4,100.00",
-    "navDate": "2026年6月26日",
+    "nav": "4,106.00",
+    "navDate": "2026年6月29日",
     "oneYear": "36.53",
     "shareClass": "A2",
     "slug": "blackrock-japan-flexible-equity-fund-a2-jpy",

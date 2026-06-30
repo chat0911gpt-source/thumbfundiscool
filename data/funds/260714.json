@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-26",
+  "latestDate": "2026-06-29",
   "pageName": "貝萊德美國中型企業價值基金 | A2 避險股份",
-  "pointCount": 3089,
+  "pointCount": 3090,
   "points": [
     [
       "2014-02-26",
@@ -12358,18 +12358,22 @@
     [
       "2026-06-26",
       23.85
+    ],
+    [
+      "2026-06-29",
+      23.86
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德美國中型企業價值基金｜A2 AUD 避險｜淨值 23.85｜2026年6月26日",
+    "display": "貝萊德美國中型企業價值基金｜A2 AUD 避險｜淨值 23.86｜2026年6月29日",
     "hedged": true,
     "id": "260714",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德美國中型企業價值基金",
-    "nav": "23.85",
-    "navDate": "2026年6月26日",
+    "nav": "23.86",
+    "navDate": "2026年6月29日",
     "oneYear": "19.79",
     "shareClass": "A2",
     "slug": "bgf-us-small-and-midcap-opportunities-fund-a2-aud-hedged",

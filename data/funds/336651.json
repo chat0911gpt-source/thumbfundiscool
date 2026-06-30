@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-26",
+  "latestDate": "2026-06-29",
   "pageName": "貝萊德環球企業債券基金 (基金之配息來源可能為本金) | B10",
-  "pointCount": 556,
+  "pointCount": 557,
   "points": [
     [
       "2024-04-03",
@@ -2226,18 +2226,22 @@
     [
       "2026-06-26",
       9.75
+    ],
+    [
+      "2026-06-29",
+      9.76
     ]
   ],
   "product": {
     "classLabel": "ID 336651",
     "currency": "",
-    "display": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)｜ID 336651｜淨值 9.75｜2026年6月26日",
+    "display": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)｜ID 336651｜淨值 9.76｜2026年6月29日",
     "hedged": false,
     "id": "336651",
     "inceptionDate": "2024年4月3日",
     "name": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)",
-    "nav": "9.75",
-    "navDate": "2026年6月26日",
+    "nav": "9.76",
+    "navDate": "2026年6月29日",
     "oneYear": "4.17",
     "shareClass": "",
     "slug": "blackrock-global-corporate-bond-fund",

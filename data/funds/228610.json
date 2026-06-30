@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-26",
+  "latestDate": "2026-06-29",
   "pageName": "貝萊德美國靈活股票基金 | A2",
-  "pointCount": 5264,
+  "pointCount": 5265,
   "points": [
     [
       "2005-07-01",
@@ -21058,18 +21058,22 @@
     [
       "2026-06-26",
       101.46
+    ],
+    [
+      "2026-06-29",
+      101.88
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德美國靈活股票基金｜A2 USD｜淨值 101.46｜2026年6月26日",
+    "display": "貝萊德美國靈活股票基金｜A2 USD｜淨值 101.88｜2026年6月29日",
     "hedged": false,
     "id": "228610",
     "inceptionDate": "2002年10月31日",
     "name": "貝萊德美國靈活股票基金",
-    "nav": "101.46",
-    "navDate": "2026年6月26日",
+    "nav": "101.88",
+    "navDate": "2026年6月29日",
     "oneYear": "49.24",
     "shareClass": "A2",
     "slug": "blackrock-us-flexible-equity-fund-a2-usd",
