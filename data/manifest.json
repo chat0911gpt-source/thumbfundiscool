@@ -1,10 +1,16 @@
 {
-  "changedFundFiles": 0,
-  "failureCount": 0,
-  "failures": [],
+  "changedFundFiles": 22,
+  "failureCount": 1,
+  "failures": [
+    {
+      "error": "The read operation timed out；沿用既有資料",
+      "id": "341723",
+      "name": "貝萊德多元收益成長基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)"
+    }
+  ],
   "fundCount": 320,
   "productCount": 320,
   "requestedFundCount": 320,
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-06-30T08:39:56+00:00"
+  "updatedAt": "2026-06-30T15:04:59+00:00"
 }
