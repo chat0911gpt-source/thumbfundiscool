@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-29",
+  "latestDate": "2026-06-30",
   "pageName": "貝萊德歐元優質債券基金 | A2",
-  "pointCount": 5268,
+  "pointCount": 5269,
   "points": [
     [
       "2005-07-01",
@@ -21074,18 +21074,22 @@
     [
       "2026-06-29",
       28.09
+    ],
+    [
+      "2026-06-30",
+      28.09
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德歐元優質債券基金｜A2 EUR｜淨值 28.09｜2026年6月29日",
+    "display": "貝萊德歐元優質債券基金｜A2 EUR｜淨值 28.09｜2026年6月30日",
     "hedged": false,
     "id": "228379",
     "inceptionDate": "1994年3月31日",
     "name": "貝萊德歐元優質債券基金",
     "nav": "28.09",
-    "navDate": "2026年6月29日",
+    "navDate": "2026年6月30日",
     "oneYear": "1.05",
     "shareClass": "A2",
     "slug": "blackrock-euro-bond-fund-a2-eur",

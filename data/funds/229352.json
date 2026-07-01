@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-29",
+  "latestDate": "2026-06-30",
   "pageName": "貝萊德世界科技基金（基金之配息來源可能為本金） | A2",
-  "pointCount": 5266,
+  "pointCount": 5267,
   "points": [
     [
       "2005-07-01",
@@ -21066,18 +21066,22 @@
     [
       "2026-06-29",
       114.6
+    ],
+    [
+      "2026-06-30",
+      120.3
     ]
   ],
   "product": {
     "classLabel": "A2 GBP",
     "currency": "GBP",
-    "display": "貝萊德世界科技基金（基金之配息來源可能為本金）｜A2 GBP｜淨值 114.60｜2026年6月29日",
+    "display": "貝萊德世界科技基金（基金之配息來源可能為本金）｜A2 GBP｜淨值 120.30｜2026年6月30日",
     "hedged": false,
     "id": "229352",
     "inceptionDate": "2002年7月1日",
     "name": "貝萊德世界科技基金（基金之配息來源可能為本金）",
-    "nav": "114.60",
-    "navDate": "2026年6月29日",
+    "nav": "120.30",
+    "navDate": "2026年6月30日",
     "oneYear": "67.87",
     "shareClass": "A2",
     "slug": "blackrock-world-technology-fund-a2-gbp",

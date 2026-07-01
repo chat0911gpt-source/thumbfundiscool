@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-29",
+  "latestDate": "2026-06-30",
   "pageName": "貝萊德世界健康科學基金（基金之配息來源可能為本金） | A2 避險股份",
-  "pointCount": 3091,
+  "pointCount": 3092,
   "points": [
     [
       "2014-02-26",
@@ -12366,18 +12366,22 @@
     [
       "2026-06-29",
       24.17
+    ],
+    [
+      "2026-06-30",
+      24.06
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德世界健康科學基金（基金之配息來源可能為本金）｜A2 AUD 避險｜淨值 24.17｜2026年6月29日",
+    "display": "貝萊德世界健康科學基金（基金之配息來源可能為本金）｜A2 AUD 避險｜淨值 24.06｜2026年6月30日",
     "hedged": true,
     "id": "260718",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德世界健康科學基金（基金之配息來源可能為本金）",
-    "nav": "24.17",
-    "navDate": "2026年6月29日",
+    "nav": "24.06",
+    "navDate": "2026年6月30日",
     "oneYear": "11.01",
     "shareClass": "A2",
     "slug": "bgf-world-healthscience-fund-a2-aud-hedged",
