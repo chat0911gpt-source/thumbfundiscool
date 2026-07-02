@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德亞洲老虎債券基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金) | A8 避險股份",
-  "pointCount": 3097,
+  "pointCount": 3098,
   "points": [
     [
       "2014-02-19",
@@ -12390,24 +12390,28 @@
     [
       "2026-06-30",
       76.9
+    ],
+    [
+      "2026-07-01",
+      76.8
     ]
   ],
   "product": {
     "classLabel": "避險",
     "currency": "",
-    "display": "貝萊德亞洲老虎債券基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)｜避險｜淨值 76.90｜2026年6月30日",
+    "display": "貝萊德亞洲老虎債券基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)｜避險｜淨值 76.80｜2026年7月1日",
     "hedged": true,
     "id": "260724",
     "inceptionDate": "2014年2月19日",
     "name": "貝萊德亞洲老虎債券基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)",
-    "nav": "76.90",
-    "navDate": "2026年6月30日",
-    "oneYear": "10.19",
+    "nav": "76.80",
+    "navDate": "2026年7月1日",
+    "oneYear": "8.98",
     "shareClass": "",
     "slug": "bgf-asian-tiger-bond-fund-a8-zar-hedged",
-    "threeYear": "31.60",
+    "threeYear": "31.83",
     "url": "https://www.blackrock.com/tw/products/260724/bgf-asian-tiger-bond-fund-a8-zar-hedged",
-    "ytd": "1.81"
+    "ytd": "2.41"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/260724/bgf-asian-tiger-bond-fund-a8-zar-hedged"

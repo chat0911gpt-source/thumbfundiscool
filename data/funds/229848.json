@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德新興市場當地債券基金 (基金有相當比重投資於非投資等級之高風險債券) | A3",
-  "pointCount": 4867,
+  "pointCount": 4868,
   "points": [
     [
       "2007-02-05",
@@ -19470,24 +19470,28 @@
     [
       "2026-06-30",
       3.15
+    ],
+    [
+      "2026-07-01",
+      3.15
     ]
   ],
   "product": {
     "classLabel": "A3 USD",
     "currency": "USD",
-    "display": "貝萊德新興市場當地債券基金 (基金有相當比重投資於非投資等級之高風險債券)｜A3 USD｜淨值 3.15｜2026年6月30日",
+    "display": "貝萊德新興市場當地債券基金 (基金有相當比重投資於非投資等級之高風險債券)｜A3 USD｜淨值 3.15｜2026年7月1日",
     "hedged": false,
     "id": "229848",
     "inceptionDate": "2007年2月2日",
     "name": "貝萊德新興市場當地債券基金 (基金有相當比重投資於非投資等級之高風險債券)",
     "nav": "3.15",
-    "navDate": "2026年6月30日",
-    "oneYear": "11.29",
+    "navDate": "2026年7月1日",
+    "oneYear": "8.72",
     "shareClass": "A3",
     "slug": "blackrock-emerging-markets-local-currency-bond-fund-a3-usd",
-    "threeYear": "26.63",
+    "threeYear": "21.80",
     "url": "https://www.blackrock.com/tw/products/229848/blackrock-emerging-markets-local-currency-bond-fund-a3-usd",
-    "ytd": "2.05"
+    "ytd": "2.57"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229848/blackrock-emerging-markets-local-currency-bond-fund-a3-usd"

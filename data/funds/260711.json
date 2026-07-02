@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德全球股票收益基金 (基金之配息來源可能為本金) | A8 避險股份",
-  "pointCount": 3097,
+  "pointCount": 3098,
   "points": [
     [
       "2014-02-19",
@@ -12390,24 +12390,28 @@
     [
       "2026-06-30",
       159.49
+    ],
+    [
+      "2026-07-01",
+      159.37
     ]
   ],
   "product": {
     "classLabel": "避險",
     "currency": "",
-    "display": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)｜避險｜淨值 159.49｜2026年6月30日",
+    "display": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)｜避險｜淨值 159.37｜2026年7月1日",
     "hedged": true,
     "id": "260711",
     "inceptionDate": "2014年2月19日",
     "name": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)",
-    "nav": "159.49",
-    "navDate": "2026年6月30日",
-    "oneYear": "25.52",
+    "nav": "159.37",
+    "navDate": "2026年7月1日",
+    "oneYear": "19.34",
     "shareClass": "",
     "slug": "bgf-global-equity-income-fund-a8-zar-hedged",
-    "threeYear": "58.49",
+    "threeYear": "50.29",
     "url": "https://www.blackrock.com/tw/products/260711/bgf-global-equity-income-fund-a8-zar-hedged",
-    "ytd": "9.08"
+    "ytd": "7.79"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/260711/bgf-global-equity-income-fund-a8-zar-hedged"

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德全球智慧數據股票入息基金 (基金之配息來源可能為本金且並無保證收益及配息) | A2 避險股份",
-  "pointCount": 4896,
+  "pointCount": 4897,
   "points": [
     [
       "2006-12-15",
@@ -19586,24 +19586,28 @@
     [
       "2026-06-30",
       14.1
+    ],
+    [
+      "2026-07-01",
+      14.1
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德全球智慧數據股票入息基金 (基金之配息來源可能為本金且並無保證收益及配息)｜A2 EUR 避險｜淨值 14.10｜2026年6月30日",
+    "display": "貝萊德全球智慧數據股票入息基金 (基金之配息來源可能為本金且並無保證收益及配息)｜A2 EUR 避險｜淨值 14.10｜2026年7月1日",
     "hedged": true,
     "id": "229703",
     "inceptionDate": "2006年12月20日",
     "name": "貝萊德全球智慧數據股票入息基金 (基金之配息來源可能為本金且並無保證收益及配息)",
     "nav": "14.10",
-    "navDate": "2026年6月30日",
-    "oneYear": "14.90",
+    "navDate": "2026年7月1日",
+    "oneYear": "9.56",
     "shareClass": "A2",
     "slug": "blackrock-global-enhanced-equity-yield-fund-a2-eur-hedged",
-    "threeYear": "49.79",
+    "threeYear": "39.74",
     "url": "https://www.blackrock.com/tw/products/229703/blackrock-global-enhanced-equity-yield-fund-a2-eur-hedged",
-    "ytd": "8.94"
+    "ytd": "5.94"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229703/blackrock-global-enhanced-equity-yield-fund-a2-eur-hedged"

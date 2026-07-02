@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德日本特別時機基金 | A2 避險股份",
-  "pointCount": 3196,
+  "pointCount": 3197,
   "points": [
     [
       "2013-05-15",
@@ -12786,24 +12786,28 @@
     [
       "2026-06-30",
       41.67
+    ],
+    [
+      "2026-07-01",
+      41.54
     ]
   ],
   "product": {
     "classLabel": "A2 USD 避險",
     "currency": "USD",
-    "display": "貝萊德日本特別時機基金｜A2 USD 避險｜淨值 41.67｜2026年6月30日",
+    "display": "貝萊德日本特別時機基金｜A2 USD 避險｜淨值 41.54｜2026年7月1日",
     "hedged": true,
     "id": "253389",
     "inceptionDate": "2013年5月15日",
     "name": "貝萊德日本特別時機基金",
-    "nav": "41.67",
-    "navDate": "2026年6月30日",
-    "oneYear": "52.69",
+    "nav": "41.54",
+    "navDate": "2026年7月1日",
+    "oneYear": "51.42",
     "shareClass": "A2",
     "slug": "blackrock-japan-small-and-midcap-opportunities-fund-a2-usd-hedged",
-    "threeYear": "133.72",
+    "threeYear": "126.96",
     "url": "https://www.blackrock.com/tw/products/253389/blackrock-japan-small-and-midcap-opportunities-fund-a2-usd-hedged",
-    "ytd": "17.51"
+    "ytd": "21.38"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/253389/blackrock-japan-small-and-midcap-opportunities-fund-a2-usd-hedged"

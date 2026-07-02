@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德新興市場債券基金（基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金) | A3",
-  "pointCount": 5264,
+  "pointCount": 5265,
   "points": [
     [
       "2005-07-01",
@@ -21058,24 +21058,28 @@
     [
       "2026-06-30",
       9.92
+    ],
+    [
+      "2026-07-01",
+      9.89
     ]
   ],
   "product": {
     "classLabel": "A3 USD",
     "currency": "USD",
-    "display": "貝萊德新興市場債券基金（基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)｜A3 USD｜淨值 9.92｜2026年6月30日",
+    "display": "貝萊德新興市場債券基金（基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)｜A3 USD｜淨值 9.89｜2026年7月1日",
     "hedged": false,
     "id": "229578",
     "inceptionDate": "2004年10月1日",
     "name": "貝萊德新興市場債券基金（基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)",
-    "nav": "9.92",
-    "navDate": "2026年6月30日",
-    "oneYear": "15.24",
+    "nav": "9.89",
+    "navDate": "2026年7月1日",
+    "oneYear": "13.63",
     "shareClass": "A3",
     "slug": "blackrock-emerging-markets-bond-fund-a3-usd",
-    "threeYear": "47.69",
+    "threeYear": "43.74",
     "url": "https://www.blackrock.com/tw/products/229578/blackrock-emerging-markets-bond-fund-a3-usd",
-    "ytd": "3.60"
+    "ytd": "4.51"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229578/blackrock-emerging-markets-bond-fund-a3-usd"

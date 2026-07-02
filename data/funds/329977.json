@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德世界地產證券基金 (基金之配息來源可能為本金) | A10",
-  "pointCount": 917,
+  "pointCount": 918,
   "points": [
     [
       "2022-10-26",
@@ -3670,18 +3670,22 @@
     [
       "2026-06-30",
       10.35
+    ],
+    [
+      "2026-07-01",
+      10.32
     ]
   ],
   "product": {
     "classLabel": "ID 329977",
     "currency": "",
-    "display": "貝萊德世界地產證券基金 (基金之配息來源可能為本金)｜ID 329977｜淨值 10.35｜2026年6月30日",
+    "display": "貝萊德世界地產證券基金 (基金之配息來源可能為本金)｜ID 329977｜淨值 10.32｜2026年7月1日",
     "hedged": false,
     "id": "329977",
     "inceptionDate": "2022年10月26日",
     "name": "貝萊德世界地產證券基金 (基金之配息來源可能為本金)",
-    "nav": "10.35",
-    "navDate": "2026年6月30日",
+    "nav": "10.32",
+    "navDate": "2026年7月1日",
     "oneYear": "11.86",
     "shareClass": "",
     "slug": "blackrock-world-real-estate-securities-fund",

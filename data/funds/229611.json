@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德歐元市場基金 | A2",
-  "pointCount": 5269,
+  "pointCount": 5270,
   "points": [
     [
       "2005-07-01",
@@ -21078,24 +21078,28 @@
     [
       "2026-06-30",
       57.41
+    ],
+    [
+      "2026-07-01",
+      57.24
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德歐元市場基金｜A2 EUR｜淨值 57.41｜2026年6月30日",
+    "display": "貝萊德歐元市場基金｜A2 EUR｜淨值 57.24｜2026年7月1日",
     "hedged": false,
     "id": "229611",
     "inceptionDate": "1999年1月4日",
     "name": "貝萊德歐元市場基金",
-    "nav": "57.41",
-    "navDate": "2026年6月30日",
-    "oneYear": "10.65",
+    "nav": "57.24",
+    "navDate": "2026年7月1日",
+    "oneYear": "15.35",
     "shareClass": "A2",
     "slug": "blackrock-euro-markets-fund-a2-eur",
-    "threeYear": "40.87",
+    "threeYear": "45.05",
     "url": "https://www.blackrock.com/tw/products/229611/blackrock-euro-markets-fund-a2-eur",
-    "ytd": "6.60"
+    "ytd": "11.39"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229611/blackrock-euro-markets-fund-a2-eur"

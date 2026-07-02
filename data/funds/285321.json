@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德世界地產證券基金 (基金之配息來源可能為本金) | A6",
-  "pointCount": 2428,
+  "pointCount": 2429,
   "points": [
     [
       "2016-10-19",
@@ -9714,24 +9714,28 @@
     [
       "2026-06-30",
       10.36
+    ],
+    [
+      "2026-07-01",
+      10.33
     ]
   ],
   "product": {
     "classLabel": "A6 USD",
     "currency": "USD",
-    "display": "貝萊德世界地產證券基金 (基金之配息來源可能為本金)｜A6 USD｜淨值 10.36｜2026年6月30日",
+    "display": "貝萊德世界地產證券基金 (基金之配息來源可能為本金)｜A6 USD｜淨值 10.33｜2026年7月1日",
     "hedged": false,
     "id": "285321",
     "inceptionDate": "2016年10月19日",
     "name": "貝萊德世界地產證券基金 (基金之配息來源可能為本金)",
-    "nav": "10.36",
-    "navDate": "2026年6月30日",
-    "oneYear": "11.78",
+    "nav": "10.33",
+    "navDate": "2026年7月1日",
+    "oneYear": "11.61",
     "shareClass": "A6",
     "slug": "blackrock-world-real-estate-securities-a6-usd",
-    "threeYear": "30.95",
+    "threeYear": "26.63",
     "url": "https://www.blackrock.com/tw/products/285321/blackrock-world-real-estate-securities-a6-usd",
-    "ytd": "8.15"
+    "ytd": "8.85"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/285321/blackrock-world-real-estate-securities-a6-usd"

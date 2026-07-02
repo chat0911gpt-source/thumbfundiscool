@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德環球企業債券基金 (基金之配息來源可能為本金) | A2 避險股份",
-  "pointCount": 4688,
+  "pointCount": 4689,
   "points": [
     [
       "2007-10-19",
@@ -18754,24 +18754,28 @@
     [
       "2026-06-30",
       12.85
+    ],
+    [
+      "2026-07-01",
+      12.82
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)｜A2 EUR 避險｜淨值 12.85｜2026年6月30日",
+    "display": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)｜A2 EUR 避險｜淨值 12.82｜2026年7月1日",
     "hedged": true,
     "id": "228651",
     "inceptionDate": "2007年10月19日",
     "name": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)",
-    "nav": "12.85",
-    "navDate": "2026年6月30日",
-    "oneYear": "2.89",
+    "nav": "12.82",
+    "navDate": "2026年7月1日",
+    "oneYear": "2.23",
     "shareClass": "A2",
     "slug": "blackrock-global-corporate-bond-fund-a2-eur-hedged",
-    "threeYear": "10.42",
+    "threeYear": "11.16",
     "url": "https://www.blackrock.com/tw/products/228651/blackrock-global-corporate-bond-fund-a2-eur-hedged",
-    "ytd": "-0.08"
+    "ytd": "0.16"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/228651/blackrock-global-corporate-bond-fund-a2-eur-hedged"

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德亞洲巨龍基金 | A2 避險股份",
-  "pointCount": 3058,
+  "pointCount": 3059,
   "points": [
     [
       "2014-02-26",
@@ -12234,24 +12234,28 @@
     [
       "2026-06-30",
       22.46
+    ],
+    [
+      "2026-07-01",
+      22.38
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德亞洲巨龍基金｜A2 AUD 避險｜淨值 22.46｜2026年6月30日",
+    "display": "貝萊德亞洲巨龍基金｜A2 AUD 避險｜淨值 22.38｜2026年7月1日",
     "hedged": true,
     "id": "260723",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德亞洲巨龍基金",
-    "nav": "22.46",
-    "navDate": "2026年6月30日",
-    "oneYear": "54.67",
+    "nav": "22.38",
+    "navDate": "2026年7月1日",
+    "oneYear": "44.07",
     "shareClass": "A2",
     "slug": "bgf-asian-dragon-fund-a2-aud-hedged",
-    "threeYear": "66.29",
+    "threeYear": "62.52",
     "url": "https://www.blackrock.com/tw/products/260723/bgf-asian-dragon-fund-a2-aud-hedged",
-    "ytd": "24.72"
+    "ytd": "25.33"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/260723/bgf-asian-dragon-fund-a2-aud-hedged"

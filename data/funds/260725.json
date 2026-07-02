@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德環球非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金) | A8 避險股份",
-  "pointCount": 3098,
+  "pointCount": 3099,
   "points": [
     [
       "2014-02-19",
@@ -12394,24 +12394,28 @@
     [
       "2026-06-30",
       77.99
+    ],
+    [
+      "2026-07-01",
+      77.97
     ]
   ],
   "product": {
     "classLabel": "避險",
     "currency": "",
-    "display": "貝萊德環球非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)｜避險｜淨值 77.99｜2026年6月30日",
+    "display": "貝萊德環球非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)｜避險｜淨值 77.97｜2026年7月1日",
     "hedged": true,
     "id": "260725",
     "inceptionDate": "2014年2月19日",
     "name": "貝萊德環球非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金)",
-    "nav": "77.99",
-    "navDate": "2026年6月30日",
-    "oneYear": "9.55",
+    "nav": "77.97",
+    "navDate": "2026年7月1日",
+    "oneYear": "8.30",
     "shareClass": "",
     "slug": "bgf-global-high-yield-bond-fund-a8-zar-hedged",
-    "threeYear": "38.51",
+    "threeYear": "37.29",
     "url": "https://www.blackrock.com/tw/products/260725/bgf-global-high-yield-bond-fund-a8-zar-hedged",
-    "ytd": "2.36"
+    "ytd": "2.89"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/260725/bgf-global-high-yield-bond-fund-a8-zar-hedged"

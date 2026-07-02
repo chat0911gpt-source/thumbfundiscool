@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德世界債券基金（原名「貝萊德世界債券基金(本基金非屬環境、社會及治理相關主題基金) 」） | A3",
-  "pointCount": 5267,
+  "pointCount": 5268,
   "points": [
     [
       "2005-07-01",
@@ -21070,24 +21070,28 @@
     [
       "2026-06-30",
       53.51
+    ],
+    [
+      "2026-07-01",
+      53.37
     ]
   ],
   "product": {
     "classLabel": "A3 USD",
     "currency": "USD",
-    "display": "貝萊德世界債券基金（原名「貝萊德世界債券基金(本基金非屬環境、社會及治理相關主題基金) 」）｜A3 USD｜淨值 53.51｜2026年6月30日",
+    "display": "貝萊德世界債券基金（原名「貝萊德世界債券基金(本基金非屬環境、社會及治理相關主題基金) 」）｜A3 USD｜淨值 53.37｜2026年7月1日",
     "hedged": false,
     "id": "228499",
     "inceptionDate": "2004年4月2日",
     "name": "貝萊德世界債券基金（原名「貝萊德世界債券基金(本基金非屬環境、社會及治理相關主題基金) 」）",
-    "nav": "53.51",
-    "navDate": "2026年6月30日",
-    "oneYear": "3.47",
+    "nav": "53.37",
+    "navDate": "2026年7月1日",
+    "oneYear": "3.01",
     "shareClass": "A3",
     "slug": "blackrock-world-bond-fund-a3-usd",
-    "threeYear": "12.78",
+    "threeYear": "13.34",
     "url": "https://www.blackrock.com/tw/products/228499/blackrock-world-bond-fund-a3-usd",
-    "ytd": "0.24"
+    "ytd": "0.82"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/228499/blackrock-world-bond-fund-a3-usd"

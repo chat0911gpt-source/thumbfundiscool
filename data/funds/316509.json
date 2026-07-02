@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德世界科技基金（基金之配息來源可能為本金） | A2 避險股份",
-  "pointCount": 1404,
+  "pointCount": 1405,
   "points": [
     [
       "2020-11-19",
@@ -5618,24 +5618,28 @@
     [
       "2026-06-30",
       21.26
+    ],
+    [
+      "2026-07-01",
+      20.93
     ]
   ],
   "product": {
     "classLabel": "ID 316509",
     "currency": "",
-    "display": "貝萊德世界科技基金（基金之配息來源可能為本金）｜ID 316509｜淨值 21.26｜2026年6月30日",
+    "display": "貝萊德世界科技基金（基金之配息來源可能為本金）｜ID 316509｜淨值 20.93｜2026年7月1日",
     "hedged": false,
     "id": "316509",
     "inceptionDate": "2020年11月18日",
     "name": "貝萊德世界科技基金（基金之配息來源可能為本金）",
-    "nav": "21.26",
-    "navDate": "2026年6月30日",
-    "oneYear": "65.93",
+    "nav": "20.93",
+    "navDate": "2026年7月1日",
+    "oneYear": "53.84",
     "shareClass": "",
     "slug": "blackrock-world-technology-fund",
-    "threeYear": "141.78",
+    "threeYear": "134.66",
     "url": "https://www.blackrock.com/tw/products/316509/blackrock-world-technology-fund",
-    "ytd": "38.25"
+    "ytd": "40.70"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/316509/blackrock-world-technology-fund"

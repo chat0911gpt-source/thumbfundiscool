@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德亞洲老虎債券基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金) | A8 避險股份",
-  "pointCount": 3343,
+  "pointCount": 3344,
   "points": [
     [
       "2013-02-22",
@@ -13374,24 +13374,28 @@
     [
       "2026-06-30",
       8.06
+    ],
+    [
+      "2026-07-01",
+      8.05
     ]
   ],
   "product": {
     "classLabel": "A8 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德亞洲老虎債券基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)｜A8 AUD 避險｜淨值 8.06｜2026年6月30日",
+    "display": "貝萊德亞洲老虎債券基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)｜A8 AUD 避險｜淨值 8.05｜2026年7月1日",
     "hedged": true,
     "id": "246706",
     "inceptionDate": "2013年2月20日",
     "name": "貝萊德亞洲老虎債券基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)",
-    "nav": "8.06",
-    "navDate": "2026年6月30日",
-    "oneYear": "7.39",
+    "nav": "8.05",
+    "navDate": "2026年7月1日",
+    "oneYear": "6.21",
     "shareClass": "A8",
     "slug": "blackrock-asian-tiger-bond-fund-a8-aud-hedged",
-    "threeYear": "18.51",
+    "threeYear": "18.94",
     "url": "https://www.blackrock.com/tw/products/246706/blackrock-asian-tiger-bond-fund-a8-aud-hedged",
-    "ytd": "0.95"
+    "ytd": "1.33"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/246706/blackrock-asian-tiger-bond-fund-a8-aud-hedged"
