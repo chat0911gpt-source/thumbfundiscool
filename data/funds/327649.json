@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金） | A累積類型 前收",
-  "pointCount": 913,
+  "pointCount": 914,
   "points": [
     [
       "2022-06-17",
@@ -3654,18 +3654,22 @@
     [
       "2026-07-01",
       16.68
+    ],
+    [
+      "2026-07-02",
+      16.68
     ]
   ],
   "product": {
     "classLabel": "ID 327649",
     "currency": "",
-    "display": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）｜ID 327649｜淨值 16.68｜2026年7月1日",
+    "display": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）｜ID 327649｜淨值 16.68｜2026年7月2日",
     "hedged": false,
     "id": "327649",
     "inceptionDate": "2022年6月17日",
     "name": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）",
     "nav": "16.68",
-    "navDate": "2026年7月1日",
+    "navDate": "2026年7月2日",
     "oneYear": "14.26",
     "shareClass": "",
     "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
