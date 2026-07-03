@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德美國中型企業價值基金 | A2 避險股份",
-  "pointCount": 3092,
+  "pointCount": 3093,
   "points": [
     [
       "2014-02-26",
@@ -12370,24 +12370,28 @@
     [
       "2026-07-01",
       23.99
+    ],
+    [
+      "2026-07-02",
+      24.24
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德美國中型企業價值基金｜A2 AUD 避險｜淨值 23.99｜2026年7月1日",
+    "display": "貝萊德美國中型企業價值基金｜A2 AUD 避險｜淨值 24.24｜2026年7月2日",
     "hedged": true,
     "id": "260714",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德美國中型企業價值基金",
-    "nav": "23.99",
-    "navDate": "2026年7月1日",
-    "oneYear": "19.79",
+    "nav": "24.24",
+    "navDate": "2026年7月2日",
+    "oneYear": "19.29",
     "shareClass": "A2",
     "slug": "bgf-us-small-and-midcap-opportunities-fund-a2-aud-hedged",
-    "threeYear": "39.61",
+    "threeYear": "35.12",
     "url": "https://www.blackrock.com/tw/products/260714/bgf-us-small-and-midcap-opportunities-fund-a2-aud-hedged",
-    "ytd": "7.58"
+    "ytd": "11.35"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/260714/bgf-us-small-and-midcap-opportunities-fund-a2-aud-hedged"

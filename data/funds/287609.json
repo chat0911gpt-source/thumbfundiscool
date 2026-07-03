@@ -8063,19 +8063,19 @@
   "product": {
     "classLabel": "ID 287609",
     "currency": "",
-    "display": "貝萊德全方位資產收益組合基金 (基金有相當比重投資於非投資等級之高風險債券基金且配息來源可能為本金)｜ID 287609｜淨值 15.57｜2026年6月30日",
+    "display": "貝萊德全方位資產收益組合基金 (基金有相當比重投資於非投資等級之高風險債券基金且配息來源可能為本金)｜ID 287609｜淨值 15.57｜2026年7月1日",
     "hedged": false,
     "id": "287609",
     "inceptionDate": "2017年7月10日",
     "name": "貝萊德全方位資產收益組合基金 (基金有相當比重投資於非投資等級之高風險債券基金且配息來源可能為本金)",
     "nav": "15.57",
-    "navDate": "2026年6月30日",
-    "oneYear": "18.81",
+    "navDate": "2026年7月1日",
+    "oneYear": "17.42",
     "shareClass": "",
     "slug": "blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-acc",
-    "threeYear": "40.09",
+    "threeYear": "36.58",
     "url": "https://www.blackrock.com/tw/products/287609/blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-acc",
-    "ytd": "5.26"
+    "ytd": "6.35"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/287609/blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-acc"

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德全球股票收益基金 (基金之配息來源可能為本金) | A6",
-  "pointCount": 3610,
+  "pointCount": 3611,
   "points": [
     [
       "2012-02-01",
@@ -14442,24 +14442,28 @@
     [
       "2026-07-01",
       19.81
+    ],
+    [
+      "2026-07-02",
+      19.99
     ]
   ],
   "product": {
     "classLabel": "A6 USD",
     "currency": "USD",
-    "display": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)｜A6 USD｜淨值 19.81｜2026年7月1日",
+    "display": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)｜A6 USD｜淨值 19.99｜2026年7月2日",
     "hedged": false,
     "id": "229727",
     "inceptionDate": "2012年2月1日",
     "name": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)",
-    "nav": "19.81",
-    "navDate": "2026年7月1日",
-    "oneYear": "23.39",
+    "nav": "19.99",
+    "navDate": "2026年7月2日",
+    "oneYear": "17.30",
     "shareClass": "A6",
     "slug": "blackrock-global-equity-income-fund-a6-usd",
-    "threeYear": "49.41",
+    "threeYear": "41.79",
     "url": "https://www.blackrock.com/tw/products/229727/blackrock-global-equity-income-fund-a6-usd",
-    "ytd": "8.51"
+    "ytd": "7.05"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229727/blackrock-global-equity-income-fund-a6-usd"

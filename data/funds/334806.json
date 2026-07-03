@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德新興市場中國除外基金（原名「貝萊德新興歐洲基金II」） | C2 避險股份",
-  "pointCount": 533,
+  "pointCount": 534,
   "points": [
     [
       "2024-05-13",
@@ -2134,24 +2134,28 @@
     [
       "2026-07-01",
       87.55
+    ],
+    [
+      "2026-07-02",
+      86.74
     ]
   ],
   "product": {
     "classLabel": "ID 334806",
     "currency": "",
-    "display": "貝萊德新興市場中國除外基金（原名「貝萊德新興歐洲基金II」）｜ID 334806｜淨值 87.55｜2026年7月1日",
+    "display": "貝萊德新興市場中國除外基金（原名「貝萊德新興歐洲基金II」）｜ID 334806｜淨值 86.74｜2026年7月2日",
     "hedged": false,
     "id": "334806",
     "inceptionDate": "2024年5月13日",
     "name": "貝萊德新興市場中國除外基金（原名「貝萊德新興歐洲基金II」）",
-    "nav": "87.55",
-    "navDate": "2026年7月1日",
-    "oneYear": "69.10",
+    "nav": "86.74",
+    "navDate": "2026年7月2日",
+    "oneYear": "59.52",
     "shareClass": "",
     "slug": "emerging-markets-ex-china-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/334806/emerging-markets-ex-china-fund",
-    "ytd": "41.07"
+    "ytd": "41.10"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/334806/emerging-markets-ex-china-fund"

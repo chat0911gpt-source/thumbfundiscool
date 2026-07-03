@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德全球智慧數據股票入息基金 (基金之配息來源可能為本金且並無保證收益及配息) | B6 避險股份",
-  "pointCount": 562,
+  "pointCount": 563,
   "points": [
     [
       "2024-03-27",
@@ -2250,24 +2250,28 @@
     [
       "2026-07-01",
       979.0
+    ],
+    [
+      "2026-07-02",
+      990.0
     ]
   ],
   "product": {
     "classLabel": "ID 336567",
     "currency": "",
-    "display": "貝萊德全球智慧數據股票入息基金 (基金之配息來源可能為本金且並無保證收益及配息)｜ID 336567｜淨值 979.00｜2026年7月1日",
+    "display": "貝萊德全球智慧數據股票入息基金 (基金之配息來源可能為本金且並無保證收益及配息)｜ID 336567｜淨值 990.00｜2026年7月2日",
     "hedged": false,
     "id": "336567",
     "inceptionDate": "2024年3月27日",
     "name": "貝萊德全球智慧數據股票入息基金 (基金之配息來源可能為本金且並無保證收益及配息)",
-    "nav": "979.00",
-    "navDate": "2026年7月1日",
-    "oneYear": "12.19",
+    "nav": "990.00",
+    "navDate": "2026年7月2日",
+    "oneYear": "6.94",
     "shareClass": "",
     "slug": "blackrock-systematic-global-equity-high-income-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/336567/blackrock-systematic-global-equity-high-income-fund",
-    "ytd": "7.89"
+    "ytd": "4.67"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/336567/blackrock-systematic-global-equity-high-income-fund"

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德智慧數據收益成長基金（基金之配息來源可能為本金） | A2",
-  "pointCount": 942,
+  "pointCount": 943,
   "points": [
     [
       "2022-09-22",
@@ -3770,18 +3770,22 @@
     [
       "2026-07-01",
       14.92
+    ],
+    [
+      "2026-07-02",
+      15.03
     ]
   ],
   "product": {
     "classLabel": "ID 329164",
     "currency": "",
-    "display": "貝萊德智慧數據收益成長基金（基金之配息來源可能為本金）｜ID 329164｜淨值 14.92｜2026年7月1日",
+    "display": "貝萊德智慧數據收益成長基金（基金之配息來源可能為本金）｜ID 329164｜淨值 15.03｜2026年7月2日",
     "hedged": false,
     "id": "329164",
     "inceptionDate": "2022年9月22日",
     "name": "貝萊德智慧數據收益成長基金（基金之配息來源可能為本金）",
-    "nav": "14.92",
-    "navDate": "2026年7月1日",
+    "nav": "15.03",
+    "navDate": "2026年7月2日",
     "oneYear": "10.26",
     "shareClass": "",
     "slug": "blackrock-systematic-global-income-growth-fund",

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-06-30",
+  "latestDate": "2026-07-01",
   "pageName": "貝萊德享退休系列2030目標日期組合基金 | 累積類型",
-  "pointCount": 1809,
+  "pointCount": 1810,
   "points": [
     [
       "2018-07-25",
@@ -7238,24 +7238,28 @@
     [
       "2026-06-30",
       14.17
+    ],
+    [
+      "2026-07-01",
+      14.13
     ]
   ],
   "product": {
     "classLabel": "ID 297801",
     "currency": "",
-    "display": "貝萊德享退休系列2030目標日期組合基金｜ID 297801｜淨值 14.17｜2026年6月30日",
+    "display": "貝萊德享退休系列2030目標日期組合基金｜ID 297801｜淨值 14.13｜2026年7月1日",
     "hedged": false,
     "id": "297801",
     "inceptionDate": "2018年7月25日",
     "name": "貝萊德享退休系列2030目標日期組合基金",
-    "nav": "14.17",
-    "navDate": "2026年6月30日",
-    "oneYear": "20.60",
+    "nav": "14.13",
+    "navDate": "2026年7月1日",
+    "oneYear": "19.28",
     "shareClass": "",
     "slug": "blackrock-lifepath-series-2030-target-date-fund-of-funds-aggregate",
-    "threeYear": "36.89",
+    "threeYear": "34.44",
     "url": "https://www.blackrock.com/tw/products/297801/blackrock-lifepath-series-2030-target-date-fund-of-funds-aggregate",
-    "ytd": "6.47"
+    "ytd": "7.84"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/297801/blackrock-lifepath-series-2030-target-date-fund-of-funds-aggregate"

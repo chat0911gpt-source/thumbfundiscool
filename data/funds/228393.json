@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金） | A6",
-  "pointCount": 3609,
+  "pointCount": 3610,
   "points": [
     [
       "2012-02-01",
@@ -14438,24 +14438,28 @@
     [
       "2026-07-01",
       4.29
+    ],
+    [
+      "2026-07-02",
+      4.3
     ]
   ],
   "product": {
     "classLabel": "A6 USD",
     "currency": "USD",
-    "display": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金）｜A6 USD｜淨值 4.29｜2026年7月1日",
+    "display": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金）｜A6 USD｜淨值 4.30｜2026年7月2日",
     "hedged": false,
     "id": "228393",
     "inceptionDate": "2012年2月1日",
     "name": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金）",
-    "nav": "4.29",
-    "navDate": "2026年7月1日",
-    "oneYear": "6.89",
+    "nav": "4.30",
+    "navDate": "2026年7月2日",
+    "oneYear": "5.43",
     "shareClass": "A6",
     "slug": "blackrock-us-dollar-high-yield-bond-fund-a6-usd",
-    "threeYear": "27.73",
+    "threeYear": "26.30",
     "url": "https://www.blackrock.com/tw/products/228393/blackrock-us-dollar-high-yield-bond-fund-a6-usd",
-    "ytd": "1.17"
+    "ytd": "1.31"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/228393/blackrock-us-dollar-high-yield-bond-fund-a6-usd"

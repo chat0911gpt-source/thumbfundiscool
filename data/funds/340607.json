@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德世界礦業基金（基金之配息來源可能為本金） | B10",
-  "pointCount": 379,
+  "pointCount": 380,
   "points": [
     [
       "2024-12-18",
@@ -1518,24 +1518,28 @@
     [
       "2026-07-01",
       15.37
+    ],
+    [
+      "2026-07-02",
+      15.62
     ]
   ],
   "product": {
     "classLabel": "ID 340607",
     "currency": "",
-    "display": "貝萊德世界礦業基金（基金之配息來源可能為本金）｜ID 340607｜淨值 15.37｜2026年7月1日",
+    "display": "貝萊德世界礦業基金（基金之配息來源可能為本金）｜ID 340607｜淨值 15.62｜2026年7月2日",
     "hedged": false,
     "id": "340607",
     "inceptionDate": "2024年12月18日",
     "name": "貝萊德世界礦業基金（基金之配息來源可能為本金）",
-    "nav": "15.37",
-    "navDate": "2026年7月1日",
-    "oneYear": "77.17",
+    "nav": "15.62",
+    "navDate": "2026年7月2日",
+    "oneYear": "50.79",
     "shareClass": "",
     "slug": "blackrock-world-mining-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/340607/blackrock-world-mining-fund",
-    "ytd": "18.29"
+    "ytd": "4.28"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/340607/blackrock-world-mining-fund"

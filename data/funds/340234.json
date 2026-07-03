@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德多元收益成長基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金) | A8 避險股份",
-  "pointCount": 394,
+  "pointCount": 395,
   "points": [
     [
       "2024-11-27",
@@ -1578,24 +1578,28 @@
     [
       "2026-07-01",
       102.55
+    ],
+    [
+      "2026-07-02",
+      103.26
     ]
   ],
   "product": {
     "classLabel": "ID 340234",
     "currency": "",
-    "display": "貝萊德多元收益成長基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)｜ID 340234｜淨值 102.55｜2026年7月1日",
+    "display": "貝萊德多元收益成長基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)｜ID 340234｜淨值 103.26｜2026年7月2日",
     "hedged": false,
     "id": "340234",
     "inceptionDate": "2024年11月27日",
     "name": "貝萊德多元收益成長基金 (基金有相當比重投資於非投資等級之高風險債券且配息來源可能為本金)",
-    "nav": "102.55",
-    "navDate": "2026年7月1日",
-    "oneYear": "15.93",
+    "nav": "103.26",
+    "navDate": "2026年7月2日",
+    "oneYear": "12.68",
     "shareClass": "",
     "slug": "blackrock-dynamic-high-income-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/340234/blackrock-dynamic-high-income-fund",
-    "ytd": "5.63"
+    "ytd": "5.59"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/340234/blackrock-dynamic-high-income-fund"

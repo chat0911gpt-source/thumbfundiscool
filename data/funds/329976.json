@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德中國基金(基金之配息來源可能為本金） | A10",
-  "pointCount": 903,
+  "pointCount": 904,
   "points": [
     [
       "2022-10-26",
@@ -3614,24 +3614,28 @@
     [
       "2026-07-01",
       11.51
+    ],
+    [
+      "2026-07-02",
+      11.3
     ]
   ],
   "product": {
     "classLabel": "ID 329976",
     "currency": "",
-    "display": "貝萊德中國基金(基金之配息來源可能為本金）｜ID 329976｜淨值 11.51｜2026年7月1日",
+    "display": "貝萊德中國基金(基金之配息來源可能為本金）｜ID 329976｜淨值 11.30｜2026年7月2日",
     "hedged": false,
     "id": "329976",
     "inceptionDate": "2022年10月26日",
     "name": "貝萊德中國基金(基金之配息來源可能為本金）",
-    "nav": "11.51",
-    "navDate": "2026年7月1日",
-    "oneYear": "18.25",
+    "nav": "11.30",
+    "navDate": "2026年7月2日",
+    "oneYear": "9.16",
     "shareClass": "",
     "slug": "blackrock-china-fund",
-    "threeYear": "44.48",
+    "threeYear": "34.54",
     "url": "https://www.blackrock.com/tw/products/329976/blackrock-china-fund",
-    "ytd": "3.93"
+    "ytd": "0.14"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/329976/blackrock-china-fund"

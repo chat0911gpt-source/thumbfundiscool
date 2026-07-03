@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-01",
+  "latestDate": "2026-07-02",
   "pageName": "貝萊德拉丁美洲基金 | A2",
-  "pointCount": 5267,
+  "pointCount": 5268,
   "points": [
     [
       "2005-07-01",
@@ -21070,18 +21070,22 @@
     [
       "2026-07-01",
       80.1
+    ],
+    [
+      "2026-07-02",
+      81.21
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德拉丁美洲基金｜A2 USD｜淨值 80.10｜2026年7月1日",
+    "display": "貝萊德拉丁美洲基金｜A2 USD｜淨值 81.21｜2026年7月2日",
     "hedged": false,
     "id": "229286",
     "inceptionDate": "1997年1月9日",
     "name": "貝萊德拉丁美洲基金",
-    "nav": "80.10",
-    "navDate": "2026年7月1日",
+    "nav": "81.21",
+    "navDate": "2026年7月2日",
     "oneYear": "12.34",
     "shareClass": "A2",
     "slug": "blackrock-latin-american-fund-a2-usd",
