@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-02",
+  "latestDate": "2026-07-03",
   "pageName": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金） | A3",
-  "pointCount": 5269,
+  "pointCount": 5270,
   "points": [
     [
       "2005-07-01",
@@ -21078,18 +21078,22 @@
     [
       "2026-07-02",
       5.58
+    ],
+    [
+      "2026-07-03",
+      5.59
     ]
   ],
   "product": {
     "classLabel": "A3 USD",
     "currency": "USD",
-    "display": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金）｜A3 USD｜淨值 5.58｜2026年7月2日",
+    "display": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金）｜A3 USD｜淨值 5.59｜2026年7月3日",
     "hedged": false,
     "id": "228409",
     "inceptionDate": "2003年10月24日",
     "name": "貝萊德美元非投資等級債券基金（本基金主要投資於符合美國Rule 144A規定之私募性質債券且配息來源可能為本金）",
-    "nav": "5.58",
-    "navDate": "2026年7月2日",
+    "nav": "5.59",
+    "navDate": "2026年7月3日",
     "oneYear": "5.34",
     "shareClass": "A3",
     "slug": "blackrock-us-dollar-high-yield-bond-fund-a3-usd",
