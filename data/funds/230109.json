@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-06",
+  "latestDate": "2026-07-07",
   "pageName": "貝萊德環球資產配置基金 (基金之配息來源可能為本金) | A2 避險股份",
-  "pointCount": 3518,
+  "pointCount": 3519,
   "points": [
     [
       "2012-06-13",
@@ -14074,18 +14074,22 @@
     [
       "2026-07-06",
       22.41
+    ],
+    [
+      "2026-07-07",
+      22.32
     ]
   ],
   "product": {
     "classLabel": "A2 HKD 避險",
     "currency": "HKD",
-    "display": "貝萊德環球資產配置基金 (基金之配息來源可能為本金)｜A2 HKD 避險｜淨值 22.41｜2026年7月6日",
+    "display": "貝萊德環球資產配置基金 (基金之配息來源可能為本金)｜A2 HKD 避險｜淨值 22.32｜2026年7月7日",
     "hedged": true,
     "id": "230109",
     "inceptionDate": "2012年6月13日",
     "name": "貝萊德環球資產配置基金 (基金之配息來源可能為本金)",
-    "nav": "22.41",
-    "navDate": "2026年7月6日",
+    "nav": "22.32",
+    "navDate": "2026年7月7日",
     "oneYear": "12.18",
     "shareClass": "A2",
     "slug": "blackrock-global-allocation-fund-a2-hkd-hedged",

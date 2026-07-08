@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-06",
+  "latestDate": "2026-07-07",
   "pageName": "貝萊德全球股票收益基金 (基金之配息來源可能為本金) | A2 避險股份",
-  "pointCount": 3771,
+  "pointCount": 3772,
   "points": [
     [
       "2011-06-17",
@@ -15086,18 +15086,22 @@
     [
       "2026-07-06",
       21.86
+    ],
+    [
+      "2026-07-07",
+      21.87
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)｜A2 EUR 避險｜淨值 21.86｜2026年7月6日",
+    "display": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)｜A2 EUR 避險｜淨值 21.87｜2026年7月7日",
     "hedged": true,
     "id": "229731",
     "inceptionDate": "2011年6月17日",
     "name": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)",
-    "nav": "21.86",
-    "navDate": "2026年7月6日",
+    "nav": "21.87",
+    "navDate": "2026年7月7日",
     "oneYear": "14.47",
     "shareClass": "A2",
     "slug": "blackrock-global-equity-income-fund-a2-eur-hedged",
