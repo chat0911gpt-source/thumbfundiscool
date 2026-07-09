@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-07",
+  "latestDate": "2026-07-08",
   "pageName": "貝萊德世界黃金基金（基金之配息來源可能為本金） | A2",
-  "pointCount": 5274,
+  "pointCount": 5275,
   "points": [
     [
       "2005-07-01",
@@ -21098,18 +21098,22 @@
     [
       "2026-07-07",
       79.47
+    ],
+    [
+      "2026-07-08",
+      76.59
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德世界黃金基金（基金之配息來源可能為本金）｜A2 EUR｜淨值 79.47｜2026年7月7日",
+    "display": "貝萊德世界黃金基金（基金之配息來源可能為本金）｜A2 EUR｜淨值 76.59｜2026年7月8日",
     "hedged": false,
     "id": "229332",
     "inceptionDate": "2001年4月5日",
     "name": "貝萊德世界黃金基金（基金之配息來源可能為本金）",
-    "nav": "79.47",
-    "navDate": "2026年7月7日",
+    "nav": "76.59",
+    "navDate": "2026年7月8日",
     "oneYear": "54.89",
     "shareClass": "A2",
     "slug": "blackrock-world-gold-fund-a2-eur",
