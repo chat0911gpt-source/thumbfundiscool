@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-08",
+  "latestDate": "2026-07-09",
   "pageName": "貝萊德環球企業債券基金 (基金之配息來源可能為本金) | A10 避險股份",
-  "pointCount": 634,
+  "pointCount": 635,
   "points": [
     [
       "2023-12-20",
@@ -2538,18 +2538,22 @@
     [
       "2026-07-08",
       95.91
+    ],
+    [
+      "2026-07-09",
+      96.02
     ]
   ],
   "product": {
     "classLabel": "ID 334755",
     "currency": "",
-    "display": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)｜ID 334755｜淨值 95.91｜2026年7月8日",
+    "display": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)｜ID 334755｜淨值 96.02｜2026年7月9日",
     "hedged": false,
     "id": "334755",
     "inceptionDate": "2023年12月20日",
     "name": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)",
-    "nav": "95.91",
-    "navDate": "2026年7月8日",
+    "nav": "96.02",
+    "navDate": "2026年7月9日",
     "oneYear": "6.89",
     "shareClass": "",
     "slug": "blackrock-global-corporate-bond-fund",

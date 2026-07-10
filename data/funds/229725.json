@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-08",
+  "latestDate": "2026-07-09",
   "pageName": "貝萊德全球股票收益基金 (基金之配息來源可能為本金) | A2",
-  "pointCount": 3923,
+  "pointCount": 3924,
   "points": [
     [
       "2010-11-12",
@@ -15694,18 +15694,22 @@
     [
       "2026-07-08",
       30.39
+    ],
+    [
+      "2026-07-09",
+      30.4
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)｜A2 USD｜淨值 30.39｜2026年7月8日",
+    "display": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)｜A2 USD｜淨值 30.40｜2026年7月9日",
     "hedged": false,
     "id": "229725",
     "inceptionDate": "2010年11月12日",
     "name": "貝萊德全球股票收益基金 (基金之配息來源可能為本金)",
-    "nav": "30.39",
-    "navDate": "2026年7月8日",
+    "nav": "30.40",
+    "navDate": "2026年7月9日",
     "oneYear": "17.28",
     "shareClass": "A2",
     "slug": "blackrock-global-equity-income-fund-a2-usd",
