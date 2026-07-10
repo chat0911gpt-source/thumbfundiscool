@@ -4268,6 +4268,57 @@
       "ytd": "11.72"
     },
     {
+      "classLabel": "ID 351991",
+      "currency": "",
+      "display": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）｜ID 351991｜淨值 10.00｜2026年7月8日",
+      "hedged": false,
+      "id": "351991",
+      "inceptionDate": "2026年7月1日",
+      "name": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）",
+      "nav": "10.00",
+      "navDate": "2026年7月8日",
+      "oneYear": "-",
+      "shareClass": "",
+      "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/351991/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
+      "ytd": "-"
+    },
+    {
+      "classLabel": "ID 351992",
+      "currency": "",
+      "display": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）｜ID 351992｜淨值 10.00｜2026年7月8日",
+      "hedged": false,
+      "id": "351992",
+      "inceptionDate": "2026年7月1日",
+      "name": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）",
+      "nav": "10.00",
+      "navDate": "2026年7月8日",
+      "oneYear": "-",
+      "shareClass": "",
+      "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/351992/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
+      "ytd": "-"
+    },
+    {
+      "classLabel": "ID 351993",
+      "currency": "",
+      "display": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）｜ID 351993｜淨值 10.00｜2026年7月8日",
+      "hedged": false,
+      "id": "351993",
+      "inceptionDate": "2026年7月1日",
+      "name": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）",
+      "nav": "10.00",
+      "navDate": "2026年7月8日",
+      "oneYear": "-",
+      "shareClass": "",
+      "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/351993/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
+      "ytd": "-"
+    },
+    {
       "classLabel": "A2 EUR 避險",
       "currency": "EUR",
       "display": "貝萊德環球政府債券基金｜A2 EUR 避險｜淨值 23.25｜2026年7月9日",
@@ -5442,5 +5493,5 @@
     }
   ],
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-07-10T04:29:40+00:00"
+  "updatedAt": "2026-07-10T08:46:04+00:00"
 }
