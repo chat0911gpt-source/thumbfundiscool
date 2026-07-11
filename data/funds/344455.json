@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-09",
+  "latestDate": "2026-07-10",
   "pageName": "貝萊德世界金融基金（基金之配息來源可能為本金） | B2",
-  "pointCount": 246,
+  "pointCount": 247,
   "points": [
     [
       "2025-07-16",
@@ -986,18 +986,22 @@
     [
       "2026-07-09",
       11.84
+    ],
+    [
+      "2026-07-10",
+      12.0
     ]
   ],
   "product": {
     "classLabel": "ID 344455",
     "currency": "",
-    "display": "貝萊德世界金融基金（基金之配息來源可能為本金）｜ID 344455｜淨值 11.84｜2026年7月9日",
+    "display": "貝萊德世界金融基金（基金之配息來源可能為本金）｜ID 344455｜淨值 12.00｜2026年7月10日",
     "hedged": false,
     "id": "344455",
     "inceptionDate": "2025年7月16日",
     "name": "貝萊德世界金融基金（基金之配息來源可能為本金）",
-    "nav": "11.84",
-    "navDate": "2026年7月9日",
+    "nav": "12.00",
+    "navDate": "2026年7月10日",
     "oneYear": "-",
     "shareClass": "",
     "slug": "blackrock-world-financials-fund",

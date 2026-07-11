@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-09",
+  "latestDate": "2026-07-10",
   "pageName": "貝萊德環球資產配置基金 (基金之配息來源可能為本金) | B10",
-  "pointCount": 568,
+  "pointCount": 569,
   "points": [
     [
       "2024-03-27",
@@ -2274,18 +2274,22 @@
     [
       "2026-07-09",
       10.87
+    ],
+    [
+      "2026-07-10",
+      10.89
     ]
   ],
   "product": {
     "classLabel": "ID 336572",
     "currency": "",
-    "display": "貝萊德環球資產配置基金 (基金之配息來源可能為本金)｜ID 336572｜淨值 10.87｜2026年7月9日",
+    "display": "貝萊德環球資產配置基金 (基金之配息來源可能為本金)｜ID 336572｜淨值 10.89｜2026年7月10日",
     "hedged": false,
     "id": "336572",
     "inceptionDate": "2024年3月27日",
     "name": "貝萊德環球資產配置基金 (基金之配息來源可能為本金)",
-    "nav": "10.87",
-    "navDate": "2026年7月9日",
+    "nav": "10.89",
+    "navDate": "2026年7月10日",
     "oneYear": "13.04",
     "shareClass": "",
     "slug": "blackrock-global-allocation-fund",
