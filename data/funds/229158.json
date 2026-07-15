@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-13",
+  "latestDate": "2026-07-14",
   "pageName": "貝萊德歐洲價值型基金 | A2",
-  "pointCount": 5279,
+  "pointCount": 5280,
   "points": [
     [
       "1999-01-04",
@@ -21118,18 +21118,22 @@
     [
       "2026-07-13",
       156.01
+    ],
+    [
+      "2026-07-14",
+      156.64
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德歐洲價值型基金｜A2 USD｜淨值 156.01｜2026年7月13日",
+    "display": "貝萊德歐洲價值型基金｜A2 USD｜淨值 156.64｜2026年7月14日",
     "hedged": false,
     "id": "229158",
     "inceptionDate": "1997年1月9日",
     "name": "貝萊德歐洲價值型基金",
-    "nav": "156.01",
-    "navDate": "2026年7月13日",
+    "nav": "156.64",
+    "navDate": "2026年7月14日",
     "oneYear": "17.04",
     "shareClass": "A2",
     "slug": "blackrock-european-value-fund-a2-usd",
