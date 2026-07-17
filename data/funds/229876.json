@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-15",
+  "latestDate": "2026-07-16",
   "pageName": "貝萊德永續能源基金（基金之配息來源可能為本金） | C2",
-  "pointCount": 5278,
+  "pointCount": 5279,
   "points": [
     [
       "2005-07-01",
@@ -21114,18 +21114,22 @@
     [
       "2026-07-15",
       18.03
+    ],
+    [
+      "2026-07-16",
+      17.62
     ]
   ],
   "product": {
     "classLabel": "C2 USD",
     "currency": "USD",
-    "display": "貝萊德永續能源基金（基金之配息來源可能為本金）｜C2 USD｜淨值 18.03｜2026年7月15日",
+    "display": "貝萊德永續能源基金（基金之配息來源可能為本金）｜C2 USD｜淨值 17.62｜2026年7月16日",
     "hedged": false,
     "id": "229876",
     "inceptionDate": "2002年7月1日",
     "name": "貝萊德永續能源基金（基金之配息來源可能為本金）",
-    "nav": "18.03",
-    "navDate": "2026年7月15日",
+    "nav": "17.62",
+    "navDate": "2026年7月16日",
     "oneYear": "45.89",
     "shareClass": "C2",
     "slug": "blackrock-new-energy-fund-c2-usd",
