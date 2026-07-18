@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-16",
+  "latestDate": "2026-07-17",
   "pageName": "貝萊德ESG社會責任多元資產基金(基金之配息來源可能為本金） | A2 避險股份",
-  "pointCount": 1416,
+  "pointCount": 1417,
   "points": [
     [
       "2020-11-19",
@@ -5666,18 +5666,22 @@
     [
       "2026-07-16",
       13.6
+    ],
+    [
+      "2026-07-17",
+      13.51
     ]
   ],
   "product": {
     "classLabel": "ID 316510",
     "currency": "",
-    "display": "貝萊德ESG社會責任多元資產基金(基金之配息來源可能為本金）｜ID 316510｜淨值 13.60｜2026年7月16日",
+    "display": "貝萊德ESG社會責任多元資產基金(基金之配息來源可能為本金）｜ID 316510｜淨值 13.51｜2026年7月17日",
     "hedged": false,
     "id": "316510",
     "inceptionDate": "2020年11月18日",
     "name": "貝萊德ESG社會責任多元資產基金(基金之配息來源可能為本金）",
-    "nav": "13.60",
-    "navDate": "2026年7月16日",
+    "nav": "13.51",
+    "navDate": "2026年7月17日",
     "oneYear": "18.94",
     "shareClass": "",
     "slug": "blackrock-esg-multi-asset-fund",

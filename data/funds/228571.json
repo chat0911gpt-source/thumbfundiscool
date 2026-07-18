@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-16",
+  "latestDate": "2026-07-17",
   "pageName": "貝萊德美元優質債券基金 | A3",
-  "pointCount": 5279,
+  "pointCount": 5280,
   "points": [
     [
       "2005-07-01",
@@ -21118,18 +21118,22 @@
     [
       "2026-07-16",
       14.9
+    ],
+    [
+      "2026-07-17",
+      14.95
     ]
   ],
   "product": {
     "classLabel": "A3 USD",
     "currency": "USD",
-    "display": "貝萊德美元優質債券基金｜A3 USD｜淨值 14.90｜2026年7月16日",
+    "display": "貝萊德美元優質債券基金｜A3 USD｜淨值 14.95｜2026年7月17日",
     "hedged": false,
     "id": "228571",
     "inceptionDate": "2003年9月1日",
     "name": "貝萊德美元優質債券基金",
-    "nav": "14.90",
-    "navDate": "2026年7月16日",
+    "nav": "14.95",
+    "navDate": "2026年7月17日",
     "oneYear": "4.00",
     "shareClass": "A3",
     "slug": "blackrock-us-dollar-bond-fund-a3-usd",

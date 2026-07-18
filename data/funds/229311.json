@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-16",
+  "latestDate": "2026-07-17",
   "pageName": "貝萊德美國價值型基金(基金之配息來源可能為本金） | C2",
-  "pointCount": 5278,
+  "pointCount": 5279,
   "points": [
     [
       "2005-07-01",
@@ -21114,18 +21114,22 @@
     [
       "2026-07-16",
       119.26
+    ],
+    [
+      "2026-07-17",
+      119.75
     ]
   ],
   "product": {
     "classLabel": "C2 USD",
     "currency": "USD",
-    "display": "貝萊德美國價值型基金(基金之配息來源可能為本金）｜C2 USD｜淨值 119.26｜2026年7月16日",
+    "display": "貝萊德美國價值型基金(基金之配息來源可能為本金）｜C2 USD｜淨值 119.75｜2026年7月17日",
     "hedged": false,
     "id": "229311",
     "inceptionDate": "2002年7月1日",
     "name": "貝萊德美國價值型基金(基金之配息來源可能為本金）",
-    "nav": "119.26",
-    "navDate": "2026年7月16日",
+    "nav": "119.75",
+    "navDate": "2026年7月17日",
     "oneYear": "20.73",
     "shareClass": "C2",
     "slug": "blackrock-us-basic-value-fund-c2-usd",

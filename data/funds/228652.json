@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-16",
+  "latestDate": "2026-07-17",
   "pageName": "貝萊德環球企業債券基金 (基金之配息來源可能為本金) | A2",
-  "pointCount": 4700,
+  "pointCount": 4701,
   "points": [
     [
       "2007-10-19",
@@ -18802,18 +18802,22 @@
     [
       "2026-07-16",
       16.22
+    ],
+    [
+      "2026-07-17",
+      16.26
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)｜A2 USD｜淨值 16.22｜2026年7月16日",
+    "display": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)｜A2 USD｜淨值 16.26｜2026年7月17日",
     "hedged": false,
     "id": "228652",
     "inceptionDate": "2007年10月19日",
     "name": "貝萊德環球企業債券基金 (基金之配息來源可能為本金)",
-    "nav": "16.22",
-    "navDate": "2026年7月16日",
+    "nav": "16.26",
+    "navDate": "2026年7月17日",
     "oneYear": "4.33",
     "shareClass": "A2",
     "slug": "blackrock-global-corporate-bond-fund-a2-usd",
