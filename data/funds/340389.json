@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-16",
+  "latestDate": "2026-07-17",
   "pageName": "貝萊德iShares安碩0-3月美國國庫證券指數基金（基金之配息來源可能為本金） | A累積類型 前收",
-  "pointCount": 329,
+  "pointCount": 330,
   "points": [
     [
       "2025-02-24",
@@ -1318,18 +1318,22 @@
     [
       "2026-07-16",
       10.495
+    ],
+    [
+      "2026-07-17",
+      10.4982
     ]
   ],
   "product": {
     "classLabel": "ID 340389",
     "currency": "",
-    "display": "貝萊德iShares安碩0-3月美國國庫證券指數基金（基金之配息來源可能為本金）｜ID 340389｜淨值 10.50｜2026年7月16日",
+    "display": "貝萊德iShares安碩0-3月美國國庫證券指數基金（基金之配息來源可能為本金）｜ID 340389｜淨值 10.50｜2026年7月17日",
     "hedged": false,
     "id": "340389",
     "inceptionDate": "2025年2月24日",
     "name": "貝萊德iShares安碩0-3月美國國庫證券指數基金（基金之配息來源可能為本金）",
     "nav": "10.50",
-    "navDate": "2026年7月16日",
+    "navDate": "2026年7月17日",
     "oneYear": "3.46",
     "shareClass": "",
     "slug": "blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
