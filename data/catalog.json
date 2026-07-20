@@ -207,13 +207,13 @@
     {
       "classLabel": "ID 349339",
       "currency": "",
-      "display": "貝萊德iShares安碩收益優化投資等級債主動式ETF｜ID 349339｜淨值 10.23｜2026年7月16日",
+      "display": "貝萊德iShares安碩收益優化投資等級債主動式ETF｜ID 349339｜淨值 10.20｜2026年7月17日",
       "hedged": false,
       "id": "349339",
       "inceptionDate": "2026年3月20日",
       "name": "貝萊德iShares安碩收益優化投資等級債主動式ETF",
-      "nav": "10.23",
-      "navDate": "2026年7月16日",
+      "nav": "10.20",
+      "navDate": "2026年7月17日",
       "oneYear": "-",
       "shareClass": "",
       "slug": "blackrock-ishares-income-plus-active-etf",
@@ -224,13 +224,13 @@
     {
       "classLabel": "ID 345655",
       "currency": "",
-      "display": "貝萊德iShares安碩標普500卓越50 ETF（基金之配息來源可能為收益平準金)｜ID 345655｜淨值 11.26｜2026年7月16日",
+      "display": "貝萊德iShares安碩標普500卓越50 ETF｜ID 345655｜淨值 11.15｜2026年7月17日",
       "hedged": false,
       "id": "345655",
       "inceptionDate": "2025年10月8日",
-      "name": "貝萊德iShares安碩標普500卓越50 ETF（基金之配息來源可能為收益平準金)",
-      "nav": "11.26",
-      "navDate": "2026年7月16日",
+      "name": "貝萊德iShares安碩標普500卓越50 ETF",
+      "nav": "11.15",
+      "navDate": "2026年7月17日",
       "oneYear": "-",
       "shareClass": "",
       "slug": "blackrock-ishares-s-p-500-top-50-etf",
@@ -4134,13 +4134,13 @@
     {
       "classLabel": "ID 327648",
       "currency": "",
-      "display": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）｜ID 327648｜淨值 16.10｜2026年7月16日",
+      "display": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）｜ID 327648｜淨值 16.25｜2026年7月15日",
       "hedged": false,
       "id": "327648",
       "inceptionDate": "2022年6月17日",
       "name": "貝萊德環球動態趨勢多元資產組合基金（基金之配息來源可能為本金）",
-      "nav": "16.10",
-      "navDate": "2026年7月16日",
+      "nav": "16.25",
+      "navDate": "2026年7月15日",
       "oneYear": "20.47",
       "shareClass": "",
       "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
@@ -5493,5 +5493,5 @@
     }
   ],
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-07-20T04:11:45+00:00"
+  "updatedAt": "2026-07-20T08:20:21+00:00"
 }

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-16",
-  "pageName": "貝萊德iShares安碩標普500卓越50 ETF（基金之配息來源可能為收益平準金) | 009813",
-  "pointCount": 182,
+  "latestDate": "2026-07-17",
+  "pageName": "貝萊德iShares安碩標普500卓越50 ETF | 009813",
+  "pointCount": 183,
   "points": [
     [
       "2025-10-08",
@@ -730,18 +730,22 @@
     [
       "2026-07-16",
       11.26
+    ],
+    [
+      "2026-07-17",
+      11.15
     ]
   ],
   "product": {
     "classLabel": "ID 345655",
     "currency": "",
-    "display": "貝萊德iShares安碩標普500卓越50 ETF（基金之配息來源可能為收益平準金)｜ID 345655｜淨值 11.26｜2026年7月16日",
+    "display": "貝萊德iShares安碩標普500卓越50 ETF｜ID 345655｜淨值 11.15｜2026年7月17日",
     "hedged": false,
     "id": "345655",
     "inceptionDate": "2025年10月8日",
-    "name": "貝萊德iShares安碩標普500卓越50 ETF（基金之配息來源可能為收益平準金)",
-    "nav": "11.26",
-    "navDate": "2026年7月16日",
+    "name": "貝萊德iShares安碩標普500卓越50 ETF",
+    "nav": "11.15",
+    "navDate": "2026年7月17日",
     "oneYear": "-",
     "shareClass": "",
     "slug": "blackrock-ishares-s-p-500-top-50-etf",
