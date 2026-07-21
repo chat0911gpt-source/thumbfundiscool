@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-17",
+  "latestDate": "2026-07-20",
   "pageName": "貝萊德日本特別時機基金 | A2",
-  "pointCount": 5155,
+  "pointCount": 5156,
   "points": [
     [
       "2005-07-01",
@@ -20622,18 +20622,22 @@
     [
       "2026-07-17",
       104.79
+    ],
+    [
+      "2026-07-20",
+      106.11
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德日本特別時機基金｜A2 USD｜淨值 104.79｜2026年7月17日",
+    "display": "貝萊德日本特別時機基金｜A2 USD｜淨值 106.11｜2026年7月20日",
     "hedged": false,
     "id": "229277",
     "inceptionDate": "1987年5月14日",
     "name": "貝萊德日本特別時機基金",
-    "nav": "104.79",
-    "navDate": "2026年7月17日",
+    "nav": "106.11",
+    "navDate": "2026年7月20日",
     "oneYear": "30.12",
     "shareClass": "A2",
     "slug": "blackrock-japan-small-and-midcap-opportunities-fund-a2-usd",

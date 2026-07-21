@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-17",
+  "latestDate": "2026-07-20",
   "pageName": "貝萊德世界礦業基金（基金之配息來源可能為本金） | A2",
-  "pointCount": 5282,
+  "pointCount": 5283,
   "points": [
     [
       "2005-07-01",
@@ -21130,18 +21130,22 @@
     [
       "2026-07-17",
       84.72
+    ],
+    [
+      "2026-07-20",
+      85.29
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德世界礦業基金（基金之配息來源可能為本金）｜A2 EUR｜淨值 84.72｜2026年7月17日",
+    "display": "貝萊德世界礦業基金（基金之配息來源可能為本金）｜A2 EUR｜淨值 85.29｜2026年7月20日",
     "hedged": false,
     "id": "229342",
     "inceptionDate": "2001年4月5日",
     "name": "貝萊德世界礦業基金（基金之配息來源可能為本金）",
-    "nav": "84.72",
-    "navDate": "2026年7月17日",
+    "nav": "85.29",
+    "navDate": "2026年7月20日",
     "oneYear": "60.35",
     "shareClass": "A2",
     "slug": "blackrock-world-mining-fund-a2-eur",
