@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-21",
+  "latestDate": "2026-07-22",
   "pageName": "貝萊德美國價值型基金(基金之配息來源可能為本金） | A4",
-  "pointCount": 5281,
+  "pointCount": 5282,
   "points": [
     [
       "2005-07-01",
@@ -21126,18 +21126,22 @@
     [
       "2026-07-21",
       170.71
+    ],
+    [
+      "2026-07-22",
+      171.45
     ]
   ],
   "product": {
     "classLabel": "A4 USD",
     "currency": "USD",
-    "display": "貝萊德美國價值型基金(基金之配息來源可能為本金）｜A4 USD｜淨值 170.71｜2026年7月21日",
+    "display": "貝萊德美國價值型基金(基金之配息來源可能為本金）｜A4 USD｜淨值 171.45｜2026年7月22日",
     "hedged": false,
     "id": "229309",
     "inceptionDate": "2003年2月10日",
     "name": "貝萊德美國價值型基金(基金之配息來源可能為本金）",
-    "nav": "170.71",
-    "navDate": "2026年7月21日",
+    "nav": "171.45",
+    "navDate": "2026年7月22日",
     "oneYear": "22.25",
     "shareClass": "A4",
     "slug": "blackrock-us-basic-value-fund-a4-usd",

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-21",
+  "latestDate": "2026-07-22",
   "pageName": "貝萊德歐洲特別時機基金 | A2",
-  "pointCount": 5284,
+  "pointCount": 5285,
   "points": [
     [
       "2005-07-01",
@@ -21138,18 +21138,22 @@
     [
       "2026-07-21",
       64.77
+    ],
+    [
+      "2026-07-22",
+      65.72
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德歐洲特別時機基金｜A2 EUR｜淨值 64.77｜2026年7月21日",
+    "display": "貝萊德歐洲特別時機基金｜A2 EUR｜淨值 65.72｜2026年7月22日",
     "hedged": false,
     "id": "229661",
     "inceptionDate": "2002年10月14日",
     "name": "貝萊德歐洲特別時機基金",
-    "nav": "64.77",
-    "navDate": "2026年7月21日",
+    "nav": "65.72",
+    "navDate": "2026年7月22日",
     "oneYear": "5.41",
     "shareClass": "A2",
     "slug": "blackrock-european-special-situations-fund-a2-eur",
