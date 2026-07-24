@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-22",
+  "latestDate": "2026-07-23",
   "pageName": "貝萊德世界健康科學基金（基金之配息來源可能為本金） | B10",
-  "pointCount": 394,
+  "pointCount": 395,
   "points": [
     [
       "2024-12-18",
@@ -1578,18 +1578,22 @@
     [
       "2026-07-22",
       9.9
+    ],
+    [
+      "2026-07-23",
+      9.92
     ]
   ],
   "product": {
     "classLabel": "ID 340605",
     "currency": "",
-    "display": "貝萊德世界健康科學基金（基金之配息來源可能為本金）｜ID 340605｜淨值 9.90｜2026年7月22日",
+    "display": "貝萊德世界健康科學基金（基金之配息來源可能為本金）｜ID 340605｜淨值 9.92｜2026年7月23日",
     "hedged": false,
     "id": "340605",
     "inceptionDate": "2024年12月18日",
     "name": "貝萊德世界健康科學基金（基金之配息來源可能為本金）",
-    "nav": "9.90",
-    "navDate": "2026年7月22日",
+    "nav": "9.92",
+    "navDate": "2026年7月23日",
     "oneYear": "12.06",
     "shareClass": "",
     "slug": "blackrock-world-healthscience-fund",

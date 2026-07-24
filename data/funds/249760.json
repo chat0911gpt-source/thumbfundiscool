@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-22",
+  "latestDate": "2026-07-23",
   "pageName": "貝萊德世界地產證券基金 (基金之配息來源可能為本金) | A2",
-  "pointCount": 3357,
+  "pointCount": 3358,
   "points": [
     [
       "2013-02-27",
@@ -13430,18 +13430,22 @@
     [
       "2026-07-22",
       18.3
+    ],
+    [
+      "2026-07-23",
+      18.25
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德世界地產證券基金 (基金之配息來源可能為本金)｜A2 USD｜淨值 18.30｜2026年7月22日",
+    "display": "貝萊德世界地產證券基金 (基金之配息來源可能為本金)｜A2 USD｜淨值 18.25｜2026年7月23日",
     "hedged": false,
     "id": "249760",
     "inceptionDate": "2013年2月25日",
     "name": "貝萊德世界地產證券基金 (基金之配息來源可能為本金)",
-    "nav": "18.30",
-    "navDate": "2026年7月22日",
+    "nav": "18.25",
+    "navDate": "2026年7月23日",
     "oneYear": "11.56",
     "shareClass": "A2",
     "slug": "blackrock-world-real-estate-securites-a2-usd-fund",

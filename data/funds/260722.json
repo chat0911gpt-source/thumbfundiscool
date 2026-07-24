@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-22",
+  "latestDate": "2026-07-23",
   "pageName": "貝萊德世界黃金基金（基金之配息來源可能為本金） | A2 避險股份",
-  "pointCount": 3108,
+  "pointCount": 3109,
   "points": [
     [
       "2014-02-26",
@@ -12434,18 +12434,22 @@
     [
       "2026-07-22",
       23.49
+    ],
+    [
+      "2026-07-23",
+      22.74
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德世界黃金基金（基金之配息來源可能為本金）｜A2 AUD 避險｜淨值 23.49｜2026年7月22日",
+    "display": "貝萊德世界黃金基金（基金之配息來源可能為本金）｜A2 AUD 避險｜淨值 22.74｜2026年7月23日",
     "hedged": true,
     "id": "260722",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德世界黃金基金（基金之配息來源可能為本金）",
-    "nav": "23.49",
-    "navDate": "2026年7月22日",
+    "nav": "22.74",
+    "navDate": "2026年7月23日",
     "oneYear": "48.82",
     "shareClass": "A2",
     "slug": "bgf-world-gold-fund-a2-aud-hedged",
