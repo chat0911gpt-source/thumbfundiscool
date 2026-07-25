@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-23",
+  "latestDate": "2026-07-24",
   "pageName": "貝萊德歐洲基金 | A2 避險股份",
-  "pointCount": 3962,
+  "pointCount": 3963,
   "points": [
     [
       "2010-08-19",
@@ -15850,18 +15850,22 @@
     [
       "2026-07-23",
       36.31
+    ],
+    [
+      "2026-07-24",
+      36.33
     ]
   ],
   "product": {
     "classLabel": "A2 USD 避險",
     "currency": "USD",
-    "display": "貝萊德歐洲基金｜A2 USD 避險｜淨值 36.31｜2026年7月23日",
+    "display": "貝萊德歐洲基金｜A2 USD 避險｜淨值 36.33｜2026年7月24日",
     "hedged": true,
     "id": "229656",
     "inceptionDate": "2010年10月7日",
     "name": "貝萊德歐洲基金",
-    "nav": "36.31",
-    "navDate": "2026年7月23日",
+    "nav": "36.33",
+    "navDate": "2026年7月24日",
     "oneYear": "15.55",
     "shareClass": "A2",
     "slug": "blackrock-european-fund-a2-usd-hedged",
