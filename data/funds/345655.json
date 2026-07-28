@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-24",
+  "latestDate": "2026-07-27",
   "pageName": "貝萊德iShares安碩標普500卓越50 ETF | 009813",
-  "pointCount": 188,
+  "pointCount": 189,
   "points": [
     [
       "2025-10-08",
@@ -754,18 +754,22 @@
     [
       "2026-07-24",
       11.04
+    ],
+    [
+      "2026-07-27",
+      10.95
     ]
   ],
   "product": {
     "classLabel": "ID 345655",
     "currency": "",
-    "display": "貝萊德iShares安碩標普500卓越50 ETF｜ID 345655｜淨值 11.04｜2026年7月24日",
+    "display": "貝萊德iShares安碩標普500卓越50 ETF｜ID 345655｜淨值 10.95｜2026年7月27日",
     "hedged": false,
     "id": "345655",
     "inceptionDate": "2025年10月8日",
     "name": "貝萊德iShares安碩標普500卓越50 ETF",
-    "nav": "11.04",
-    "navDate": "2026年7月24日",
+    "nav": "10.95",
+    "navDate": "2026年7月27日",
     "oneYear": "-",
     "shareClass": "",
     "slug": "blackrock-ishares-s-p-500-top-50-etf",

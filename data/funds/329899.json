@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-24",
+  "latestDate": "2026-07-27",
   "pageName": "貝萊德永續能源基金（基金之配息來源可能為本金） | A10",
-  "pointCount": 940,
+  "pointCount": 941,
   "points": [
     [
       "2022-10-19",
@@ -3762,18 +3762,22 @@
     [
       "2026-07-24",
       13.54
+    ],
+    [
+      "2026-07-27",
+      13.53
     ]
   ],
   "product": {
     "classLabel": "ID 329899",
     "currency": "",
-    "display": "貝萊德永續能源基金（基金之配息來源可能為本金）｜ID 329899｜淨值 13.54｜2026年7月24日",
+    "display": "貝萊德永續能源基金（基金之配息來源可能為本金）｜ID 329899｜淨值 13.53｜2026年7月27日",
     "hedged": false,
     "id": "329899",
     "inceptionDate": "2022年10月19日",
     "name": "貝萊德永續能源基金（基金之配息來源可能為本金）",
-    "nav": "13.54",
-    "navDate": "2026年7月24日",
+    "nav": "13.53",
+    "navDate": "2026年7月27日",
     "oneYear": "47.73",
     "shareClass": "",
     "slug": "blackrock-sustainable-energy-fund",

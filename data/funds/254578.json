@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-24",
+  "latestDate": "2026-07-27",
   "pageName": "貝萊德日本靈活股票基金 | A2 避險股份",
-  "pointCount": 3190,
+  "pointCount": 3191,
   "points": [
     [
       "2013-06-19",
@@ -12762,18 +12762,22 @@
     [
       "2026-07-24",
       46.18
+    ],
+    [
+      "2026-07-27",
+      46.45
     ]
   ],
   "product": {
     "classLabel": "A2 USD 避險",
     "currency": "USD",
-    "display": "貝萊德日本靈活股票基金｜A2 USD 避險｜淨值 46.18｜2026年7月24日",
+    "display": "貝萊德日本靈活股票基金｜A2 USD 避險｜淨值 46.45｜2026年7月27日",
     "hedged": true,
     "id": "254578",
     "inceptionDate": "2013年6月19日",
     "name": "貝萊德日本靈活股票基金",
-    "nav": "46.18",
-    "navDate": "2026年7月24日",
+    "nav": "46.45",
+    "navDate": "2026年7月27日",
     "oneYear": "41.24",
     "shareClass": "A2",
     "slug": "blackrock-japan-flexible-equity-fund-a2-usd-hedged",

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-24",
+  "latestDate": "2026-07-27",
   "pageName": "貝萊德世界能源基金（基金之配息來源可能為本金） | C2",
-  "pointCount": 5285,
+  "pointCount": 5286,
   "points": [
     [
       "2005-07-01",
@@ -21142,18 +21142,22 @@
     [
       "2026-07-24",
       26.03
+    ],
+    [
+      "2026-07-27",
+      25.49
     ]
   ],
   "product": {
     "classLabel": "C2 USD",
     "currency": "USD",
-    "display": "貝萊德世界能源基金（基金之配息來源可能為本金）｜C2 USD｜淨值 26.03｜2026年7月24日",
+    "display": "貝萊德世界能源基金（基金之配息來源可能為本金）｜C2 USD｜淨值 25.49｜2026年7月27日",
     "hedged": false,
     "id": "229923",
     "inceptionDate": "2002年7月1日",
     "name": "貝萊德世界能源基金（基金之配息來源可能為本金）",
-    "nav": "26.03",
-    "navDate": "2026年7月24日",
+    "nav": "25.49",
+    "navDate": "2026年7月27日",
     "oneYear": "25.04",
     "shareClass": "C2",
     "slug": "blackrock-world-energy-fund-c2-usd",

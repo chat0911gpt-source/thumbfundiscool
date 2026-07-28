@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-24",
+  "latestDate": "2026-07-27",
   "pageName": "貝萊德世界金融基金（基金之配息來源可能為本金） | A2",
-  "pointCount": 5285,
+  "pointCount": 5286,
   "points": [
     [
       "2005-07-01",
@@ -21142,18 +21142,22 @@
     [
       "2026-07-24",
       70.61
+    ],
+    [
+      "2026-07-27",
+      71.77
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德世界金融基金（基金之配息來源可能為本金）｜A2 EUR｜淨值 70.61｜2026年7月24日",
+    "display": "貝萊德世界金融基金（基金之配息來源可能為本金）｜A2 EUR｜淨值 71.77｜2026年7月27日",
     "hedged": false,
     "id": "229935",
     "inceptionDate": "2000年3月3日",
     "name": "貝萊德世界金融基金（基金之配息來源可能為本金）",
-    "nav": "70.61",
-    "navDate": "2026年7月24日",
+    "nav": "71.77",
+    "navDate": "2026年7月27日",
     "oneYear": "23.12",
     "shareClass": "A2",
     "slug": "blackrock-world-financials-fund-a2-eur",
