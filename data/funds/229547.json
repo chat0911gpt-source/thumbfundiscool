@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-27",
+  "latestDate": "2026-07-28",
   "pageName": "貝萊德中國基金(基金之配息來源可能為本金） | A2",
-  "pointCount": 4473,
+  "pointCount": 4474,
   "points": [
     [
       "2008-06-24",
@@ -17894,18 +17894,22 @@
     [
       "2026-07-27",
       20.0
+    ],
+    [
+      "2026-07-28",
+      19.72
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德中國基金(基金之配息來源可能為本金）｜A2 USD｜淨值 20.00｜2026年7月27日",
+    "display": "貝萊德中國基金(基金之配息來源可能為本金）｜A2 USD｜淨值 19.72｜2026年7月28日",
     "hedged": false,
     "id": "229547",
     "inceptionDate": "2008年6月24日",
     "name": "貝萊德中國基金(基金之配息來源可能為本金）",
-    "nav": "20.00",
-    "navDate": "2026年7月27日",
+    "nav": "19.72",
+    "navDate": "2026年7月28日",
     "oneYear": "9.17",
     "shareClass": "A2",
     "slug": "blackrock-china-fund-a2-usd",
