@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-28",
+  "latestDate": "2026-07-29",
   "pageName": "貝萊德世界健康科學基金 | A2",
-  "pointCount": 5287,
+  "pointCount": 5288,
   "points": [
     [
       "2005-07-01",
@@ -21150,18 +21150,22 @@
     [
       "2026-07-28",
       69.16
+    ],
+    [
+      "2026-07-29",
+      68.94
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德世界健康科學基金｜A2 EUR｜淨值 69.16｜2026年7月28日",
+    "display": "貝萊德世界健康科學基金｜A2 EUR｜淨值 68.94｜2026年7月29日",
     "hedged": false,
     "id": "229337",
     "inceptionDate": "2001年4月6日",
     "name": "貝萊德世界健康科學基金",
-    "nav": "69.16",
-    "navDate": "2026年7月28日",
+    "nav": "68.94",
+    "navDate": "2026年7月29日",
     "oneYear": "18.92",
     "shareClass": "A2",
     "slug": "blackrock-world-healthscience-fund-a2-eur",
