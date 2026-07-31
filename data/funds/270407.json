@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-29",
+  "latestDate": "2026-07-30",
   "pageName": "貝萊德全球智慧數據股票入息基金 | A8 避險股份",
-  "pointCount": 2960,
+  "pointCount": 2961,
   "points": [
     [
       "2014-10-08",
@@ -11842,18 +11842,22 @@
     [
       "2026-07-29",
       9.24
+    ],
+    [
+      "2026-07-30",
+      9.27
     ]
   ],
   "product": {
     "classLabel": "NZD 避險",
     "currency": "NZD",
-    "display": "貝萊德全球智慧數據股票入息基金｜NZD 避險｜淨值 9.24｜2026年7月29日",
+    "display": "貝萊德全球智慧數據股票入息基金｜NZD 避險｜淨值 9.27｜2026年7月30日",
     "hedged": true,
     "id": "270407",
     "inceptionDate": "2014年10月8日",
     "name": "貝萊德全球智慧數據股票入息基金",
-    "nav": "9.24",
-    "navDate": "2026年7月29日",
+    "nav": "9.27",
+    "navDate": "2026年7月30日",
     "oneYear": "10.08",
     "shareClass": "",
     "slug": "blackrock-global-enhanced-equity-yield-fund-a8-hedged-nzd",
