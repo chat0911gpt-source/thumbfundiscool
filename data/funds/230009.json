@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-30",
+  "latestDate": "2026-07-31",
   "pageName": "貝萊德世界科技基金 | A2",
-  "pointCount": 5285,
+  "pointCount": 5286,
   "points": [
     [
       "2005-07-01",
@@ -21142,18 +21142,22 @@
     [
       "2026-07-30",
       116.34
+    ],
+    [
+      "2026-07-31",
+      120.62
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德世界科技基金｜A2 EUR｜淨值 116.34｜2026年7月30日",
+    "display": "貝萊德世界科技基金｜A2 EUR｜淨值 120.62｜2026年7月31日",
     "hedged": false,
     "id": "230009",
     "inceptionDate": "1995年3月3日",
     "name": "貝萊德世界科技基金",
-    "nav": "116.34",
-    "navDate": "2026年7月30日",
+    "nav": "120.62",
+    "navDate": "2026年7月31日",
     "oneYear": "59.97",
     "shareClass": "A2",
     "slug": "blackrock-world-technology-fund-a2-eur",

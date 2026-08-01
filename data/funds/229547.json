@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-30",
+  "latestDate": "2026-07-31",
   "pageName": "貝萊德中國基金 | A2",
-  "pointCount": 4476,
+  "pointCount": 4477,
   "points": [
     [
       "2008-06-24",
@@ -17906,18 +17906,22 @@
     [
       "2026-07-30",
       20.09
+    ],
+    [
+      "2026-07-31",
+      20.22
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德中國基金｜A2 USD｜淨值 20.09｜2026年7月30日",
+    "display": "貝萊德中國基金｜A2 USD｜淨值 20.22｜2026年7月31日",
     "hedged": false,
     "id": "229547",
     "inceptionDate": "2008年6月24日",
     "name": "貝萊德中國基金",
-    "nav": "20.09",
-    "navDate": "2026年7月30日",
+    "nav": "20.22",
+    "navDate": "2026年7月31日",
     "oneYear": "9.17",
     "shareClass": "A2",
     "slug": "blackrock-china-fund-a2-usd",

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-30",
+  "latestDate": "2026-07-31",
   "pageName": "貝萊德世界礦業基金 | A2 避險股份",
-  "pointCount": 3114,
+  "pointCount": 3115,
   "points": [
     [
       "2014-02-26",
@@ -12458,18 +12458,22 @@
     [
       "2026-07-30",
       17.7
+    ],
+    [
+      "2026-07-31",
+      17.45
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德世界礦業基金｜A2 AUD 避險｜淨值 17.70｜2026年7月30日",
+    "display": "貝萊德世界礦業基金｜A2 AUD 避險｜淨值 17.45｜2026年7月31日",
     "hedged": true,
     "id": "260715",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德世界礦業基金",
-    "nav": "17.70",
-    "navDate": "2026年7月30日",
+    "nav": "17.45",
+    "navDate": "2026年7月31日",
     "oneYear": "54.20",
     "shareClass": "A2",
     "slug": "bgf-world-mining-fund-a2-aud-hedged",

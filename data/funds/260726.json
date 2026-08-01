@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-30",
+  "latestDate": "2026-07-31",
   "pageName": "貝萊德美元非投資等級債券基金 | A8 避險股份",
-  "pointCount": 3118,
+  "pointCount": 3119,
   "points": [
     [
       "2014-02-19",
@@ -12474,18 +12474,22 @@
     [
       "2026-07-30",
       78.29
+    ],
+    [
+      "2026-07-31",
+      77.76
     ]
   ],
   "product": {
     "classLabel": "USD 避險",
     "currency": "USD",
-    "display": "貝萊德美元非投資等級債券基金｜USD 避險｜淨值 78.29｜2026年7月30日",
+    "display": "貝萊德美元非投資等級債券基金｜USD 避險｜淨值 77.76｜2026年7月31日",
     "hedged": true,
     "id": "260726",
     "inceptionDate": "2014年2月19日",
     "name": "貝萊德美元非投資等級債券基金",
-    "nav": "78.29",
-    "navDate": "2026年7月30日",
+    "nav": "77.76",
+    "navDate": "2026年7月31日",
     "oneYear": "7.81",
     "shareClass": "",
     "slug": "bgf-usd-high-yield-bond-fund-a8-zar-hedged",

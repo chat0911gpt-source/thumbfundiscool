@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-30",
+  "latestDate": "2026-07-31",
   "pageName": "貝萊德全球股票收益基金 | A8 避險股份",
-  "pointCount": 3268,
+  "pointCount": 3269,
   "points": [
     [
       "2013-07-17",
@@ -13074,18 +13074,22 @@
     [
       "2026-07-30",
       14.93
+    ],
+    [
+      "2026-07-31",
+      15.05
     ]
   ],
   "product": {
     "classLabel": "A8 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德全球股票收益基金｜A8 AUD 避險｜淨值 14.93｜2026年7月30日",
+    "display": "貝萊德全球股票收益基金｜A8 AUD 避險｜淨值 15.05｜2026年7月31日",
     "hedged": true,
     "id": "256057",
     "inceptionDate": "2013年7月17日",
     "name": "貝萊德全球股票收益基金",
-    "nav": "14.93",
-    "navDate": "2026年7月30日",
+    "nav": "15.05",
+    "navDate": "2026年7月31日",
     "oneYear": "16.73",
     "shareClass": "A8",
     "slug": "blackrock-global-equity-income-fund-a8-aud-hedged",
