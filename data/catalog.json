@@ -146,12 +146,12 @@
       "name": "貝萊德iShares安碩0-3月美國國庫證券指數基金",
       "nav": "9.99",
       "navDate": "2026年7月30日",
-      "oneYear": "12.83",
+      "oneYear": "12.51",
       "shareClass": "",
       "slug": "blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/340387/blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
-      "ytd": "2.98"
+      "ytd": "5.25"
     },
     {
       "classLabel": "ID 340388",
@@ -197,12 +197,12 @@
       "name": "貝萊德iShares安碩0-3月美國國庫證券指數基金",
       "nav": "10.10",
       "navDate": "2026年7月30日",
-      "oneYear": "3.46",
+      "oneYear": "3.41",
       "shareClass": "",
       "slug": "blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/340390/blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
-      "ytd": "1.57"
+      "ytd": "1.84"
     },
     {
       "classLabel": "USD",
@@ -1285,12 +1285,12 @@
       "name": "貝萊德亞洲老虎債券基金",
       "nav": "10.32",
       "navDate": "2026年7月31日",
-      "oneYear": "6.38",
+      "oneYear": "4.63",
       "shareClass": "",
       "slug": "blackrock-asian-tiger-bond-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/334012/blackrock-asian-tiger-bond-fund",
-      "ytd": "1.25"
+      "ytd": "0.60"
     },
     {
       "classLabel": "ID 344454",
@@ -1438,12 +1438,12 @@
       "name": "貝萊德享退休系列2050目標日期組合基金",
       "nav": "18.50",
       "navDate": "2026年7月30日",
-      "oneYear": "31.21",
+      "oneYear": "28.21",
       "shareClass": "",
       "slug": "blackrock-lifepath-series-2050-target-date-fund-of-funds-aggregate",
-      "threeYear": "60.33",
+      "threeYear": "52.39",
       "url": "https://www.blackrock.com/tw/products/297799/blackrock-lifepath-series-2050-target-date-fund-of-funds-aggregate",
-      "ytd": "14.43"
+      "ytd": "13.15"
     },
     {
       "classLabel": "ID 287606",
@@ -1455,12 +1455,12 @@
       "name": "貝萊德全方位資產收益組合基金",
       "nav": "9.96",
       "navDate": "2026年7月30日",
-      "oneYear": "10.36",
+      "oneYear": "9.94",
       "shareClass": "",
       "slug": "blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-dis",
-      "threeYear": "33.58",
+      "threeYear": "31.80",
       "url": "https://www.blackrock.com/tw/products/287606/blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-dis",
-      "ytd": "4.98"
+      "ytd": "5.19"
     },
     {
       "classLabel": "ID 287607",
@@ -1472,12 +1472,12 @@
       "name": "貝萊德全方位資產收益組合基金",
       "nav": "10.58",
       "navDate": "2026年7月30日",
-      "oneYear": "17.34",
+      "oneYear": "19.21",
       "shareClass": "",
       "slug": "blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-dis",
-      "threeYear": "36.64",
+      "threeYear": "36.18",
       "url": "https://www.blackrock.com/tw/products/287607/blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-dis",
-      "ytd": "6.29"
+      "ytd": "8.65"
     },
     {
       "classLabel": "ID 287608",
@@ -1489,12 +1489,12 @@
       "name": "貝萊德全方位資產收益組合基金",
       "nav": "9.89",
       "navDate": "2026年7月30日",
-      "oneYear": "4.56",
+      "oneYear": "3.03",
       "shareClass": "",
       "slug": "blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-dis",
-      "threeYear": "24.64",
+      "threeYear": "24.62",
       "url": "https://www.blackrock.com/tw/products/287608/blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-dis",
-      "ytd": "2.17"
+      "ytd": "1.86"
     },
     {
       "classLabel": "ID 287609",
@@ -2186,12 +2186,12 @@
       "name": "貝萊德多元收益成長基金",
       "nav": "100.87",
       "navDate": "2026年7月31日",
-      "oneYear": "12.52",
+      "oneYear": "13.05",
       "shareClass": "",
       "slug": "blackrock-dynamic-high-income-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/341723/blackrock-dynamic-high-income-fund",
-      "ytd": "5.60"
+      "ytd": "6.60"
     },
     {
       "classLabel": "ID 341724",
@@ -3109,7 +3109,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345291/blackrock-systematic-global-income-growth-fund",
-      "ytd": "4.18"
+      "ytd": "6.23"
     },
     {
       "classLabel": "ID 345292",
@@ -3143,7 +3143,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345293/blackrock-systematic-global-income-growth-fund",
-      "ytd": "2.56"
+      "ytd": "4.24"
     },
     {
       "classLabel": "ID 345294",
@@ -3160,7 +3160,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345294/blackrock-systematic-global-income-growth-fund",
-      "ytd": "0.08"
+      "ytd": "1.72"
     },
     {
       "classLabel": "ID 345295",
@@ -3177,7 +3177,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345295/blackrock-systematic-global-income-growth-fund",
-      "ytd": "4.21"
+      "ytd": "6.35"
     },
     {
       "classLabel": "ID 345296",
@@ -3194,7 +3194,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345296/blackrock-systematic-global-income-growth-fund",
-      "ytd": "1.69"
+      "ytd": "3.63"
     },
     {
       "classLabel": "ID 345297",
@@ -3211,7 +3211,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345297/blackrock-systematic-global-income-growth-fund",
-      "ytd": "1.58"
+      "ytd": "3.80"
     },
     {
       "classLabel": "ID 345298",
@@ -3228,7 +3228,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345298/blackrock-systematic-global-income-growth-fund",
-      "ytd": "4.74"
+      "ytd": "7.11"
     },
     {
       "classLabel": "ID 345299",
@@ -3245,7 +3245,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345299/blackrock-systematic-global-income-growth-fund",
-      "ytd": "1.04"
+      "ytd": "3.02"
     },
     {
       "classLabel": "ID 345300",
@@ -3262,7 +3262,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345300/blackrock-systematic-global-income-growth-fund",
-      "ytd": "2.49"
+      "ytd": "4.16"
     },
     {
       "classLabel": "ID 345301",
@@ -3279,7 +3279,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345301/blackrock-systematic-global-income-growth-fund",
-      "ytd": "3.86"
+      "ytd": "5.98"
     },
     {
       "classLabel": "ID 345302",
@@ -3296,7 +3296,7 @@
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345302/blackrock-systematic-global-income-growth-fund",
-      "ytd": "1.93"
+      "ytd": "3.94"
     },
     {
       "classLabel": "A2 AUD 避險",
@@ -3325,12 +3325,12 @@
       "name": "貝萊德智慧數據環球小型企業基金",
       "nav": "190.21",
       "navDate": "2026年7月31日",
-      "oneYear": "33.80",
+      "oneYear": "24.19",
       "shareClass": "A2",
       "slug": "blackrock-global-smallcap-fund-a2-eur",
-      "threeYear": "59.90",
+      "threeYear": "49.17",
       "url": "https://www.blackrock.com/tw/products/229772/blackrock-global-smallcap-fund-a2-eur",
-      "ytd": "21.21"
+      "ytd": "17.20"
     },
     {
       "classLabel": "A2 USD",
@@ -3342,12 +3342,12 @@
       "name": "貝萊德智慧數據環球小型企業基金",
       "nav": "218.11",
       "navDate": "2026年7月31日",
-      "oneYear": "30.10",
+      "oneYear": "24.81",
       "shareClass": "A2",
       "slug": "blackrock-global-smallcap-fund-a2-usd",
-      "threeYear": "66.86",
+      "threeYear": "54.95",
       "url": "https://www.blackrock.com/tw/products/229773/blackrock-global-smallcap-fund-a2-usd",
-      "ytd": "17.76"
+      "ytd": "14.58"
     },
     {
       "classLabel": "A2 EUR",
@@ -4158,12 +4158,12 @@
       "name": "貝萊德環球動態趨勢多元資產組合基金",
       "nav": "13.91",
       "navDate": "2026年7月30日",
-      "oneYear": "28.42",
+      "oneYear": "24.01",
       "shareClass": "",
       "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "threeYear": "55.39",
+      "threeYear": "47.43",
       "url": "https://www.blackrock.com/tw/products/327647/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "ytd": "11.71"
+      "ytd": "9.43"
     },
     {
       "classLabel": "ID 327648",
@@ -4260,12 +4260,12 @@
       "name": "貝萊德環球動態趨勢多元資產組合基金",
       "nav": "12.75",
       "navDate": "2026年7月30日",
-      "oneYear": "20.57",
+      "oneYear": "14.36",
       "shareClass": "",
       "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "threeYear": "51.86",
+      "threeYear": "42.81",
       "url": "https://www.blackrock.com/tw/products/327654/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "ytd": "10.28"
+      "ytd": "6.04"
     },
     {
       "classLabel": "ID 327655",
@@ -4294,12 +4294,12 @@
       "name": "貝萊德環球動態趨勢多元資產組合基金",
       "nav": "13.91",
       "navDate": "2026年7月30日",
-      "oneYear": "28.33",
+      "oneYear": "24.01",
       "shareClass": "",
       "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "threeYear": "55.30",
+      "threeYear": "47.44",
       "url": "https://www.blackrock.com/tw/products/327656/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "ytd": "11.72"
+      "ytd": "9.52"
     },
     {
       "classLabel": "ID 351991",
@@ -5433,12 +5433,12 @@
       "name": "貝萊德美國增長型基金",
       "nav": "51.81",
       "navDate": "2026年7月31日",
-      "oneYear": "23.58",
+      "oneYear": "10.66",
       "shareClass": "A2",
       "slug": "blackrock-us-growth-fund-a2-eur",
-      "threeYear": "77.76",
+      "threeYear": "67.02",
       "url": "https://www.blackrock.com/tw/products/228606/blackrock-us-growth-fund-a2-eur",
-      "ytd": "19.34"
+      "ytd": "13.12"
     },
     {
       "classLabel": "A2 USD",
@@ -5527,5 +5527,5 @@
     }
   ],
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-08-02T04:02:00+00:00"
+  "updatedAt": "2026-08-02T07:42:36+00:00"
 }
