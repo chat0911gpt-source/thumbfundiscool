@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-30",
+  "latestDate": "2026-07-31",
   "pageName": "貝萊德環球動態趨勢多元資產組合基金 | A月配類型 前收",
-  "pointCount": 932,
+  "pointCount": 933,
   "points": [
     [
       "2022-06-17",
@@ -3730,24 +3730,28 @@
     [
       "2026-07-30",
       13.91
+    ],
+    [
+      "2026-07-31",
+      13.84
     ]
   ],
   "product": {
     "classLabel": "ID 327647",
     "currency": "",
-    "display": "貝萊德環球動態趨勢多元資產組合基金｜ID 327647｜淨值 13.91｜2026年7月30日",
+    "display": "貝萊德環球動態趨勢多元資產組合基金｜ID 327647｜淨值 13.84｜2026年7月31日",
     "hedged": false,
     "id": "327647",
     "inceptionDate": "2022年6月17日",
     "name": "貝萊德環球動態趨勢多元資產組合基金",
-    "nav": "13.91",
-    "navDate": "2026年7月30日",
-    "oneYear": "24.01",
+    "nav": "13.84",
+    "navDate": "2026年7月31日",
+    "oneYear": "24.12",
     "shareClass": "",
     "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-    "threeYear": "47.43",
+    "threeYear": "47.57",
     "url": "https://www.blackrock.com/tw/products/327647/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-    "ytd": "9.43"
+    "ytd": "9.53"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/327647/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate"

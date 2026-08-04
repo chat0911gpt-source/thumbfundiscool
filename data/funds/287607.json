@@ -8147,19 +8147,19 @@
   "product": {
     "classLabel": "ID 287607",
     "currency": "",
-    "display": "貝萊德全方位資產收益組合基金｜ID 287607｜淨值 10.58｜2026年7月30日",
+    "display": "貝萊德全方位資產收益組合基金｜ID 287607｜淨值 10.50｜2026年7月31日",
     "hedged": false,
     "id": "287607",
     "inceptionDate": "2017年7月10日",
     "name": "貝萊德全方位資產收益組合基金",
-    "nav": "10.58",
-    "navDate": "2026年7月30日",
-    "oneYear": "19.21",
+    "nav": "10.50",
+    "navDate": "2026年7月31日",
+    "oneYear": "18.72",
     "shareClass": "",
     "slug": "blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-dis",
-    "threeYear": "36.18",
+    "threeYear": "35.62",
     "url": "https://www.blackrock.com/tw/products/287607/blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-dis",
-    "ytd": "8.65"
+    "ytd": "8.20"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/287607/blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-dis"

@@ -7315,19 +7315,19 @@
   "product": {
     "classLabel": "ID 297799",
     "currency": "",
-    "display": "貝萊德享退休系列2050目標日期組合基金｜ID 297799｜淨值 18.50｜2026年7月30日",
+    "display": "貝萊德享退休系列2050目標日期組合基金｜ID 297799｜淨值 18.53｜2026年7月31日",
     "hedged": false,
     "id": "297799",
     "inceptionDate": "2018年7月25日",
     "name": "貝萊德享退休系列2050目標日期組合基金",
-    "nav": "18.50",
-    "navDate": "2026年7月30日",
-    "oneYear": "28.21",
+    "nav": "18.53",
+    "navDate": "2026年7月31日",
+    "oneYear": "28.41",
     "shareClass": "",
     "slug": "blackrock-lifepath-series-2050-target-date-fund-of-funds-aggregate",
-    "threeYear": "52.39",
+    "threeYear": "52.64",
     "url": "https://www.blackrock.com/tw/products/297799/blackrock-lifepath-series-2050-target-date-fund-of-funds-aggregate",
-    "ytd": "13.15"
+    "ytd": "13.33"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/297799/blackrock-lifepath-series-2050-target-date-fund-of-funds-aggregate"

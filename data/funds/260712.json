@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-31",
+  "latestDate": "2026-08-03",
   "pageName": "貝萊德智慧數據環球小型企業基金 | A2 避險股份",
-  "pointCount": 3115,
+  "pointCount": 3116,
   "points": [
     [
       "2014-02-26",
@@ -12462,18 +12462,22 @@
     [
       "2026-07-31",
       21.34
+    ],
+    [
+      "2026-08-03",
+      21.6
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德智慧數據環球小型企業基金｜A2 AUD 避險｜淨值 21.34｜2026年7月31日",
+    "display": "貝萊德智慧數據環球小型企業基金｜A2 AUD 避險｜淨值 21.60｜2026年8月3日",
     "hedged": true,
     "id": "260712",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德智慧數據環球小型企業基金",
-    "nav": "21.34",
-    "navDate": "2026年7月31日",
+    "nav": "21.60",
+    "navDate": "2026年8月3日",
     "oneYear": "24.36",
     "shareClass": "A2",
     "slug": "bgf-global-smallcap-fund-a2-aud-hedged",
