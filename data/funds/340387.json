@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-07-31",
+  "latestDate": "2026-08-03",
   "pageName": "貝萊德iShares安碩0-3月美國國庫證券指數基金 | A月配類型 前收",
-  "pointCount": 340,
+  "pointCount": 341,
   "points": [
     [
       "2025-02-24",
@@ -1362,6 +1362,10 @@
     [
       "2026-07-31",
       9.9111
+    ],
+    [
+      "2026-08-03",
+      9.9531
     ]
   ],
   "product": {
@@ -1374,12 +1378,12 @@
     "name": "貝萊德iShares安碩0-3月美國國庫證券指數基金",
     "nav": "9.91",
     "navDate": "2026年7月31日",
-    "oneYear": "12.51",
+    "oneYear": "12.01",
     "shareClass": "",
     "slug": "blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/340387/blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
-    "ytd": "5.25"
+    "ytd": "4.78"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/340387/blackrock-ishares-0-3-month-us-treasury-securities-index-fund"
