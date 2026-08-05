@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-03",
+  "latestDate": "2026-08-04",
   "pageName": "貝萊德新世代運輸基金 | A2 避險股份",
-  "pointCount": 1982,
+  "pointCount": 1983,
   "points": [
     [
       "2018-09-04",
@@ -7930,18 +7930,22 @@
     [
       "2026-08-03",
       12.76
+    ],
+    [
+      "2026-08-04",
+      12.92
     ]
   ],
   "product": {
     "classLabel": "ID 299090",
     "currency": "",
-    "display": "貝萊德新世代運輸基金｜ID 299090｜淨值 12.76｜2026年8月3日",
+    "display": "貝萊德新世代運輸基金｜ID 299090｜淨值 12.92｜2026年8月4日",
     "hedged": false,
     "id": "299090",
     "inceptionDate": "2018年9月4日",
     "name": "貝萊德新世代運輸基金",
-    "nav": "12.76",
-    "navDate": "2026年8月3日",
+    "nav": "12.92",
+    "navDate": "2026年8月4日",
     "oneYear": "8.45",
     "shareClass": "",
     "slug": "blackrock-future-of-transport-fund",

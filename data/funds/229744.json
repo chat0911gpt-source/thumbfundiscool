@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-03",
+  "latestDate": "2026-08-04",
   "pageName": "貝萊德環球政府債券基金 | A2 避險股份",
-  "pointCount": 4806,
+  "pointCount": 4807,
   "points": [
     [
       "2007-06-11",
@@ -19226,18 +19226,22 @@
     [
       "2026-08-03",
       23.15
+    ],
+    [
+      "2026-08-04",
+      23.2
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德環球政府債券基金｜A2 EUR 避險｜淨值 23.15｜2026年8月3日",
+    "display": "貝萊德環球政府債券基金｜A2 EUR 避險｜淨值 23.20｜2026年8月4日",
     "hedged": true,
     "id": "229744",
     "inceptionDate": "1987年6月30日",
     "name": "貝萊德環球政府債券基金",
-    "nav": "23.15",
-    "navDate": "2026年8月3日",
+    "nav": "23.20",
+    "navDate": "2026年8月4日",
     "oneYear": "-1.11",
     "shareClass": "A2",
     "slug": "blackrock-global-government-bond-fund-a2-eur-hedged",

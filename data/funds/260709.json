@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-03",
+  "latestDate": "2026-08-04",
   "pageName": "貝萊德歐洲基金 | A2 避險股份",
-  "pointCount": 3116,
+  "pointCount": 3117,
   "points": [
     [
       "2014-02-26",
@@ -12466,18 +12466,22 @@
     [
       "2026-08-03",
       24.56
+    ],
+    [
+      "2026-08-04",
+      25.04
     ]
   ],
   "product": {
     "classLabel": "A2 NZD 避險",
     "currency": "NZD",
-    "display": "貝萊德歐洲基金｜A2 NZD 避險｜淨值 24.56｜2026年8月3日",
+    "display": "貝萊德歐洲基金｜A2 NZD 避險｜淨值 25.04｜2026年8月4日",
     "hedged": true,
     "id": "260709",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德歐洲基金",
-    "nav": "24.56",
-    "navDate": "2026年8月3日",
+    "nav": "25.04",
+    "navDate": "2026年8月4日",
     "oneYear": "8.57",
     "shareClass": "A2",
     "slug": "bgf-european-fund-a2-nzd-hedged",
