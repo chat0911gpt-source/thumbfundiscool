@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-04",
+  "latestDate": "2026-08-05",
   "pageName": "貝萊德全球智慧數據股票入息基金 | A2 避險股份",
-  "pointCount": 4921,
+  "pointCount": 4922,
   "points": [
     [
       "2006-12-15",
@@ -19686,18 +19686,22 @@
     [
       "2026-08-04",
       14.75
+    ],
+    [
+      "2026-08-05",
+      14.9
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德全球智慧數據股票入息基金｜A2 EUR 避險｜淨值 14.75｜2026年8月4日",
+    "display": "貝萊德全球智慧數據股票入息基金｜A2 EUR 避險｜淨值 14.90｜2026年8月5日",
     "hedged": true,
     "id": "229703",
     "inceptionDate": "2006年12月20日",
     "name": "貝萊德全球智慧數據股票入息基金",
-    "nav": "14.75",
-    "navDate": "2026年8月4日",
+    "nav": "14.90",
+    "navDate": "2026年8月5日",
     "oneYear": "12.35",
     "shareClass": "A2",
     "slug": "blackrock-global-enhanced-equity-yield-fund-a2-eur-hedged",

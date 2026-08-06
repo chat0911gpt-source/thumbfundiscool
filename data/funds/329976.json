@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-04",
+  "latestDate": "2026-08-05",
   "pageName": "貝萊德中國基金 | A10",
-  "pointCount": 927,
+  "pointCount": 928,
   "points": [
     [
       "2022-10-26",
@@ -3710,18 +3710,22 @@
     [
       "2026-08-04",
       11.33
+    ],
+    [
+      "2026-08-05",
+      11.42
     ]
   ],
   "product": {
     "classLabel": "ID 329976",
     "currency": "",
-    "display": "貝萊德中國基金｜ID 329976｜淨值 11.33｜2026年8月4日",
+    "display": "貝萊德中國基金｜ID 329976｜淨值 11.42｜2026年8月5日",
     "hedged": false,
     "id": "329976",
     "inceptionDate": "2022年10月26日",
     "name": "貝萊德中國基金",
-    "nav": "11.33",
-    "navDate": "2026年8月4日",
+    "nav": "11.42",
+    "navDate": "2026年8月5日",
     "oneYear": "3.97",
     "shareClass": "",
     "slug": "blackrock-china-fund",

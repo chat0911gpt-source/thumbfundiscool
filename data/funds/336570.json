@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-04",
+  "latestDate": "2026-08-05",
   "pageName": "貝萊德全球智慧數據股票入息基金 | B6",
-  "pointCount": 586,
+  "pointCount": 587,
   "points": [
     [
       "2024-03-27",
@@ -2346,18 +2346,22 @@
     [
       "2026-08-04",
       11.26
+    ],
+    [
+      "2026-08-05",
+      11.38
     ]
   ],
   "product": {
     "classLabel": "ID 336570",
     "currency": "",
-    "display": "貝萊德全球智慧數據股票入息基金｜ID 336570｜淨值 11.26｜2026年8月4日",
+    "display": "貝萊德全球智慧數據股票入息基金｜ID 336570｜淨值 11.38｜2026年8月5日",
     "hedged": false,
     "id": "336570",
     "inceptionDate": "2024年3月27日",
     "name": "貝萊德全球智慧數據股票入息基金",
-    "nav": "11.26",
-    "navDate": "2026年8月4日",
+    "nav": "11.38",
+    "navDate": "2026年8月5日",
     "oneYear": "13.70",
     "shareClass": "",
     "slug": "blackrock-systematic-global-equity-high-income-fund",

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-04",
+  "latestDate": "2026-08-05",
   "pageName": "貝萊德印度基金 | A2",
-  "pointCount": 5003,
+  "pointCount": 5004,
   "points": [
     [
       "2006-04-28",
@@ -20014,18 +20014,22 @@
     [
       "2026-08-04",
       51.57
+    ],
+    [
+      "2026-08-05",
+      51.95
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德印度基金｜A2 USD｜淨值 51.57｜2026年8月4日",
+    "display": "貝萊德印度基金｜A2 USD｜淨值 51.95｜2026年8月5日",
     "hedged": false,
     "id": "229782",
     "inceptionDate": "2006年4月28日",
     "name": "貝萊德印度基金",
-    "nav": "51.57",
-    "navDate": "2026年8月4日",
+    "nav": "51.95",
+    "navDate": "2026年8月5日",
     "oneYear": "-5.08",
     "shareClass": "A2",
     "slug": "blackrock-india-fund-a2-usd",

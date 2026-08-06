@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-04",
+  "latestDate": "2026-08-05",
   "pageName": "貝萊德環球資產配置基金 | A2",
-  "pointCount": 5292,
+  "pointCount": 5293,
   "points": [
     [
       "2005-07-01",
@@ -21170,18 +21170,22 @@
     [
       "2026-08-04",
       86.14
+    ],
+    [
+      "2026-08-05",
+      87.02
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德環球資產配置基金｜A2 EUR｜淨值 86.14｜2026年8月4日",
+    "display": "貝萊德環球資產配置基金｜A2 EUR｜淨值 87.02｜2026年8月5日",
     "hedged": false,
     "id": "228272",
     "inceptionDate": "2002年7月31日",
     "name": "貝萊德環球資產配置基金",
-    "nav": "86.14",
-    "navDate": "2026年8月4日",
+    "nav": "87.02",
+    "navDate": "2026年8月5日",
     "oneYear": "11.84",
     "shareClass": "A2",
     "slug": "blackrock-global-allocation-fund-a2-eur",
