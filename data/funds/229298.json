@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-05",
+  "latestDate": "2026-08-06",
   "pageName": "貝萊德永續能源基金 | A2",
-  "pointCount": 5293,
+  "pointCount": 5294,
   "points": [
     [
       "2005-07-01",
@@ -21174,18 +21174,22 @@
     [
       "2026-08-05",
       21.14
+    ],
+    [
+      "2026-08-06",
+      20.98
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德永續能源基金｜A2 EUR｜淨值 21.14｜2026年8月5日",
+    "display": "貝萊德永續能源基金｜A2 EUR｜淨值 20.98｜2026年8月6日",
     "hedged": false,
     "id": "229298",
     "inceptionDate": "2001年4月6日",
     "name": "貝萊德永續能源基金",
-    "nav": "21.14",
-    "navDate": "2026年8月5日",
+    "nav": "20.98",
+    "navDate": "2026年8月6日",
     "oneYear": "28.30",
     "shareClass": "A2",
     "slug": "blackrock-new-energy-fund-a2-eur",

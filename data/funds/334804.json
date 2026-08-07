@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-05",
+  "latestDate": "2026-08-06",
   "pageName": "貝萊德新興市場中國除外基金 | A2 避險股份",
-  "pointCount": 558,
+  "pointCount": 559,
   "points": [
     [
       "2024-05-13",
@@ -2234,18 +2234,22 @@
     [
       "2026-08-05",
       112.59
+    ],
+    [
+      "2026-08-06",
+      110.37
     ]
   ],
   "product": {
     "classLabel": "ID 334804",
     "currency": "",
-    "display": "貝萊德新興市場中國除外基金｜ID 334804｜淨值 112.59｜2026年8月5日",
+    "display": "貝萊德新興市場中國除外基金｜ID 334804｜淨值 110.37｜2026年8月6日",
     "hedged": false,
     "id": "334804",
     "inceptionDate": "2024年5月13日",
     "name": "貝萊德新興市場中國除外基金",
-    "nav": "112.59",
-    "navDate": "2026年8月5日",
+    "nav": "110.37",
+    "navDate": "2026年8月6日",
     "oneYear": "47.18",
     "shareClass": "",
     "slug": "emerging-markets-ex-china-fund",
