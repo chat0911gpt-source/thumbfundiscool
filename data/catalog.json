@@ -630,6 +630,23 @@
       "ytd": "5.11"
     },
     {
+      "classLabel": "ID 307397",
+      "currency": "",
+      "display": "貝萊德世界科技基金｜ID 307397｜淨值 3,312.00｜2026年8月6日",
+      "hedged": false,
+      "id": "307397",
+      "inceptionDate": "2019年2月27日",
+      "name": "貝萊德世界科技基金",
+      "nav": "3,312.00",
+      "navDate": "2026年8月6日",
+      "oneYear": "25.27",
+      "shareClass": "",
+      "slug": "blackrock-world-technology-fund",
+      "threeYear": "83.50",
+      "url": "https://www.blackrock.com/tw/products/307397/blackrock-world-technology-fund",
+      "ytd": "20.60"
+    },
+    {
       "classLabel": "ID 316509",
       "currency": "",
       "display": "貝萊德世界科技基金｜ID 316509｜淨值 19.12｜2026年8月6日",
@@ -696,6 +713,23 @@
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/340610/blackrock-world-technology-fund",
       "ytd": "22.53"
+    },
+    {
+      "classLabel": "ID 344444",
+      "currency": "",
+      "display": "貝萊德世界科技基金｜ID 344444｜淨值 1,332.00｜2026年8月6日",
+      "hedged": false,
+      "id": "344444",
+      "inceptionDate": "2025年7月16日",
+      "name": "貝萊德世界科技基金",
+      "nav": "1,332.00",
+      "navDate": "2026年8月6日",
+      "oneYear": "24.08",
+      "shareClass": "",
+      "slug": "blackrock-world-technology-fund",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/344444/blackrock-world-technology-fund",
+      "ytd": "19.93"
     },
     {
       "classLabel": "A2 EUR",
@@ -2662,12 +2696,12 @@
       "name": "貝萊德新興市場債券基金",
       "nav": "9.83",
       "navDate": "2026年8月6日",
-      "oneYear": "9.93",
+      "oneYear": "10.35",
       "shareClass": "A3",
       "slug": "blackrock-emerging-markets-bond-fund-a3-usd",
-      "threeYear": "37.03",
+      "threeYear": "37.56",
       "url": "https://www.blackrock.com/tw/products/229578/blackrock-emerging-markets-bond-fund-a3-usd",
-      "ytd": "2.40"
+      "ytd": "2.80"
     },
     {
       "classLabel": "A6 USD",
@@ -2815,12 +2849,12 @@
       "name": "貝萊德新興市場當地債券基金",
       "nav": "3.17",
       "navDate": "2026年8月6日",
-      "oneYear": "9.34",
+      "oneYear": "10.14",
       "shareClass": "A3",
       "slug": "blackrock-emerging-markets-local-currency-bond-fund-a3-usd",
-      "threeYear": "17.60",
+      "threeYear": "18.47",
       "url": "https://www.blackrock.com/tw/products/229848/blackrock-emerging-markets-local-currency-bond-fund-a3-usd",
-      "ytd": "1.92"
+      "ytd": "2.67"
     },
     {
       "classLabel": "A2 USD",
@@ -2991,6 +3025,74 @@
       "threeYear": "107.76",
       "url": "https://www.blackrock.com/tw/products/253389/blackrock-japan-small-and-midcap-opportunities-fund-a2-usd-hedged",
       "ytd": "13.89"
+    },
+    {
+      "classLabel": "ID 334973",
+      "currency": "",
+      "display": "貝萊德日本靈活股票基金｜ID 334973｜淨值 13.80｜2026年8月6日",
+      "hedged": false,
+      "id": "334973",
+      "inceptionDate": "2024年1月10日",
+      "name": "貝萊德日本靈活股票基金",
+      "nav": "13.80",
+      "navDate": "2026年8月6日",
+      "oneYear": "28.41",
+      "shareClass": "",
+      "slug": "blackrock-japan-flexible-equity-fund",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/334973/blackrock-japan-flexible-equity-fund",
+      "ytd": "8.58"
+    },
+    {
+      "classLabel": "ID 344433",
+      "currency": "",
+      "display": "貝萊德日本靈活股票基金｜ID 344433｜淨值 8.36｜2026年8月6日",
+      "hedged": false,
+      "id": "344433",
+      "inceptionDate": "2025年7月16日",
+      "name": "貝萊德日本靈活股票基金",
+      "nav": "8.36",
+      "navDate": "2026年8月6日",
+      "oneYear": "16.38",
+      "shareClass": "",
+      "slug": "blackrock-japan-flexible-equity-fund",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/344433/blackrock-japan-flexible-equity-fund",
+      "ytd": "3.75"
+    },
+    {
+      "classLabel": "ID 344434",
+      "currency": "",
+      "display": "貝萊德日本靈活股票基金｜ID 344434｜淨值 12.74｜2026年8月6日",
+      "hedged": false,
+      "id": "344434",
+      "inceptionDate": "2025年7月16日",
+      "name": "貝萊德日本靈活股票基金",
+      "nav": "12.74",
+      "navDate": "2026年8月6日",
+      "oneYear": "25.19",
+      "shareClass": "",
+      "slug": "blackrock-japan-flexible-equity-fund",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/344434/blackrock-japan-flexible-equity-fund",
+      "ytd": "8.04"
+    },
+    {
+      "classLabel": "ID 344437",
+      "currency": "",
+      "display": "貝萊德日本靈活股票基金｜ID 344437｜淨值 1,320.00｜2026年8月6日",
+      "hedged": false,
+      "id": "344437",
+      "inceptionDate": "2025年7月16日",
+      "name": "貝萊德日本靈活股票基金",
+      "nav": "1,320.00",
+      "navDate": "2026年8月6日",
+      "oneYear": "23.20",
+      "shareClass": "",
+      "slug": "blackrock-japan-flexible-equity-fund",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/344437/blackrock-japan-flexible-equity-fund",
+      "ytd": "5.96"
     },
     {
       "classLabel": "A2 EUR",
@@ -3410,12 +3512,12 @@
       "name": "貝萊德歐元優質債券基金",
       "nav": "17.53",
       "navDate": "2026年8月6日",
-      "oneYear": "-0.33",
+      "oneYear": "-0.12",
       "shareClass": "A3",
       "slug": "blackrock-euro-bond-fund-a3-eur",
-      "threeYear": "7.54",
+      "threeYear": "7.76",
       "url": "https://www.blackrock.com/tw/products/228383/blackrock-euro-bond-fund-a3-eur",
-      "ytd": "-0.88"
+      "ytd": "-0.67"
     },
     {
       "classLabel": "A3 USD",
@@ -5458,6 +5560,57 @@
       "ytd": "10.59"
     },
     {
+      "classLabel": "ID 350764",
+      "currency": "",
+      "display": "貝萊德美國靈活股票基金｜ID 350764｜淨值 10.26｜2026年8月6日",
+      "hedged": false,
+      "id": "350764",
+      "inceptionDate": "2026年5月6日",
+      "name": "貝萊德美國靈活股票基金",
+      "nav": "10.26",
+      "navDate": "2026年8月6日",
+      "oneYear": "-",
+      "shareClass": "",
+      "slug": "blackrock-us-flexible-equity-fund",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/350764/blackrock-us-flexible-equity-fund",
+      "ytd": "-"
+    },
+    {
+      "classLabel": "ID 350765",
+      "currency": "",
+      "display": "貝萊德美國靈活股票基金｜ID 350765｜淨值 10.08｜2026年8月6日",
+      "hedged": false,
+      "id": "350765",
+      "inceptionDate": "2026年5月6日",
+      "name": "貝萊德美國靈活股票基金",
+      "nav": "10.08",
+      "navDate": "2026年8月6日",
+      "oneYear": "-",
+      "shareClass": "",
+      "slug": "blackrock-us-flexible-equity-fund",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/350765/blackrock-us-flexible-equity-fund",
+      "ytd": "-"
+    },
+    {
+      "classLabel": "ID 350766",
+      "currency": "",
+      "display": "貝萊德美國靈活股票基金｜ID 350766｜淨值 10.10｜2026年8月6日",
+      "hedged": false,
+      "id": "350766",
+      "inceptionDate": "2026年5月6日",
+      "name": "貝萊德美國靈活股票基金",
+      "nav": "10.10",
+      "navDate": "2026年8月6日",
+      "oneYear": "-",
+      "shareClass": "",
+      "slug": "blackrock-us-flexible-equity-fund",
+      "threeYear": "-",
+      "url": "https://www.blackrock.com/tw/products/350766/blackrock-us-flexible-equity-fund",
+      "ytd": "-"
+    },
+    {
       "classLabel": "A2 EUR",
       "currency": "EUR",
       "display": "貝萊德美國靈活股票基金｜A2 EUR｜淨值 90.02｜2026年8月6日",
@@ -5527,5 +5680,5 @@
     }
   ],
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-08-07T06:38:28+00:00"
+  "updatedAt": "2026-08-07T13:43:58+00:00"
 }
