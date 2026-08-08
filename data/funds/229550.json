@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-06",
+  "latestDate": "2026-08-07",
   "pageName": "貝萊德中國基金 | A2 避險股份",
-  "pointCount": 4481,
+  "pointCount": 4482,
   "points": [
     [
       "2008-06-24",
@@ -17926,18 +17926,22 @@
     [
       "2026-08-06",
       14.5
+    ],
+    [
+      "2026-08-07",
+      14.56
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德中國基金｜A2 EUR 避險｜淨值 14.50｜2026年8月6日",
+    "display": "貝萊德中國基金｜A2 EUR 避險｜淨值 14.56｜2026年8月7日",
     "hedged": true,
     "id": "229550",
     "inceptionDate": "2008年6月24日",
     "name": "貝萊德中國基金",
-    "nav": "14.50",
-    "navDate": "2026年8月6日",
+    "nav": "14.56",
+    "navDate": "2026年8月7日",
     "oneYear": "1.41",
     "shareClass": "A2",
     "slug": "blackrock-china-fund-a2-eur-hedged",
