@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-07",
+  "latestDate": "2026-08-10",
   "pageName": "貝萊德世界科技基金 | B10",
-  "pointCount": 406,
+  "pointCount": 407,
   "points": [
     [
       "2024-12-18",
@@ -1626,18 +1626,22 @@
     [
       "2026-08-07",
       12.78
+    ],
+    [
+      "2026-08-10",
+      12.84
     ]
   ],
   "product": {
     "classLabel": "ID 340610",
     "currency": "",
-    "display": "貝萊德世界科技基金｜ID 340610｜淨值 12.78｜2026年8月7日",
+    "display": "貝萊德世界科技基金｜ID 340610｜淨值 12.84｜2026年8月10日",
     "hedged": false,
     "id": "340610",
     "inceptionDate": "2024年12月18日",
     "name": "貝萊德世界科技基金",
-    "nav": "12.78",
-    "navDate": "2026年8月7日",
+    "nav": "12.84",
+    "navDate": "2026年8月10日",
     "oneYear": "28.69",
     "shareClass": "",
     "slug": "blackrock-world-technology-fund",

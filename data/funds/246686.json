@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-07",
+  "latestDate": "2026-08-10",
   "pageName": "貝萊德環球企業債券基金 | A8 避險股份",
-  "pointCount": 3372,
+  "pointCount": 3373,
   "points": [
     [
       "2013-02-22",
@@ -13490,18 +13490,22 @@
     [
       "2026-08-07",
       9.55
+    ],
+    [
+      "2026-08-10",
+      9.53
     ]
   ],
   "product": {
     "classLabel": "A8 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德環球企業債券基金｜A8 AUD 避險｜淨值 9.55｜2026年8月7日",
+    "display": "貝萊德環球企業債券基金｜A8 AUD 避險｜淨值 9.53｜2026年8月10日",
     "hedged": true,
     "id": "246686",
     "inceptionDate": "2013年2月20日",
     "name": "貝萊德環球企業債券基金",
-    "nav": "9.55",
-    "navDate": "2026年8月7日",
+    "nav": "9.53",
+    "navDate": "2026年8月10日",
     "oneYear": "1.98",
     "shareClass": "A8",
     "slug": "blackrock-global-corporate-bond-fund-a8-aud-hedged",
