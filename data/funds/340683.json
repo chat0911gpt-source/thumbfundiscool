@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-12",
+  "latestDate": "2026-08-13",
   "pageName": "貝萊德環球資產配置基金 | B2",
-  "pointCount": 409,
+  "pointCount": 410,
   "points": [
     [
       "2024-12-18",
@@ -1638,18 +1638,22 @@
     [
       "2026-08-12",
       12.26
+    ],
+    [
+      "2026-08-13",
+      12.28
     ]
   ],
   "product": {
     "classLabel": "ID 340683",
     "currency": "",
-    "display": "貝萊德環球資產配置基金｜ID 340683｜淨值 12.26｜2026年8月12日",
+    "display": "貝萊德環球資產配置基金｜ID 340683｜淨值 12.28｜2026年8月13日",
     "hedged": false,
     "id": "340683",
     "inceptionDate": "2024年12月18日",
     "name": "貝萊德環球資產配置基金",
-    "nav": "12.26",
-    "navDate": "2026年8月12日",
+    "nav": "12.28",
+    "navDate": "2026年8月13日",
     "oneYear": "11.25",
     "shareClass": "",
     "slug": "blackrock-global-allocation-fund",
