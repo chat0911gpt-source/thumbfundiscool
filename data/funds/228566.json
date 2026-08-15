@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-13",
+  "latestDate": "2026-08-14",
   "pageName": "貝萊德美國價值型基金 | A2",
-  "pointCount": 5298,
+  "pointCount": 5299,
   "points": [
     [
       "2005-07-01",
@@ -21194,18 +21194,22 @@
     [
       "2026-08-13",
       133.78
+    ],
+    [
+      "2026-08-14",
+      133.46
     ]
   ],
   "product": {
     "classLabel": "A2 GBP",
     "currency": "GBP",
-    "display": "貝萊德美國價值型基金｜A2 GBP｜淨值 133.78｜2026年8月13日",
+    "display": "貝萊德美國價值型基金｜A2 GBP｜淨值 133.46｜2026年8月14日",
     "hedged": false,
     "id": "228566",
     "inceptionDate": "2002年6月29日",
     "name": "貝萊德美國價值型基金",
-    "nav": "133.78",
-    "navDate": "2026年8月13日",
+    "nav": "133.46",
+    "navDate": "2026年8月14日",
     "oneYear": "21.87",
     "shareClass": "A2",
     "slug": "blackrock-us-basic-value-fund-a2-gbp",
