@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-14",
+  "latestDate": "2026-08-17",
   "pageName": "貝萊德美國增長型基金 | A2",
-  "pointCount": 5299,
+  "pointCount": 5300,
   "points": [
     [
       "2005-07-01",
@@ -21198,18 +21198,22 @@
     [
       "2026-08-14",
       54.52
+    ],
+    [
+      "2026-08-17",
+      54.59
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德美國增長型基金｜A2 EUR｜淨值 54.52｜2026年8月14日",
+    "display": "貝萊德美國增長型基金｜A2 EUR｜淨值 54.59｜2026年8月17日",
     "hedged": false,
     "id": "228606",
     "inceptionDate": "2003年5月19日",
     "name": "貝萊德美國增長型基金",
-    "nav": "54.52",
-    "navDate": "2026年8月14日",
+    "nav": "54.59",
+    "navDate": "2026年8月17日",
     "oneYear": "10.66",
     "shareClass": "A2",
     "slug": "blackrock-us-growth-fund-a2-eur",
