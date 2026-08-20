@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-18",
+  "latestDate": "2026-08-19",
   "pageName": "貝萊德美國價值型基金 | A10",
-  "pointCount": 952,
+  "pointCount": 953,
   "points": [
     [
       "2022-10-26",
@@ -3810,18 +3810,22 @@
     [
       "2026-08-18",
       12.77
+    ],
+    [
+      "2026-08-19",
+      12.87
     ]
   ],
   "product": {
     "classLabel": "ID 329962",
     "currency": "",
-    "display": "貝萊德美國價值型基金｜ID 329962｜淨值 12.77｜2026年8月18日",
+    "display": "貝萊德美國價值型基金｜ID 329962｜淨值 12.87｜2026年8月19日",
     "hedged": false,
     "id": "329962",
     "inceptionDate": "2022年10月26日",
     "name": "貝萊德美國價值型基金",
-    "nav": "12.77",
-    "navDate": "2026年8月18日",
+    "nav": "12.87",
+    "navDate": "2026年8月19日",
     "oneYear": "23.96",
     "shareClass": "",
     "slug": "blackrock-us-basic-value-fund",

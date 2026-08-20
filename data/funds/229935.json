@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-18",
+  "latestDate": "2026-08-19",
   "pageName": "貝萊德世界金融基金 | A2",
-  "pointCount": 5302,
+  "pointCount": 5303,
   "points": [
     [
       "2005-07-01",
@@ -21210,18 +21210,22 @@
     [
       "2026-08-18",
       72.68
+    ],
+    [
+      "2026-08-19",
+      71.78
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德世界金融基金｜A2 EUR｜淨值 72.68｜2026年8月18日",
+    "display": "貝萊德世界金融基金｜A2 EUR｜淨值 71.78｜2026年8月19日",
     "hedged": false,
     "id": "229935",
     "inceptionDate": "2000年3月3日",
     "name": "貝萊德世界金融基金",
-    "nav": "72.68",
-    "navDate": "2026年8月18日",
+    "nav": "71.78",
+    "navDate": "2026年8月19日",
     "oneYear": "18.72",
     "shareClass": "A2",
     "slug": "blackrock-world-financials-fund-a2-eur",
