@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-20",
+  "latestDate": "2026-08-21",
   "pageName": "貝萊德全方位資產收益組合基金 | 月配類型",
-  "pointCount": 2049,
+  "pointCount": 2050,
   "points": [
     [
       "2017-07-10",
@@ -8198,18 +8198,22 @@
     [
       "2026-08-20",
       9.96
+    ],
+    [
+      "2026-08-21",
+      9.97
     ]
   ],
   "product": {
     "classLabel": "ID 287608",
     "currency": "",
-    "display": "貝萊德全方位資產收益組合基金｜ID 287608｜淨值 9.96｜2026年8月20日",
+    "display": "貝萊德全方位資產收益組合基金｜ID 287608｜淨值 9.97｜2026年8月21日",
     "hedged": false,
     "id": "287608",
     "inceptionDate": "2017年7月10日",
     "name": "貝萊德全方位資產收益組合基金",
-    "nav": "9.96",
-    "navDate": "2026年8月20日",
+    "nav": "9.97",
+    "navDate": "2026年8月21日",
     "oneYear": "3.10",
     "shareClass": "",
     "slug": "blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-dis",
