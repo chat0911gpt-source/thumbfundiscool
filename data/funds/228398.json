@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-21",
+  "latestDate": "2026-08-24",
   "pageName": "貝萊德美元非投資等級債券基金 | A3 避險股份",
-  "pointCount": 3876,
+  "pointCount": 3877,
   "points": [
     [
       "2011-03-04",
@@ -15506,18 +15506,22 @@
     [
       "2026-08-21",
       10.09
+    ],
+    [
+      "2026-08-24",
+      10.09
     ]
   ],
   "product": {
     "classLabel": "A3 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德美元非投資等級債券基金｜A3 AUD 避險｜淨值 10.09｜2026年8月21日",
+    "display": "貝萊德美元非投資等級債券基金｜A3 AUD 避險｜淨值 10.09｜2026年8月24日",
     "hedged": true,
     "id": "228398",
     "inceptionDate": "2011年3月4日",
     "name": "貝萊德美元非投資等級債券基金",
     "nav": "10.09",
-    "navDate": "2026年8月21日",
+    "navDate": "2026年8月24日",
     "oneYear": "4.27",
     "shareClass": "A3",
     "slug": "blackrock-us-dollar-high-yield-bond-fund-a3-aud-hedged",

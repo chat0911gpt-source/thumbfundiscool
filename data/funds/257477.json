@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-21",
+  "latestDate": "2026-08-24",
   "pageName": "貝萊德歐元市場基金 | A2 避險股份",
-  "pointCount": 3235,
+  "pointCount": 3236,
   "points": [
     [
       "2013-09-25",
@@ -12942,18 +12942,22 @@
     [
       "2026-08-21",
       32.53
+    ],
+    [
+      "2026-08-24",
+      32.33
     ]
   ],
   "product": {
     "classLabel": "A2 USD 避險",
     "currency": "USD",
-    "display": "貝萊德歐元市場基金｜A2 USD 避險｜淨值 32.53｜2026年8月21日",
+    "display": "貝萊德歐元市場基金｜A2 USD 避險｜淨值 32.33｜2026年8月24日",
     "hedged": true,
     "id": "257477",
     "inceptionDate": "2013年9月25日",
     "name": "貝萊德歐元市場基金",
-    "nav": "32.53",
-    "navDate": "2026年8月21日",
+    "nav": "32.33",
+    "navDate": "2026年8月24日",
     "oneYear": "11.75",
     "shareClass": "A2",
     "slug": "blackrock-euro-markets-fund-a2-usd-hedged",
