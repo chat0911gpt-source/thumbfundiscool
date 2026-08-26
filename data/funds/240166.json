@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-25",
+  "latestDate": "2026-08-26",
   "pageName": "貝萊德寶利基金 | 累積類型",
-  "pointCount": 6662,
+  "pointCount": 6663,
   "points": [
     [
       "1999-05-11",
@@ -26650,18 +26650,22 @@
     [
       "2026-08-25",
       164.12
+    ],
+    [
+      "2026-08-26",
+      168.55
     ]
   ],
   "product": {
     "classLabel": "ID 240166",
     "currency": "",
-    "display": "貝萊德寶利基金｜ID 240166｜淨值 164.12｜2026年8月25日",
+    "display": "貝萊德寶利基金｜ID 240166｜淨值 168.55｜2026年8月26日",
     "hedged": false,
     "id": "240166",
     "inceptionDate": "1999年5月10日",
     "name": "貝萊德寶利基金",
-    "nav": "164.12",
-    "navDate": "2026年8月25日",
+    "nav": "168.55",
+    "navDate": "2026年8月26日",
     "oneYear": "112.29",
     "shareClass": "",
     "slug": "blackrock-baoli-fund",
