@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-24",
+  "latestDate": "2026-08-25",
   "pageName": "貝萊德世界能源基金 | A2",
-  "pointCount": 5306,
+  "pointCount": 5307,
   "points": [
     [
       "2005-07-01",
@@ -21226,18 +21226,22 @@
     [
       "2026-08-24",
       31.82
+    ],
+    [
+      "2026-08-25",
+      31.54
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德世界能源基金｜A2 EUR｜淨值 31.82｜2026年8月24日",
+    "display": "貝萊德世界能源基金｜A2 EUR｜淨值 31.54｜2026年8月25日",
     "hedged": false,
     "id": "229319",
     "inceptionDate": "2001年4月6日",
     "name": "貝萊德世界能源基金",
-    "nav": "31.82",
-    "navDate": "2026年8月24日",
+    "nav": "31.54",
+    "navDate": "2026年8月25日",
     "oneYear": "36.81",
     "shareClass": "A2",
     "slug": "blackrock-world-energy-fund-a2-eur",

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-24",
+  "latestDate": "2026-08-25",
   "pageName": "貝萊德美元非投資等級債券基金 | B8 避險股份",
-  "pointCount": 597,
+  "pointCount": 598,
   "points": [
     [
       "2024-04-03",
@@ -2390,18 +2390,22 @@
     [
       "2026-08-24",
       98.29
+    ],
+    [
+      "2026-08-25",
+      98.35
     ]
   ],
   "product": {
     "classLabel": "ID 336654",
     "currency": "",
-    "display": "貝萊德美元非投資等級債券基金｜ID 336654｜淨值 98.29｜2026年8月24日",
+    "display": "貝萊德美元非投資等級債券基金｜ID 336654｜淨值 98.35｜2026年8月25日",
     "hedged": false,
     "id": "336654",
     "inceptionDate": "2024年4月3日",
     "name": "貝萊德美元非投資等級債券基金",
-    "nav": "98.29",
-    "navDate": "2026年8月24日",
+    "nav": "98.35",
+    "navDate": "2026年8月25日",
     "oneYear": "5.84",
     "shareClass": "",
     "slug": "blackrock-us-dollar-high-yield-bond-fund",

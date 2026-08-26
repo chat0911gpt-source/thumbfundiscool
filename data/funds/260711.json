@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-24",
+  "latestDate": "2026-08-25",
   "pageName": "貝萊德全球股票收益基金 | A8 避險股份",
-  "pointCount": 3136,
+  "pointCount": 3137,
   "points": [
     [
       "2014-02-19",
@@ -12546,18 +12546,22 @@
     [
       "2026-08-24",
       165.97
+    ],
+    [
+      "2026-08-25",
+      166.61
     ]
   ],
   "product": {
     "classLabel": "避險",
     "currency": "",
-    "display": "貝萊德全球股票收益基金｜避險｜淨值 165.97｜2026年8月24日",
+    "display": "貝萊德全球股票收益基金｜避險｜淨值 166.61｜2026年8月25日",
     "hedged": true,
     "id": "260711",
     "inceptionDate": "2014年2月19日",
     "name": "貝萊德全球股票收益基金",
-    "nav": "165.97",
-    "navDate": "2026年8月24日",
+    "nav": "166.61",
+    "navDate": "2026年8月25日",
     "oneYear": "19.34",
     "shareClass": "",
     "slug": "bgf-global-equity-income-fund-a8-zar-hedged",

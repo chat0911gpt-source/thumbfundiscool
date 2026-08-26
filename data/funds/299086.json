@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-24",
+  "latestDate": "2026-08-25",
   "pageName": "貝萊德新世代運輸基金 | A2",
-  "pointCount": 1997,
+  "pointCount": 1998,
   "points": [
     [
       "2018-09-04",
@@ -7990,18 +7990,22 @@
     [
       "2026-08-24",
       16.08
+    ],
+    [
+      "2026-08-25",
+      15.96
     ]
   ],
   "product": {
     "classLabel": "ID 299086",
     "currency": "",
-    "display": "貝萊德新世代運輸基金｜ID 299086｜淨值 16.08｜2026年8月24日",
+    "display": "貝萊德新世代運輸基金｜ID 299086｜淨值 15.96｜2026年8月25日",
     "hedged": false,
     "id": "299086",
     "inceptionDate": "2018年9月4日",
     "name": "貝萊德新世代運輸基金",
-    "nav": "16.08",
-    "navDate": "2026年8月24日",
+    "nav": "15.96",
+    "navDate": "2026年8月25日",
     "oneYear": "11.35",
     "shareClass": "",
     "slug": "blackrock-future-of-transport-fund",
