@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-26",
+  "latestDate": "2026-08-27",
   "pageName": "貝萊德美國中型企業價值基金 | A2",
-  "pointCount": 5307,
+  "pointCount": 5308,
   "points": [
     [
       "2005-07-01",
@@ -21230,18 +21230,22 @@
     [
       "2026-08-26",
       480.07
+    ],
+    [
+      "2026-08-27",
+      477.94
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德美國中型企業價值基金｜A2 USD｜淨值 480.07｜2026年8月26日",
+    "display": "貝萊德美國中型企業價值基金｜A2 USD｜淨值 477.94｜2026年8月27日",
     "hedged": false,
     "id": "228531",
     "inceptionDate": "1987年5月13日",
     "name": "貝萊德美國中型企業價值基金",
-    "nav": "480.07",
-    "navDate": "2026年8月26日",
+    "nav": "477.94",
+    "navDate": "2026年8月27日",
     "oneYear": "19.69",
     "shareClass": "A2",
     "slug": "blackrock-us-small-and-midcap-opportunities-fund-a2-usd",

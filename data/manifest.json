@@ -1,16 +1,10 @@
 {
-  "changedFundFiles": 305,
-  "failureCount": 1,
-  "failures": [
-    {
-      "error": "The read operation timed out；沿用既有資料",
-      "id": "307397",
-      "name": "貝萊德世界科技基金"
-    }
-  ],
+  "changedFundFiles": 327,
+  "failureCount": 0,
+  "failures": [],
   "fundCount": 334,
   "productCount": 334,
   "requestedFundCount": 334,
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-08-27T10:01:32+00:00"
+  "updatedAt": "2026-08-27T22:26:17+00:00"
 }

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-26",
+  "latestDate": "2026-08-27",
   "pageName": "貝萊德亞洲老虎債券基金 | A3",
-  "pointCount": 5311,
+  "pointCount": 5312,
   "points": [
     [
       "1986-11-24",
@@ -21246,18 +21246,22 @@
     [
       "2026-08-26",
       10.26
+    ],
+    [
+      "2026-08-27",
+      10.26
     ]
   ],
   "product": {
     "classLabel": "A3 USD",
     "currency": "USD",
-    "display": "貝萊德亞洲老虎債券基金｜A3 USD｜淨值 10.26｜2026年8月26日",
+    "display": "貝萊德亞洲老虎債券基金｜A3 USD｜淨值 10.26｜2026年8月27日",
     "hedged": false,
     "id": "228418",
     "inceptionDate": "2003年10月24日",
     "name": "貝萊德亞洲老虎債券基金",
     "nav": "10.26",
-    "navDate": "2026年8月26日",
+    "navDate": "2026年8月27日",
     "oneYear": "4.66",
     "shareClass": "A3",
     "slug": "blackrock-asian-tiger-bond-fund-a3-usd",
