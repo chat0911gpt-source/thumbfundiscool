@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-27",
+  "latestDate": "2026-08-28",
   "pageName": "貝萊德亞洲老虎債券基金 | A8 避險股份",
-  "pointCount": 3139,
+  "pointCount": 3140,
   "points": [
     [
       "2014-02-19",
@@ -12558,18 +12558,22 @@
     [
       "2026-08-27",
       76.91
+    ],
+    [
+      "2026-08-28",
+      76.95
     ]
   ],
   "product": {
     "classLabel": "避險",
     "currency": "",
-    "display": "貝萊德亞洲老虎債券基金｜避險｜淨值 76.91｜2026年8月27日",
+    "display": "貝萊德亞洲老虎債券基金｜避險｜淨值 76.95｜2026年8月28日",
     "hedged": true,
     "id": "260724",
     "inceptionDate": "2014年2月19日",
     "name": "貝萊德亞洲老虎債券基金",
-    "nav": "76.91",
-    "navDate": "2026年8月27日",
+    "nav": "76.95",
+    "navDate": "2026年8月28日",
     "oneYear": "7.15",
     "shareClass": "",
     "slug": "bgf-asian-tiger-bond-fund-a8-zar-hedged",
