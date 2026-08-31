@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-28",
+  "latestDate": "2026-08-31",
   "pageName": "貝萊德世界礦業基金 | B10",
-  "pointCount": 421,
+  "pointCount": 422,
   "points": [
     [
       "2024-12-18",
@@ -1686,18 +1686,22 @@
     [
       "2026-08-28",
       18.63
+    ],
+    [
+      "2026-08-31",
+      17.92
     ]
   ],
   "product": {
     "classLabel": "ID 340607",
     "currency": "",
-    "display": "貝萊德世界礦業基金｜ID 340607｜淨值 18.63｜2026年8月28日",
+    "display": "貝萊德世界礦業基金｜ID 340607｜淨值 17.92｜2026年8月31日",
     "hedged": false,
     "id": "340607",
     "inceptionDate": "2024年12月18日",
     "name": "貝萊德世界礦業基金",
-    "nav": "18.63",
-    "navDate": "2026年8月28日",
+    "nav": "17.92",
+    "navDate": "2026年8月31日",
     "oneYear": "51.44",
     "shareClass": "",
     "slug": "blackrock-world-mining-fund",
