@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-31",
+  "latestDate": "2026-09-01",
   "pageName": "貝萊德環球非投資等級債券基金 | A2",
-  "pointCount": 4827,
+  "pointCount": 4828,
   "points": [
     [
       "2007-06-08",
@@ -19310,24 +19310,28 @@
     [
       "2026-08-31",
       34.37
+    ],
+    [
+      "2026-09-01",
+      34.3
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德環球非投資等級債券基金｜A2 USD｜淨值 34.37｜2026年8月31日",
+    "display": "貝萊德環球非投資等級債券基金｜A2 USD｜淨值 34.30｜2026年9月1日",
     "hedged": false,
     "id": "229755",
     "inceptionDate": "2007年6月8日",
     "name": "貝萊德環球非投資等級債券基金",
-    "nav": "34.37",
-    "navDate": "2026年8月31日",
-    "oneYear": "4.58",
+    "nav": "34.30",
+    "navDate": "2026年9月1日",
+    "oneYear": "4.56",
     "shareClass": "A2",
     "slug": "blackrock-global-high-yield-bond-fund-a2-usd",
-    "threeYear": "25.23",
+    "threeYear": "26.27",
     "url": "https://www.blackrock.com/tw/products/229755/blackrock-global-high-yield-bond-fund-a2-usd",
-    "ytd": "1.46"
+    "ytd": "2.41"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229755/blackrock-global-high-yield-bond-fund-a2-usd"

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-31",
+  "latestDate": "2026-09-01",
   "pageName": "貝萊德環球非投資等級債券基金 | A6 避險股份",
-  "pointCount": 672,
+  "pointCount": 673,
   "points": [
     [
       "2023-12-20",
@@ -2690,19 +2690,23 @@
     [
       "2026-08-31",
       883.0
+    ],
+    [
+      "2026-09-01",
+      881.0
     ]
   ],
   "product": {
     "classLabel": "ID 334761",
     "currency": "",
-    "display": "貝萊德環球非投資等級債券基金｜ID 334761｜淨值 883.00｜2026年8月31日",
+    "display": "貝萊德環球非投資等級債券基金｜ID 334761｜淨值 881.00｜2026年9月1日",
     "hedged": false,
     "id": "334761",
     "inceptionDate": "2023年12月20日",
     "name": "貝萊德環球非投資等級債券基金",
-    "nav": "883.00",
-    "navDate": "2026年8月31日",
-    "oneYear": "1.09",
+    "nav": "881.00",
+    "navDate": "2026年9月1日",
+    "oneYear": "0.46",
     "shareClass": "",
     "slug": "blackrock-global-high-yield-bond-fund",
     "threeYear": "-",

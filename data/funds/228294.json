@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-08-31",
+  "latestDate": "2026-09-01",
   "pageName": "貝萊德環球資產配置基金 | A2 避險股份",
-  "pointCount": 4165,
+  "pointCount": 4166,
   "points": [
     [
       "2010-01-22",
@@ -16662,18 +16662,22 @@
     [
       "2026-08-31",
       26.86
+    ],
+    [
+      "2026-09-01",
+      26.74
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德環球資產配置基金｜A2 AUD 避險｜淨值 26.86｜2026年8月31日",
+    "display": "貝萊德環球資產配置基金｜A2 AUD 避險｜淨值 26.74｜2026年9月1日",
     "hedged": true,
     "id": "228294",
     "inceptionDate": "2010年1月22日",
     "name": "貝萊德環球資產配置基金",
-    "nav": "26.86",
-    "navDate": "2026年8月31日",
+    "nav": "26.74",
+    "navDate": "2026年9月1日",
     "oneYear": "12.76",
     "shareClass": "A2",
     "slug": "blackrock-global-allocation-fund-a2-aud-hedged",
