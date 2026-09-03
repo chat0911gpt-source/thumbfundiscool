@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-01",
+  "latestDate": "2026-09-02",
   "pageName": "貝萊德新興市場債券基金 | A8 避險股份",
-  "pointCount": 3386,
+  "pointCount": 3387,
   "points": [
     [
       "2013-02-20",
@@ -13546,24 +13546,28 @@
     [
       "2026-09-01",
       7.26
+    ],
+    [
+      "2026-09-02",
+      7.26
     ]
   ],
   "product": {
     "classLabel": "A8 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德新興市場債券基金｜A8 AUD 避險｜淨值 7.26｜2026年9月1日",
+    "display": "貝萊德新興市場債券基金｜A8 AUD 避險｜淨值 7.26｜2026年9月2日",
     "hedged": true,
     "id": "246708",
     "inceptionDate": "2013年2月20日",
     "name": "貝萊德新興市場債券基金",
     "nav": "7.26",
-    "navDate": "2026年9月1日",
-    "oneYear": "10.09",
+    "navDate": "2026年9月2日",
+    "oneYear": "9.38",
     "shareClass": "A8",
     "slug": "blackrock-emerging-markets-bond-fund-a8-aud-hedged",
-    "threeYear": "33.97",
+    "threeYear": "36.51",
     "url": "https://www.blackrock.com/tw/products/246708/blackrock-emerging-markets-bond-fund-a8-aud-hedged",
-    "ytd": "2.71"
+    "ytd": "3.56"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/246708/blackrock-emerging-markets-bond-fund-a8-aud-hedged"

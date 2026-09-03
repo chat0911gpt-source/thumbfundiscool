@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-01",
+  "latestDate": "2026-09-02",
   "pageName": "貝萊德智慧數據環球小型企業基金 | A2",
-  "pointCount": 5312,
+  "pointCount": 5313,
   "points": [
     [
       "2005-07-01",
@@ -21250,18 +21250,22 @@
     [
       "2026-09-01",
       225.18
+    ],
+    [
+      "2026-09-02",
+      224.28
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德智慧數據環球小型企業基金｜A2 USD｜淨值 225.18｜2026年9月1日",
+    "display": "貝萊德智慧數據環球小型企業基金｜A2 USD｜淨值 224.28｜2026年9月2日",
     "hedged": false,
     "id": "229773",
     "inceptionDate": "1994年11月4日",
     "name": "貝萊德智慧數據環球小型企業基金",
-    "nav": "225.18",
-    "navDate": "2026年9月1日",
+    "nav": "224.28",
+    "navDate": "2026年9月2日",
     "oneYear": "23.05",
     "shareClass": "A2",
     "slug": "blackrock-global-smallcap-fund-a2-usd",

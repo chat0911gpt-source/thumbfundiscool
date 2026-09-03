@@ -1455,19 +1455,19 @@
   "product": {
     "classLabel": "ID 340388",
     "currency": "",
-    "display": "貝萊德iShares安碩0-3月美國國庫證券指數基金｜ID 340388｜淨值 10.21｜2026年8月31日",
+    "display": "貝萊德iShares安碩0-3月美國國庫證券指數基金｜ID 340388｜淨值 10.18｜2026年9月1日",
     "hedged": false,
     "id": "340388",
     "inceptionDate": "2025年2月24日",
     "name": "貝萊德iShares安碩0-3月美國國庫證券指數基金",
-    "nav": "10.21",
-    "navDate": "2026年8月31日",
-    "oneYear": "12.01",
+    "nav": "10.18",
+    "navDate": "2026年9月1日",
+    "oneYear": "7.24",
     "shareClass": "",
     "slug": "blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/340388/blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
-    "ytd": "4.78"
+    "ytd": "3.09"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/340388/blackrock-ishares-0-3-month-us-treasury-securities-index-fund"

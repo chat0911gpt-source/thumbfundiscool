@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-01",
+  "latestDate": "2026-09-02",
   "pageName": "貝萊德日本靈活股票基金 | A10 避險股份",
-  "pointCount": 649,
+  "pointCount": 650,
   "points": [
     [
       "2024-01-10",
@@ -2598,18 +2598,22 @@
     [
       "2026-09-01",
       13.81
+    ],
+    [
+      "2026-09-02",
+      13.6
     ]
   ],
   "product": {
     "classLabel": "ID 334973",
     "currency": "",
-    "display": "貝萊德日本靈活股票基金｜ID 334973｜淨值 13.81｜2026年9月1日",
+    "display": "貝萊德日本靈活股票基金｜ID 334973｜淨值 13.60｜2026年9月2日",
     "hedged": false,
     "id": "334973",
     "inceptionDate": "2024年1月10日",
     "name": "貝萊德日本靈活股票基金",
-    "nav": "13.81",
-    "navDate": "2026年9月1日",
+    "nav": "13.60",
+    "navDate": "2026年9月2日",
     "oneYear": "28.85",
     "shareClass": "",
     "slug": "blackrock-japan-flexible-equity-fund",
