@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-02",
+  "latestDate": "2026-09-03",
   "pageName": "貝萊德亞洲巨龍基金 | A2",
-  "pointCount": 5266,
+  "pointCount": 5267,
   "points": [
     [
       "2005-07-01",
@@ -21066,18 +21066,22 @@
     [
       "2026-09-02",
       54.26
+    ],
+    [
+      "2026-09-03",
+      54.36
     ]
   ],
   "product": {
     "classLabel": "A2 GBP",
     "currency": "GBP",
-    "display": "貝萊德亞洲巨龍基金｜A2 GBP｜淨值 54.26｜2026年9月2日",
+    "display": "貝萊德亞洲巨龍基金｜A2 GBP｜淨值 54.36｜2026年9月3日",
     "hedged": false,
     "id": "229399",
     "inceptionDate": "2002年7月1日",
     "name": "貝萊德亞洲巨龍基金",
-    "nav": "54.26",
-    "navDate": "2026年9月2日",
+    "nav": "54.36",
+    "navDate": "2026年9月3日",
     "oneYear": "37.75",
     "shareClass": "A2",
     "slug": "blackrock-asian-dragon-fund-a2-gbp",
