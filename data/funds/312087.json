@@ -6741,22 +6741,22 @@
     ]
   ],
   "product": {
-    "classLabel": "ID 312087",
-    "currency": "",
-    "display": "貝萊德ESG社會責任多元資產基金｜ID 312087｜淨值 13.00｜2026年9月4日",
-    "hedged": false,
+    "classLabel": "A8 USD 避險",
+    "currency": "USD",
+    "display": "貝萊德ESG社會責任多元資產基金｜A8 USD 避險｜淨值 13.00｜2026年9月4日",
+    "hedged": true,
     "id": "312087",
     "inceptionDate": "2019年12月18日",
     "name": "貝萊德ESG社會責任多元資產基金",
     "nav": "13.00",
     "navDate": "2026年9月4日",
     "oneYear": "17.46",
-    "shareClass": "",
-    "slug": "blackrock-esg-multi-asset-fund",
+    "shareClass": "A8",
+    "slug": "blackrock-esg-multiasset-fund-a8-usd-hedged",
     "threeYear": "37.17",
-    "url": "https://www.blackrock.com/tw/products/312087/blackrock-esg-multi-asset-fund",
+    "url": "https://www.blackrock.com/tw/products/312087/blackrock-esg-multiasset-fund-a8-usd-hedged",
     "ytd": "9.85"
   },
   "seriesKind": "nav",
-  "source": "https://www.blackrock.com/tw/products/312087/blackrock-esg-multi-asset-fund"
+  "source": "https://www.blackrock.com/tw/products/312087/blackrock-esg-multiasset-fund-a8-usd-hedged"
 }
