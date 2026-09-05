@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-03",
+  "latestDate": "2026-09-04",
   "pageName": "貝萊德ESG社會責任多元資產基金 | A8 避險股份",
-  "pointCount": 1683,
+  "pointCount": 1684,
   "points": [
     [
       "2019-12-17",
@@ -6734,25 +6734,29 @@
     [
       "2026-09-03",
       12.96
+    ],
+    [
+      "2026-09-04",
+      13.0
     ]
   ],
   "product": {
-    "classLabel": "A8 USD 避險",
-    "currency": "USD",
-    "display": "貝萊德ESG社會責任多元資產基金｜A8 USD 避險｜淨值 12.96｜2026年9月3日",
-    "hedged": true,
+    "classLabel": "ID 312087",
+    "currency": "",
+    "display": "貝萊德ESG社會責任多元資產基金｜ID 312087｜淨值 13.00｜2026年9月4日",
+    "hedged": false,
     "id": "312087",
     "inceptionDate": "2019年12月18日",
     "name": "貝萊德ESG社會責任多元資產基金",
-    "nav": "12.96",
-    "navDate": "2026年9月3日",
-    "oneYear": "17.07",
-    "shareClass": "A8",
-    "slug": "blackrock-esg-multiasset-fund-a8-usd-hedged",
-    "threeYear": "36.72",
-    "url": "https://www.blackrock.com/tw/products/312087/blackrock-esg-multiasset-fund-a8-usd-hedged",
-    "ytd": "9.48"
+    "nav": "13.00",
+    "navDate": "2026年9月4日",
+    "oneYear": "17.46",
+    "shareClass": "",
+    "slug": "blackrock-esg-multi-asset-fund",
+    "threeYear": "37.17",
+    "url": "https://www.blackrock.com/tw/products/312087/blackrock-esg-multi-asset-fund",
+    "ytd": "9.85"
   },
   "seriesKind": "nav",
-  "source": "https://www.blackrock.com/tw/products/312087/blackrock-esg-multiasset-fund-a8-usd-hedged"
+  "source": "https://www.blackrock.com/tw/products/312087/blackrock-esg-multi-asset-fund"
 }

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-03",
+  "latestDate": "2026-09-04",
   "pageName": "貝萊德世界健康科學基金 | A10",
-  "pointCount": 964,
+  "pointCount": 965,
   "points": [
     [
       "2022-10-26",
@@ -3858,24 +3858,28 @@
     [
       "2026-09-03",
       10.18
+    ],
+    [
+      "2026-09-04",
+      10.12
     ]
   ],
   "product": {
     "classLabel": "ID 329975",
     "currency": "",
-    "display": "貝萊德世界健康科學基金｜ID 329975｜淨值 10.18｜2026年9月3日",
+    "display": "貝萊德世界健康科學基金｜ID 329975｜淨值 10.12｜2026年9月4日",
     "hedged": false,
     "id": "329975",
     "inceptionDate": "2022年10月26日",
     "name": "貝萊德世界健康科學基金",
-    "nav": "10.18",
-    "navDate": "2026年9月3日",
-    "oneYear": "16.89",
+    "nav": "10.12",
+    "navDate": "2026年9月4日",
+    "oneYear": "17.53",
     "shareClass": "",
     "slug": "blackrock-world-healthscience-fund",
-    "threeYear": "21.44",
+    "threeYear": "22.10",
     "url": "https://www.blackrock.com/tw/products/329975/blackrock-world-healthscience-fund",
-    "ytd": "4.87"
+    "ytd": "5.44"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/329975/blackrock-world-healthscience-fund"

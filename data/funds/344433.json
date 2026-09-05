@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-03",
+  "latestDate": "2026-09-04",
   "pageName": "貝萊德日本靈活股票基金 | B2",
-  "pointCount": 281,
+  "pointCount": 282,
   "points": [
     [
       "2025-07-16",
@@ -1126,18 +1126,22 @@
     [
       "2026-09-03",
       8.43
+    ],
+    [
+      "2026-09-04",
+      8.45
     ]
   ],
   "product": {
     "classLabel": "ID 344433",
     "currency": "",
-    "display": "貝萊德日本靈活股票基金｜ID 344433｜淨值 8.43｜2026年9月3日",
+    "display": "貝萊德日本靈活股票基金｜ID 344433｜淨值 8.45｜2026年9月4日",
     "hedged": false,
     "id": "344433",
     "inceptionDate": "2025年7月16日",
     "name": "貝萊德日本靈活股票基金",
-    "nav": "8.43",
-    "navDate": "2026年9月3日",
+    "nav": "8.45",
+    "navDate": "2026年9月4日",
     "oneYear": "14.38",
     "shareClass": "",
     "slug": "blackrock-japan-flexible-equity-fund",

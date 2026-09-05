@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-03",
+  "latestDate": "2026-09-04",
   "pageName": "貝萊德世界地產證券基金 | A10",
-  "pointCount": 964,
+  "pointCount": 965,
   "points": [
     [
       "2022-10-26",
@@ -3858,24 +3858,28 @@
     [
       "2026-09-03",
       10.11
+    ],
+    [
+      "2026-09-04",
+      10.15
     ]
   ],
   "product": {
     "classLabel": "ID 329977",
     "currency": "",
-    "display": "貝萊德世界地產證券基金｜ID 329977｜淨值 10.11｜2026年9月3日",
+    "display": "貝萊德世界地產證券基金｜ID 329977｜淨值 10.15｜2026年9月4日",
     "hedged": false,
     "id": "329977",
     "inceptionDate": "2022年10月26日",
     "name": "貝萊德世界地產證券基金",
-    "nav": "10.11",
-    "navDate": "2026年9月3日",
-    "oneYear": "7.01",
+    "nav": "10.15",
+    "navDate": "2026年9月4日",
+    "oneYear": "7.66",
     "shareClass": "",
     "slug": "blackrock-world-real-estate-securities-fund",
-    "threeYear": "23.95",
+    "threeYear": "24.71",
     "url": "https://www.blackrock.com/tw/products/329977/blackrock-world-real-estate-securities-fund",
-    "ytd": "7.10"
+    "ytd": "7.75"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/329977/blackrock-world-real-estate-securities-fund"
