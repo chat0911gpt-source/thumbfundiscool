@@ -12441,9 +12441,9 @@
     ]
   ],
   "product": {
-    "classLabel": "A6 USD",
-    "currency": "USD",
-    "display": "貝萊德新興市場股票收益基金｜A6 USD｜淨值 20.52｜2026年9月7日",
+    "classLabel": "ID 262190",
+    "currency": "",
+    "display": "貝萊德新興市場股票收益基金｜ID 262190｜淨值 20.52｜2026年9月7日",
     "hedged": false,
     "id": "262190",
     "inceptionDate": "2014年4月2日",
@@ -12451,12 +12451,12 @@
     "nav": "20.52",
     "navDate": "2026年9月7日",
     "oneYear": "44.83",
-    "shareClass": "A6",
-    "slug": "blackrock-emerging-markets-equity-inc-a6-usd-fund",
+    "shareClass": "",
+    "slug": "blackrock-emerging-markets-equity-income-fund",
     "threeYear": "87.34",
-    "url": "https://www.blackrock.com/tw/products/262190/blackrock-emerging-markets-equity-inc-a6-usd-fund",
+    "url": "https://www.blackrock.com/tw/products/262190/blackrock-emerging-markets-equity-income-fund",
     "ytd": "27.07"
   },
   "seriesKind": "nav",
-  "source": "https://www.blackrock.com/tw/products/262190/blackrock-emerging-markets-equity-inc-a6-usd-fund"
+  "source": "https://www.blackrock.com/tw/products/262190/blackrock-emerging-markets-equity-income-fund"
 }
