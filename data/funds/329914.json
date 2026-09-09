@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-07",
+  "latestDate": "2026-09-08",
   "pageName": "貝萊德世界金融基金 | A10",
-  "pointCount": 971,
+  "pointCount": 972,
   "points": [
     [
       "2022-10-19",
@@ -3886,18 +3886,22 @@
     [
       "2026-09-07",
       20.08
+    ],
+    [
+      "2026-09-08",
+      19.95
     ]
   ],
   "product": {
     "classLabel": "ID 329914",
     "currency": "",
-    "display": "貝萊德世界金融基金｜ID 329914｜淨值 20.08｜2026年9月7日",
+    "display": "貝萊德世界金融基金｜ID 329914｜淨值 19.95｜2026年9月8日",
     "hedged": false,
     "id": "329914",
     "inceptionDate": "2022年10月19日",
     "name": "貝萊德世界金融基金",
-    "nav": "20.08",
-    "navDate": "2026年9月7日",
+    "nav": "19.95",
+    "navDate": "2026年9月8日",
     "oneYear": "17.22",
     "shareClass": "",
     "slug": "blackrock-world-financials-fund",
