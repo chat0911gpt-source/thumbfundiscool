@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-08",
+  "latestDate": "2026-09-09",
   "pageName": "貝萊德世界黃金基金 | C2",
-  "pointCount": 5319,
+  "pointCount": 5320,
   "points": [
     [
       "2005-07-01",
@@ -21278,18 +21278,22 @@
     [
       "2026-09-08",
       81.6
+    ],
+    [
+      "2026-09-09",
+      81.92
     ]
   ],
   "product": {
     "classLabel": "C2 USD",
     "currency": "USD",
-    "display": "貝萊德世界黃金基金｜C2 USD｜淨值 81.60｜2026年9月8日",
+    "display": "貝萊德世界黃金基金｜C2 USD｜淨值 81.92｜2026年9月9日",
     "hedged": false,
     "id": "229946",
     "inceptionDate": "2003年11月24日",
     "name": "貝萊德世界黃金基金",
-    "nav": "81.60",
-    "navDate": "2026年9月8日",
+    "nav": "81.92",
+    "navDate": "2026年9月9日",
     "oneYear": "62.74",
     "shareClass": "C2",
     "slug": "blackrock-world-gold-fund-c2-usd",
