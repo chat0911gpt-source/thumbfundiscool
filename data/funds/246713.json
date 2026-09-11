@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-09",
+  "latestDate": "2026-09-10",
   "pageName": "貝萊德歐元優質債券基金 | A2 避險股份",
-  "pointCount": 3416,
+  "pointCount": 3417,
   "points": [
     [
       "2013-01-18",
@@ -13666,18 +13666,22 @@
     [
       "2026-09-09",
       13.95
+    ],
+    [
+      "2026-09-10",
+      13.88
     ]
   ],
   "product": {
     "classLabel": "A2 USD 避險",
     "currency": "USD",
-    "display": "貝萊德歐元優質債券基金｜A2 USD 避險｜淨值 13.95｜2026年9月9日",
+    "display": "貝萊德歐元優質債券基金｜A2 USD 避險｜淨值 13.88｜2026年9月10日",
     "hedged": true,
     "id": "246713",
     "inceptionDate": "2013年1月16日",
     "name": "貝萊德歐元優質債券基金",
-    "nav": "13.95",
-    "navDate": "2026年9月9日",
+    "nav": "13.88",
+    "navDate": "2026年9月10日",
     "oneYear": "1.37",
     "shareClass": "A2",
     "slug": "blackrock-euro-bond-fund-a2-usd-hedged",
