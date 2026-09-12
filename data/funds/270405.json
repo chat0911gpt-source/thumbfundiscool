@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-10",
+  "latestDate": "2026-09-11",
   "pageName": "貝萊德全球智慧數據股票入息基金 | A8 避險股份",
-  "pointCount": 2991,
+  "pointCount": 2992,
   "points": [
     [
       "2014-10-08",
@@ -11966,18 +11966,22 @@
     [
       "2026-09-10",
       9.26
+    ],
+    [
+      "2026-09-11",
+      9.34
     ]
   ],
   "product": {
     "classLabel": "AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德全球智慧數據股票入息基金｜AUD 避險｜淨值 9.26｜2026年9月10日",
+    "display": "貝萊德全球智慧數據股票入息基金｜AUD 避險｜淨值 9.34｜2026年9月11日",
     "hedged": true,
     "id": "270405",
     "inceptionDate": "2014年10月8日",
     "name": "貝萊德全球智慧數據股票入息基金",
-    "nav": "9.26",
-    "navDate": "2026年9月10日",
+    "nav": "9.34",
+    "navDate": "2026年9月11日",
     "oneYear": "16.18",
     "shareClass": "",
     "slug": "blackrock-global-enhanced-equity-yield-fund-a8-hedged-aud",
