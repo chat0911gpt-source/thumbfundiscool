@@ -1,10 +1,16 @@
 {
   "changedFundFiles": 0,
-  "failureCount": 0,
-  "failures": [],
+  "failureCount": 1,
+  "failures": [
+    {
+      "error": "沒有足夠的官網歷史淨值資料；沿用既有資料",
+      "id": "340594",
+      "name": "貝萊德全球智慧數據股票入息基金"
+    }
+  ],
   "fundCount": 334,
   "productCount": 334,
   "requestedFundCount": 334,
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-09-12T15:38:38+00:00"
+  "updatedAt": "2026-09-13T05:00:10+00:00"
 }
