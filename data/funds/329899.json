@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-14",
+  "latestDate": "2026-09-15",
   "pageName": "貝萊德永續能源基金 | A10",
-  "pointCount": 976,
+  "pointCount": 977,
   "points": [
     [
       "2022-10-19",
@@ -3906,18 +3906,22 @@
     [
       "2026-09-14",
       12.72
+    ],
+    [
+      "2026-09-15",
+      12.68
     ]
   ],
   "product": {
     "classLabel": "ID 329899",
     "currency": "",
-    "display": "貝萊德永續能源基金｜ID 329899｜淨值 12.72｜2026年9月14日",
+    "display": "貝萊德永續能源基金｜ID 329899｜淨值 12.68｜2026年9月15日",
     "hedged": false,
     "id": "329899",
     "inceptionDate": "2022年10月19日",
     "name": "貝萊德永續能源基金",
-    "nav": "12.72",
-    "navDate": "2026年9月14日",
+    "nav": "12.68",
+    "navDate": "2026年9月15日",
     "oneYear": "25.65",
     "shareClass": "",
     "slug": "blackrock-sustainable-energy-fund",
