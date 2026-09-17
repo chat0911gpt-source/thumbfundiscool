@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-15",
+  "latestDate": "2026-09-16",
   "pageName": "貝萊德享退休系列2040目標日期組合基金 | 累積類型",
-  "pointCount": 1858,
+  "pointCount": 1859,
   "points": [
     [
       "2018-07-25",
@@ -7434,18 +7434,22 @@
     [
       "2026-09-15",
       15.69
+    ],
+    [
+      "2026-09-16",
+      15.75
     ]
   ],
   "product": {
     "classLabel": "ID 297795",
     "currency": "",
-    "display": "貝萊德享退休系列2040目標日期組合基金｜ID 297795｜淨值 15.69｜2026年9月15日",
+    "display": "貝萊德享退休系列2040目標日期組合基金｜ID 297795｜淨值 15.75｜2026年9月16日",
     "hedged": false,
     "id": "297795",
     "inceptionDate": "2018年7月25日",
     "name": "貝萊德享退休系列2040目標日期組合基金",
-    "nav": "15.69",
-    "navDate": "2026年9月15日",
+    "nav": "15.75",
+    "navDate": "2026年9月16日",
     "oneYear": "18.52",
     "shareClass": "",
     "slug": "blackrock-lifepath-series-2040-target-date-fund-of-funds-aggregate",
