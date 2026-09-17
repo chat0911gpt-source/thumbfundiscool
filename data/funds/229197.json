@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-15",
+  "latestDate": "2026-09-16",
   "pageName": "貝萊德環球前瞻股票基金 | A2",
-  "pointCount": 5319,
+  "pointCount": 5320,
   "points": [
     [
       "2005-07-01",
@@ -21278,18 +21278,22 @@
     [
       "2026-09-15",
       93.29
+    ],
+    [
+      "2026-09-16",
+      93.74
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德環球前瞻股票基金｜A2 EUR｜淨值 93.29｜2026年9月15日",
+    "display": "貝萊德環球前瞻股票基金｜A2 EUR｜淨值 93.74｜2026年9月16日",
     "hedged": false,
     "id": "229197",
     "inceptionDate": "2001年6月28日",
     "name": "貝萊德環球前瞻股票基金",
-    "nav": "93.29",
-    "navDate": "2026年9月15日",
+    "nav": "93.74",
+    "navDate": "2026年9月16日",
     "oneYear": "5.92",
     "shareClass": "A2",
     "slug": "blackrock-global-opportunities-fund-a2-eur",

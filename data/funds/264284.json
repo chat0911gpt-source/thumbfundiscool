@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-15",
+  "latestDate": "2026-09-16",
   "pageName": "貝萊德世界健康科學基金 | A2 避險股份",
-  "pointCount": 3100,
+  "pointCount": 3101,
   "points": [
     [
       "2014-05-07",
@@ -12402,18 +12402,22 @@
     [
       "2026-09-15",
       250.52
+    ],
+    [
+      "2026-09-16",
+      252.88
     ]
   ],
   "product": {
     "classLabel": "A2 HKD 避險",
     "currency": "HKD",
-    "display": "貝萊德世界健康科學基金｜A2 HKD 避險｜淨值 250.52｜2026年9月15日",
+    "display": "貝萊德世界健康科學基金｜A2 HKD 避險｜淨值 252.88｜2026年9月16日",
     "hedged": true,
     "id": "264284",
     "inceptionDate": "2014年5月7日",
     "name": "貝萊德世界健康科學基金",
-    "nav": "250.52",
-    "navDate": "2026年9月15日",
+    "nav": "252.88",
+    "navDate": "2026年9月16日",
     "oneYear": "15.93",
     "shareClass": "A2",
     "slug": "blackrock-world-healthscience-fund-a2-hkd-hedged",
