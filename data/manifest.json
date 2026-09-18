@@ -1,16 +1,10 @@
 {
-  "changedFundFiles": 1,
-  "failureCount": 1,
-  "failures": [
-    {
-      "error": "The read operation timed out；沿用既有資料",
-      "id": "336572",
-      "name": "貝萊德環球資產配置基金"
-    }
-  ],
+  "changedFundFiles": 59,
+  "failureCount": 0,
+  "failures": [],
   "fundCount": 334,
   "productCount": 334,
   "requestedFundCount": 334,
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-09-18T09:54:30+00:00"
+  "updatedAt": "2026-09-18T16:33:57+00:00"
 }
