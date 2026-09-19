@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-17",
+  "latestDate": "2026-09-18",
   "pageName": "貝萊德ESG社會責任多元資產基金 | A2",
-  "pointCount": 5324,
+  "pointCount": 5325,
   "points": [
     [
       "2005-07-01",
@@ -21298,18 +21298,22 @@
     [
       "2026-09-17",
       23.06
+    ],
+    [
+      "2026-09-18",
+      23.04
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德ESG社會責任多元資產基金｜A2 EUR｜淨值 23.06｜2026年9月17日",
+    "display": "貝萊德ESG社會責任多元資產基金｜A2 EUR｜淨值 23.04｜2026年9月18日",
     "hedged": false,
     "id": "229682",
     "inceptionDate": "1999年1月4日",
     "name": "貝萊德ESG社會責任多元資產基金",
-    "nav": "23.06",
-    "navDate": "2026年9月17日",
+    "nav": "23.04",
+    "navDate": "2026年9月18日",
     "oneYear": "15.15",
     "shareClass": "A2",
     "slug": "blackrock-esg-multiasset-fund-a2-eur",

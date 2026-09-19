@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-17",
+  "latestDate": "2026-09-18",
   "pageName": "貝萊德環球企業債券基金 | B2",
-  "pointCount": 435,
+  "pointCount": 436,
   "points": [
     [
       "2024-12-18",
@@ -1742,18 +1742,22 @@
     [
       "2026-09-17",
       10.32
+    ],
+    [
+      "2026-09-18",
+      10.29
     ]
   ],
   "product": {
     "classLabel": "ID 340596",
     "currency": "",
-    "display": "貝萊德環球企業債券基金｜ID 340596｜淨值 10.32｜2026年9月17日",
+    "display": "貝萊德環球企業債券基金｜ID 340596｜淨值 10.29｜2026年9月18日",
     "hedged": false,
     "id": "340596",
     "inceptionDate": "2024年12月18日",
     "name": "貝萊德環球企業債券基金",
-    "nav": "10.32",
-    "navDate": "2026年9月17日",
+    "nav": "10.29",
+    "navDate": "2026年9月18日",
     "oneYear": "0.77",
     "shareClass": "",
     "slug": "blackrock-global-corporate-bond-fund",
