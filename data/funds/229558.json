@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-18",
+  "latestDate": "2026-09-21",
   "pageName": "貝萊德歐洲靈活股票基金 | A2",
-  "pointCount": 5311,
+  "pointCount": 5312,
   "points": [
     [
       "2005-07-25",
@@ -21246,18 +21246,22 @@
     [
       "2026-09-18",
       51.7
+    ],
+    [
+      "2026-09-21",
+      52.46
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德歐洲靈活股票基金｜A2 EUR｜淨值 51.70｜2026年9月18日",
+    "display": "貝萊德歐洲靈活股票基金｜A2 EUR｜淨值 52.46｜2026年9月21日",
     "hedged": false,
     "id": "229558",
     "inceptionDate": "1986年11月24日",
     "name": "貝萊德歐洲靈活股票基金",
-    "nav": "51.70",
-    "navDate": "2026年9月18日",
+    "nav": "52.46",
+    "navDate": "2026年9月21日",
     "oneYear": "14.09",
     "shareClass": "A2",
     "slug": "blackrock-continental-european-flexible-fund-a2-eur",

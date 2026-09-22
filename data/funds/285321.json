@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-18",
+  "latestDate": "2026-09-21",
   "pageName": "貝萊德世界地產證券基金 | A6",
-  "pointCount": 2486,
+  "pointCount": 2487,
   "points": [
     [
       "2016-10-19",
@@ -9946,18 +9946,22 @@
     [
       "2026-09-18",
       9.82
+    ],
+    [
+      "2026-09-21",
+      9.87
     ]
   ],
   "product": {
     "classLabel": "A6 USD",
     "currency": "USD",
-    "display": "貝萊德世界地產證券基金｜A6 USD｜淨值 9.82｜2026年9月18日",
+    "display": "貝萊德世界地產證券基金｜A6 USD｜淨值 9.87｜2026年9月21日",
     "hedged": false,
     "id": "285321",
     "inceptionDate": "2016年10月19日",
     "name": "貝萊德世界地產證券基金",
-    "nav": "9.82",
-    "navDate": "2026年9月18日",
+    "nav": "9.87",
+    "navDate": "2026年9月21日",
     "oneYear": "7.70",
     "shareClass": "A6",
     "slug": "blackrock-world-real-estate-securities-a6-usd",
