@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-21",
+  "latestDate": "2026-09-22",
   "pageName": "貝萊德世界礦業基金 | A2 避險股份",
-  "pointCount": 3575,
+  "pointCount": 3576,
   "points": [
     [
       "2012-06-13",
@@ -14302,18 +14302,22 @@
     [
       "2026-09-21",
       18.75
+    ],
+    [
+      "2026-09-22",
+      18.9
     ]
   ],
   "product": {
     "classLabel": "A2 HKD 避險",
     "currency": "HKD",
-    "display": "貝萊德世界礦業基金｜A2 HKD 避險｜淨值 18.75｜2026年9月21日",
+    "display": "貝萊德世界礦業基金｜A2 HKD 避險｜淨值 18.90｜2026年9月22日",
     "hedged": true,
     "id": "230131",
     "inceptionDate": "2012年6月13日",
     "name": "貝萊德世界礦業基金",
-    "nav": "18.75",
-    "navDate": "2026年9月21日",
+    "nav": "18.90",
+    "navDate": "2026年9月22日",
     "oneYear": "62.44",
     "shareClass": "A2",
     "slug": "blackrock-world-mining-fund-a2-hkd-hedged",

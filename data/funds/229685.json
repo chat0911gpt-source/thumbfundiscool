@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-21",
+  "latestDate": "2026-09-22",
   "pageName": "貝萊德ESG社會責任多元資產基金 | A2 避險股份",
-  "pointCount": 4122,
+  "pointCount": 4123,
   "points": [
     [
       "2010-04-16",
@@ -16490,18 +16490,22 @@
     [
       "2026-09-21",
       66.79
+    ],
+    [
+      "2026-09-22",
+      67.14
     ]
   ],
   "product": {
     "classLabel": "A2 USD 避險",
     "currency": "USD",
-    "display": "貝萊德ESG社會責任多元資產基金｜A2 USD 避險｜淨值 66.79｜2026年9月21日",
+    "display": "貝萊德ESG社會責任多元資產基金｜A2 USD 避險｜淨值 67.14｜2026年9月22日",
     "hedged": true,
     "id": "229685",
     "inceptionDate": "2010年4月16日",
     "name": "貝萊德ESG社會責任多元資產基金",
-    "nav": "66.79",
-    "navDate": "2026年9月21日",
+    "nav": "67.14",
+    "navDate": "2026年9月22日",
     "oneYear": "17.43",
     "shareClass": "A2",
     "slug": "blackrock-esg-multiasset-fund-a2-usd-hedged",

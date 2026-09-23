@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-21",
+  "latestDate": "2026-09-22",
   "pageName": "貝萊德美國價值型基金 | A4",
-  "pointCount": 5325,
+  "pointCount": 5326,
   "points": [
     [
       "2005-07-01",
@@ -21302,18 +21302,22 @@
     [
       "2026-09-21",
       171.87
+    ],
+    [
+      "2026-09-22",
+      172.53
     ]
   ],
   "product": {
     "classLabel": "A4 USD",
     "currency": "USD",
-    "display": "貝萊德美國價值型基金｜A4 USD｜淨值 171.87｜2026年9月21日",
+    "display": "貝萊德美國價值型基金｜A4 USD｜淨值 172.53｜2026年9月22日",
     "hedged": false,
     "id": "229309",
     "inceptionDate": "2003年2月10日",
     "name": "貝萊德美國價值型基金",
-    "nav": "171.87",
-    "navDate": "2026年9月21日",
+    "nav": "172.53",
+    "navDate": "2026年9月22日",
     "oneYear": "22.24",
     "shareClass": "A4",
     "slug": "blackrock-us-basic-value-fund-a4-usd",

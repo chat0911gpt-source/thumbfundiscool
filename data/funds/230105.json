@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-21",
+  "latestDate": "2026-09-22",
   "pageName": "貝萊德歐洲基金 | A2 避險股份",
-  "pointCount": 3575,
+  "pointCount": 3576,
   "points": [
     [
       "2012-06-13",
@@ -14302,18 +14302,22 @@
     [
       "2026-09-21",
       33.61
+    ],
+    [
+      "2026-09-22",
+      33.98
     ]
   ],
   "product": {
     "classLabel": "A2 HKD 避險",
     "currency": "HKD",
-    "display": "貝萊德歐洲基金｜A2 HKD 避險｜淨值 33.61｜2026年9月21日",
+    "display": "貝萊德歐洲基金｜A2 HKD 避險｜淨值 33.98｜2026年9月22日",
     "hedged": true,
     "id": "230105",
     "inceptionDate": "2012年6月13日",
     "name": "貝萊德歐洲基金",
-    "nav": "33.61",
-    "navDate": "2026年9月21日",
+    "nav": "33.98",
+    "navDate": "2026年9月22日",
     "oneYear": "14.12",
     "shareClass": "A2",
     "slug": "blackrock-european-fund-a2-hkd-hedged",
