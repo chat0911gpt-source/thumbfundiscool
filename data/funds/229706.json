@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-22",
+  "latestDate": "2026-09-23",
   "pageName": "貝萊德全球智慧數據股票入息基金 | A2",
-  "pointCount": 5000,
+  "pointCount": 5001,
   "points": [
     [
       "2006-10-13",
@@ -20002,18 +20002,22 @@
     [
       "2026-09-22",
       28.05
+    ],
+    [
+      "2026-09-23",
+      27.92
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德全球智慧數據股票入息基金｜A2 USD｜淨值 28.05｜2026年9月22日",
+    "display": "貝萊德全球智慧數據股票入息基金｜A2 USD｜淨值 27.92｜2026年9月23日",
     "hedged": false,
     "id": "229706",
     "inceptionDate": "2006年10月13日",
     "name": "貝萊德全球智慧數據股票入息基金",
-    "nav": "28.05",
-    "navDate": "2026年9月22日",
+    "nav": "27.92",
+    "navDate": "2026年9月23日",
     "oneYear": "16.54",
     "shareClass": "A2",
     "slug": "blackrock-global-enhanced-equity-yield-fund-a2-usd",
