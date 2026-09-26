@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-24",
+  "latestDate": "2026-09-25",
   "pageName": "貝萊德美元非投資等級債券基金 | B10",
-  "pointCount": 620,
+  "pointCount": 621,
   "points": [
     [
       "2024-04-03",
@@ -2482,18 +2482,22 @@
     [
       "2026-09-24",
       9.39
+    ],
+    [
+      "2026-09-25",
+      9.37
     ]
   ],
   "product": {
     "classLabel": "ID 336655",
     "currency": "",
-    "display": "貝萊德美元非投資等級債券基金｜ID 336655｜淨值 9.39｜2026年9月24日",
+    "display": "貝萊德美元非投資等級債券基金｜ID 336655｜淨值 9.37｜2026年9月25日",
     "hedged": false,
     "id": "336655",
     "inceptionDate": "2024年4月3日",
     "name": "貝萊德美元非投資等級債券基金",
-    "nav": "9.39",
-    "navDate": "2026年9月24日",
+    "nav": "9.37",
+    "navDate": "2026年9月25日",
     "oneYear": "2.52",
     "shareClass": "",
     "slug": "blackrock-us-dollar-high-yield-bond-fund",

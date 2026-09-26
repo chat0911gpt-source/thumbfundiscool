@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-24",
+  "latestDate": "2026-09-25",
   "pageName": "貝萊德新興市場債券基金 | A6",
-  "pointCount": 3623,
+  "pointCount": 3624,
   "points": [
     [
       "2012-04-02",
@@ -14494,18 +14494,22 @@
     [
       "2026-09-24",
       7.51
+    ],
+    [
+      "2026-09-25",
+      7.48
     ]
   ],
   "product": {
     "classLabel": "A6 USD",
     "currency": "USD",
-    "display": "貝萊德新興市場債券基金｜A6 USD｜淨值 7.51｜2026年9月24日",
+    "display": "貝萊德新興市場債券基金｜A6 USD｜淨值 7.48｜2026年9月25日",
     "hedged": false,
     "id": "228326",
     "inceptionDate": "2012年4月2日",
     "name": "貝萊德新興市場債券基金",
-    "nav": "7.51",
-    "navDate": "2026年9月24日",
+    "nav": "7.48",
+    "navDate": "2026年9月25日",
     "oneYear": "10.19",
     "shareClass": "A6",
     "slug": "blackrock-emerging-market-bond-fund-a6-usd",
