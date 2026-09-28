@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-25",
+  "latestDate": "2026-09-28",
   "pageName": "貝萊德全球股票收益基金 | A2 避險股份",
-  "pointCount": 3830,
+  "pointCount": 3831,
   "points": [
     [
       "2011-06-17",
@@ -15322,18 +15322,22 @@
     [
       "2026-09-25",
       22.3
+    ],
+    [
+      "2026-09-28",
+      22.2
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德全球股票收益基金｜A2 EUR 避險｜淨值 22.30｜2026年9月25日",
+    "display": "貝萊德全球股票收益基金｜A2 EUR 避險｜淨值 22.20｜2026年9月28日",
     "hedged": true,
     "id": "229731",
     "inceptionDate": "2011年6月17日",
     "name": "貝萊德全球股票收益基金",
-    "nav": "22.30",
-    "navDate": "2026年9月25日",
+    "nav": "22.20",
+    "navDate": "2026年9月28日",
     "oneYear": "16.25",
     "shareClass": "A2",
     "slug": "blackrock-global-equity-income-fund-a2-eur-hedged",

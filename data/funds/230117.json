@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-25",
+  "latestDate": "2026-09-28",
   "pageName": "貝萊德拉丁美洲基金 | A2 避險股份",
-  "pointCount": 3576,
+  "pointCount": 3577,
   "points": [
     [
       "2012-06-13",
@@ -14306,18 +14306,22 @@
     [
       "2026-09-25",
       10.21
+    ],
+    [
+      "2026-09-28",
+      10.16
     ]
   ],
   "product": {
     "classLabel": "A2 HKD 避險",
     "currency": "HKD",
-    "display": "貝萊德拉丁美洲基金｜A2 HKD 避險｜淨值 10.21｜2026年9月25日",
+    "display": "貝萊德拉丁美洲基金｜A2 HKD 避險｜淨值 10.16｜2026年9月28日",
     "hedged": true,
     "id": "230117",
     "inceptionDate": "2012年6月13日",
     "name": "貝萊德拉丁美洲基金",
-    "nav": "10.21",
-    "navDate": "2026年9月25日",
+    "nav": "10.16",
+    "navDate": "2026年9月28日",
     "oneYear": "10.72",
     "shareClass": "A2",
     "slug": "blackrock-latin-american-fund-a2-hkd-hedged",

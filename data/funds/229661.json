@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-25",
+  "latestDate": "2026-09-28",
   "pageName": "貝萊德歐洲多元增長股票基金 | A2",
-  "pointCount": 5332,
+  "pointCount": 5333,
   "points": [
     [
       "2005-07-01",
@@ -21330,18 +21330,22 @@
     [
       "2026-09-25",
       64.63
+    ],
+    [
+      "2026-09-28",
+      64.97
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德歐洲多元增長股票基金｜A2 EUR｜淨值 64.63｜2026年9月25日",
+    "display": "貝萊德歐洲多元增長股票基金｜A2 EUR｜淨值 64.97｜2026年9月28日",
     "hedged": false,
     "id": "229661",
     "inceptionDate": "2003年3月20日",
     "name": "貝萊德歐洲多元增長股票基金",
-    "nav": "64.63",
-    "navDate": "2026年9月25日",
+    "nav": "64.97",
+    "navDate": "2026年9月28日",
     "oneYear": "8.14",
     "shareClass": "A2",
     "slug": "blackrock-european-special-situations-fund-a2-eur",
