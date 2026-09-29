@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-28",
+  "latestDate": "2026-09-29",
   "pageName": "貝萊德環球企業債券基金 | A2 避險股份",
-  "pointCount": 4752,
+  "pointCount": 4753,
   "points": [
     [
       "2007-10-19",
@@ -19010,18 +19010,22 @@
     [
       "2026-09-28",
       12.34
+    ],
+    [
+      "2026-09-29",
+      12.33
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德環球企業債券基金｜A2 EUR 避險｜淨值 12.34｜2026年9月28日",
+    "display": "貝萊德環球企業債券基金｜A2 EUR 避險｜淨值 12.33｜2026年9月29日",
     "hedged": true,
     "id": "228651",
     "inceptionDate": "2007年10月19日",
     "name": "貝萊德環球企業債券基金",
-    "nav": "12.34",
-    "navDate": "2026年9月28日",
+    "nav": "12.33",
+    "navDate": "2026年9月29日",
     "oneYear": "-0.24",
     "shareClass": "A2",
     "slug": "blackrock-global-corporate-bond-fund-a2-eur-hedged",

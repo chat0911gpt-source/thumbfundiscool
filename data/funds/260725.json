@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-28",
+  "latestDate": "2026-09-29",
   "pageName": "貝萊德環球非投資等級債券基金 | A8 避險股份",
-  "pointCount": 3162,
+  "pointCount": 3163,
   "points": [
     [
       "2014-02-19",
@@ -12650,18 +12650,22 @@
     [
       "2026-09-28",
       76.14
+    ],
+    [
+      "2026-09-29",
+      76.03
     ]
   ],
   "product": {
     "classLabel": "避險",
     "currency": "",
-    "display": "貝萊德環球非投資等級債券基金｜避險｜淨值 76.14｜2026年9月28日",
+    "display": "貝萊德環球非投資等級債券基金｜避險｜淨值 76.03｜2026年9月29日",
     "hedged": true,
     "id": "260725",
     "inceptionDate": "2014年2月19日",
     "name": "貝萊德環球非投資等級債券基金",
-    "nav": "76.14",
-    "navDate": "2026年9月28日",
+    "nav": "76.03",
+    "navDate": "2026年9月29日",
     "oneYear": "7.12",
     "shareClass": "",
     "slug": "bgf-global-high-yield-bond-fund-a8-zar-hedged",

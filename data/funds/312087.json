@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-28",
+  "latestDate": "2026-09-29",
   "pageName": "貝萊德ESG社會責任多元資產基金 | A8 避險股份",
-  "pointCount": 1700,
+  "pointCount": 1701,
   "points": [
     [
       "2019-12-17",
@@ -6802,18 +6802,22 @@
     [
       "2026-09-28",
       12.89
+    ],
+    [
+      "2026-09-29",
+      12.87
     ]
   ],
   "product": {
     "classLabel": "A8 USD 避險",
     "currency": "USD",
-    "display": "貝萊德ESG社會責任多元資產基金｜A8 USD 避險｜淨值 12.89｜2026年9月28日",
+    "display": "貝萊德ESG社會責任多元資產基金｜A8 USD 避險｜淨值 12.87｜2026年9月29日",
     "hedged": true,
     "id": "312087",
     "inceptionDate": "2019年12月18日",
     "name": "貝萊德ESG社會責任多元資產基金",
-    "nav": "12.89",
-    "navDate": "2026年9月28日",
+    "nav": "12.87",
+    "navDate": "2026年9月29日",
     "oneYear": "17.46",
     "shareClass": "A8",
     "slug": "blackrock-esg-multiasset-fund-a8-usd-hedged",
