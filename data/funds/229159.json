@@ -21351,19 +21351,19 @@
   "product": {
     "classLabel": "A4 EUR",
     "currency": "EUR",
-    "display": "貝萊德歐洲價值型基金｜A4 EUR｜淨值 93.60｜2026年9月30日",
+    "display": "貝萊德歐洲價值型基金｜A4 EUR｜淨值 91.73｜2026年10月1日",
     "hedged": false,
     "id": "229159",
     "inceptionDate": "2003年4月25日",
     "name": "貝萊德歐洲價值型基金",
-    "nav": "93.60",
-    "navDate": "2026年9月30日",
-    "oneYear": "19.56",
+    "nav": "91.73",
+    "navDate": "2026年10月1日",
+    "oneYear": "15.29",
     "shareClass": "A4",
     "slug": "blackrock-european-value-fund-a4-eur",
-    "threeYear": "58.95",
+    "threeYear": "54.67",
     "url": "https://www.blackrock.com/tw/products/229159/blackrock-european-value-fund-a4-eur",
-    "ytd": "10.19"
+    "ytd": "6.93"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229159/blackrock-european-value-fund-a4-eur"

@@ -21351,19 +21351,19 @@
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德歐元市場基金｜A2 EUR｜淨值 56.63｜2026年9月30日",
+    "display": "貝萊德歐元市場基金｜A2 EUR｜淨值 55.82｜2026年10月1日",
     "hedged": false,
     "id": "229611",
     "inceptionDate": "1999年1月4日",
     "name": "貝萊德歐元市場基金",
-    "nav": "56.63",
-    "navDate": "2026年9月30日",
-    "oneYear": "14.92",
+    "nav": "55.82",
+    "navDate": "2026年10月1日",
+    "oneYear": "11.92",
     "shareClass": "A2",
     "slug": "blackrock-euro-markets-fund-a2-eur",
-    "threeYear": "46.08",
+    "threeYear": "53.05",
     "url": "https://www.blackrock.com/tw/products/229611/blackrock-euro-markets-fund-a2-eur",
-    "ytd": "9.97"
+    "ytd": "9.88"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229611/blackrock-euro-markets-fund-a2-eur"

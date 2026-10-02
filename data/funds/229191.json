@@ -21347,19 +21347,19 @@
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德環球非投資等級債券基金｜A2 EUR 避險｜淨值 18.98｜2026年9月30日",
+    "display": "貝萊德環球非投資等級債券基金｜A2 EUR 避險｜淨值 18.90｜2026年10月1日",
     "hedged": true,
     "id": "229191",
     "inceptionDate": "2003年5月16日",
     "name": "貝萊德環球非投資等級債券基金",
-    "nav": "18.98",
-    "navDate": "2026年9月30日",
-    "oneYear": "2.58",
+    "nav": "18.90",
+    "navDate": "2026年10月1日",
+    "oneYear": "-0.47",
     "shareClass": "A2",
     "slug": "blackrock-global-high-yield-bond-fund-a2-eur-hedged",
-    "threeYear": "19.24",
+    "threeYear": "17.38",
     "url": "https://www.blackrock.com/tw/products/229191/blackrock-global-high-yield-bond-fund-a2-eur-hedged",
-    "ytd": "1.25"
+    "ytd": "-1.25"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229191/blackrock-global-high-yield-bond-fund-a2-eur-hedged"

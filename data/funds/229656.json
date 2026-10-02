@@ -16055,19 +16055,19 @@
   "product": {
     "classLabel": "A2 USD 避險",
     "currency": "USD",
-    "display": "貝萊德歐洲基金｜A2 USD 避險｜淨值 37.15｜2026年9月30日",
+    "display": "貝萊德歐洲基金｜A2 USD 避險｜淨值 36.66｜2026年10月1日",
     "hedged": true,
     "id": "229656",
     "inceptionDate": "2010年10月7日",
     "name": "貝萊德歐洲基金",
-    "nav": "37.15",
-    "navDate": "2026年9月30日",
-    "oneYear": "15.63",
+    "nav": "36.66",
+    "navDate": "2026年10月1日",
+    "oneYear": "12.10",
     "shareClass": "A2",
     "slug": "blackrock-european-fund-a2-usd-hedged",
-    "threeYear": "32.51",
+    "threeYear": "37.29",
     "url": "https://www.blackrock.com/tw/products/229656/blackrock-european-fund-a2-usd-hedged",
-    "ytd": "11.18"
+    "ytd": "10.14"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229656/blackrock-european-fund-a2-usd-hedged"

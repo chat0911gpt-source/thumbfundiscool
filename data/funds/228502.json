@@ -18867,19 +18867,19 @@
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德世界債券基金｜A2 EUR 避險｜淨值 173.01｜2026年9月30日",
+    "display": "貝萊德世界債券基金｜A2 EUR 避險｜淨值 172.51｜2026年10月1日",
     "hedged": true,
     "id": "228502",
     "inceptionDate": "2007年12月14日",
     "name": "貝萊德世界債券基金",
-    "nav": "173.01",
-    "navDate": "2026年9月30日",
-    "oneYear": "-0.80",
+    "nav": "172.51",
+    "navDate": "2026年10月1日",
+    "oneYear": "-3.54",
     "shareClass": "A2",
     "slug": "blackrock-world-bond-fund-a2-eur-hedged",
-    "threeYear": "5.76",
+    "threeYear": "5.73",
     "url": "https://www.blackrock.com/tw/products/228502/blackrock-world-bond-fund-a2-eur-hedged",
-    "ytd": "-1.64"
+    "ytd": "-3.61"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/228502/blackrock-world-bond-fund-a2-eur-hedged"

@@ -12643,19 +12643,19 @@
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德世界礦業基金｜A2 AUD 避險｜淨值 18.60｜2026年9月30日",
+    "display": "貝萊德世界礦業基金｜A2 AUD 避險｜淨值 18.27｜2026年10月1日",
     "hedged": true,
     "id": "260715",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德世界礦業基金",
-    "nav": "18.60",
-    "navDate": "2026年9月30日",
-    "oneYear": "62.72",
+    "nav": "18.27",
+    "navDate": "2026年10月1日",
+    "oneYear": "30.16",
     "shareClass": "A2",
     "slug": "bgf-world-mining-fund-a2-aud-hedged",
-    "threeYear": "84.58",
+    "threeYear": "72.06",
     "url": "https://www.blackrock.com/tw/products/260715/bgf-world-mining-fund-a2-aud-hedged",
-    "ytd": "23.24"
+    "ytd": "11.98"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/260715/bgf-world-mining-fund-a2-aud-hedged"

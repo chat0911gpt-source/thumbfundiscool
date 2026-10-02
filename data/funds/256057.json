@@ -13259,19 +13259,19 @@
   "product": {
     "classLabel": "A8 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德全球股票收益基金｜A8 AUD 避險｜淨值 15.24｜2026年9月30日",
+    "display": "貝萊德全球股票收益基金｜A8 AUD 避險｜淨值 15.08｜2026年10月1日",
     "hedged": true,
     "id": "256057",
     "inceptionDate": "2013年7月17日",
     "name": "貝萊德全球股票收益基金",
-    "nav": "15.24",
-    "navDate": "2026年9月30日",
-    "oneYear": "18.51",
+    "nav": "15.08",
+    "navDate": "2026年10月1日",
+    "oneYear": "13.27",
     "shareClass": "A8",
     "slug": "blackrock-global-equity-income-fund-a8-aud-hedged",
-    "threeYear": "41.70",
+    "threeYear": "46.41",
     "url": "https://www.blackrock.com/tw/products/256057/blackrock-global-equity-income-fund-a8-aud-hedged",
-    "ytd": "11.25"
+    "ytd": "10.24"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/256057/blackrock-global-equity-income-fund-a8-aud-hedged"

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-30",
+  "latestDate": "2026-10-01",
   "pageName": "貝萊德英國基金 | A2",
-  "pointCount": 5322,
+  "pointCount": 5323,
   "points": [
     [
       "2005-07-01",
@@ -21290,24 +21290,28 @@
     [
       "2026-09-30",
       158.29
+    ],
+    [
+      "2026-10-01",
+      155.96
     ]
   ],
   "product": {
     "classLabel": "A2 GBP",
     "currency": "GBP",
-    "display": "貝萊德英國基金｜A2 GBP｜淨值 158.29｜2026年9月30日",
+    "display": "貝萊德英國基金｜A2 GBP｜淨值 155.96｜2026年10月1日",
     "hedged": false,
     "id": "228539",
     "inceptionDate": "1985年12月31日",
     "name": "貝萊德英國基金",
-    "nav": "158.29",
-    "navDate": "2026年9月30日",
-    "oneYear": "7.89",
+    "nav": "155.96",
+    "navDate": "2026年10月1日",
+    "oneYear": "5.61",
     "shareClass": "A2",
     "slug": "blackrock-united-kingdom-fund-a2-gbp",
-    "threeYear": "34.39",
+    "threeYear": "29.18",
     "url": "https://www.blackrock.com/tw/products/228539/blackrock-united-kingdom-fund-a2-gbp",
-    "ytd": "6.05"
+    "ytd": "3.97"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/228539/blackrock-united-kingdom-fund-a2-gbp"

@@ -15627,19 +15627,19 @@
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德美元非投資等級債券基金｜A2 AUD 避險｜淨值 21.01｜2026年9月30日",
+    "display": "貝萊德美元非投資等級債券基金｜A2 AUD 避險｜淨值 20.93｜2026年10月1日",
     "hedged": true,
     "id": "228400",
     "inceptionDate": "2011年3月4日",
     "name": "貝萊德美元非投資等級債券基金",
-    "nav": "21.01",
-    "navDate": "2026年9月30日",
-    "oneYear": "4.31",
+    "nav": "20.93",
+    "navDate": "2026年10月1日",
+    "oneYear": "1.25",
     "shareClass": "A2",
     "slug": "blackrock-us-dollar-high-yield-bond-fund-a2-aud-hedged",
-    "threeYear": "22.41",
+    "threeYear": "20.96",
     "url": "https://www.blackrock.com/tw/products/228400/blackrock-us-dollar-high-yield-bond-fund-a2-aud-hedged",
-    "ytd": "2.09"
+    "ytd": "-0.33"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/228400/blackrock-us-dollar-high-yield-bond-fund-a2-aud-hedged"

@@ -21343,19 +21343,19 @@
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德世界金融基金｜A2 EUR｜淨值 68.04｜2026年9月30日",
+    "display": "貝萊德世界金融基金｜A2 EUR｜淨值 66.97｜2026年10月1日",
     "hedged": false,
     "id": "229935",
     "inceptionDate": "2000年3月3日",
     "name": "貝萊德世界金融基金",
-    "nav": "68.04",
-    "navDate": "2026年9月30日",
-    "oneYear": "17.97",
+    "nav": "66.97",
+    "navDate": "2026年10月1日",
+    "oneYear": "12.59",
     "shareClass": "A2",
     "slug": "blackrock-world-financials-fund-a2-eur",
-    "threeYear": "106.11",
+    "threeYear": "96.25",
     "url": "https://www.blackrock.com/tw/products/229935/blackrock-world-financials-fund-a2-eur",
-    "ytd": "7.80"
+    "ytd": "3.09"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229935/blackrock-world-financials-fund-a2-eur"

@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-30",
+  "latestDate": "2026-10-01",
   "pageName": "貝萊德環球資產配置基金 | B2 避險股份",
-  "pointCount": 444,
+  "pointCount": 445,
   "points": [
     [
       "2024-12-18",
@@ -1778,24 +1778,28 @@
     [
       "2026-09-30",
       1115.0
+    ],
+    [
+      "2026-10-01",
+      1108.0
     ]
   ],
   "product": {
     "classLabel": "ID 340684",
     "currency": "",
-    "display": "貝萊德環球資產配置基金｜ID 340684｜淨值 1,115.00｜2026年9月30日",
+    "display": "貝萊德環球資產配置基金｜ID 340684｜淨值 1,108.00｜2026年10月1日",
     "hedged": false,
     "id": "340684",
     "inceptionDate": "2024年12月18日",
     "name": "貝萊德環球資產配置基金",
-    "nav": "1,115.00",
-    "navDate": "2026年9月30日",
-    "oneYear": "8.02",
+    "nav": "1,108.00",
+    "navDate": "2026年10月1日",
+    "oneYear": "4.30",
     "shareClass": "",
     "slug": "blackrock-global-allocation-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/340684/blackrock-global-allocation-fund",
-    "ytd": "3.76"
+    "ytd": "2.29"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/340684/blackrock-global-allocation-fund"

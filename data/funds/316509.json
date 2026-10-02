@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-30",
+  "latestDate": "2026-10-01",
   "pageName": "貝萊德世界科技基金 | A2 避險股份",
-  "pointCount": 1470,
+  "pointCount": 1471,
   "points": [
     [
       "2020-11-19",
@@ -5882,18 +5882,22 @@
     [
       "2026-09-30",
       20.53
+    ],
+    [
+      "2026-10-01",
+      20.53
     ]
   ],
   "product": {
     "classLabel": "ID 316509",
     "currency": "",
-    "display": "貝萊德世界科技基金｜ID 316509｜淨值 20.53｜2026年9月30日",
+    "display": "貝萊德世界科技基金｜ID 316509｜淨值 20.53｜2026年10月1日",
     "hedged": false,
     "id": "316509",
     "inceptionDate": "2020年11月18日",
     "name": "貝萊德世界科技基金",
     "nav": "20.53",
-    "navDate": "2026年9月30日",
+    "navDate": "2026年10月1日",
     "oneYear": "36.61",
     "shareClass": "",
     "slug": "blackrock-world-technology-fund",

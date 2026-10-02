@@ -21343,19 +21343,19 @@
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德環球資產配置基金｜A2 EUR｜淨值 86.70｜2026年9月30日",
+    "display": "貝萊德環球資產配置基金｜A2 EUR｜淨值 86.62｜2026年10月1日",
     "hedged": false,
     "id": "228272",
     "inceptionDate": "2002年7月31日",
     "name": "貝萊德環球資產配置基金",
-    "nav": "86.70",
-    "navDate": "2026年9月30日",
-    "oneYear": "13.82",
+    "nav": "86.62",
+    "navDate": "2026年10月1日",
+    "oneYear": "12.82",
     "shareClass": "A2",
     "slug": "blackrock-global-allocation-fund-a2-eur",
-    "threeYear": "34.46",
+    "threeYear": "37.25",
     "url": "https://www.blackrock.com/tw/products/228272/blackrock-global-allocation-fund-a2-eur",
-    "ytd": "8.09"
+    "ytd": "9.22"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/228272/blackrock-global-allocation-fund-a2-eur"

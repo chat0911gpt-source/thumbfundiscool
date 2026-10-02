@@ -12659,19 +12659,19 @@
   "product": {
     "classLabel": "USD 避險",
     "currency": "USD",
-    "display": "貝萊德美元非投資等級債券基金｜USD 避險｜淨值 75.70｜2026年9月30日",
+    "display": "貝萊德美元非投資等級債券基金｜USD 避險｜淨值 75.42｜2026年10月1日",
     "hedged": true,
     "id": "260726",
     "inceptionDate": "2014年2月19日",
     "name": "貝萊德美元非投資等級債券基金",
-    "nav": "75.70",
-    "navDate": "2026年9月30日",
-    "oneYear": "6.84",
+    "nav": "75.42",
+    "navDate": "2026年10月1日",
+    "oneYear": "3.65",
     "shareClass": "",
     "slug": "bgf-usd-high-yield-bond-fund-a8-zar-hedged",
-    "threeYear": "34.96",
+    "threeYear": "33.16",
     "url": "https://www.blackrock.com/tw/products/260726/bgf-usd-high-yield-bond-fund-a8-zar-hedged",
-    "ytd": "3.52"
+    "ytd": "1.28"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/260726/bgf-usd-high-yield-bond-fund-a8-zar-hedged"

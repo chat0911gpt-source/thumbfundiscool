@@ -12663,19 +12663,19 @@
   "product": {
     "classLabel": "避險",
     "currency": "",
-    "display": "貝萊德全球股票收益基金｜避險｜淨值 164.09｜2026年9月30日",
+    "display": "貝萊德全球股票收益基金｜避險｜淨值 162.33｜2026年10月1日",
     "hedged": true,
     "id": "260711",
     "inceptionDate": "2014年2月19日",
     "name": "貝萊德全球股票收益基金",
-    "nav": "164.09",
-    "navDate": "2026年9月30日",
-    "oneYear": "21.13",
+    "nav": "162.33",
+    "navDate": "2026年10月1日",
+    "oneYear": "15.67",
     "shareClass": "",
     "slug": "bgf-global-equity-income-fund-a8-zar-hedged",
-    "threeYear": "56.31",
+    "threeYear": "61.29",
     "url": "https://www.blackrock.com/tw/products/260711/bgf-global-equity-income-fund-a8-zar-hedged",
-    "ytd": "12.61"
+    "ytd": "11.81"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/260711/bgf-global-equity-income-fund-a8-zar-hedged"

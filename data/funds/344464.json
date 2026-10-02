@@ -1211,19 +1211,19 @@
   "product": {
     "classLabel": "ID 344464",
     "currency": "",
-    "display": "貝萊德美元優質債券基金｜ID 344464｜淨值 9.28｜2026年9月30日",
+    "display": "貝萊德美元優質債券基金｜ID 344464｜淨值 9.24｜2026年10月1日",
     "hedged": false,
     "id": "344464",
     "inceptionDate": "2025年7月23日",
     "name": "貝萊德美元優質債券基金",
-    "nav": "9.28",
-    "navDate": "2026年9月30日",
-    "oneYear": "-1.41",
+    "nav": "9.24",
+    "navDate": "2026年10月1日",
+    "oneYear": "-5.21",
     "shareClass": "",
     "slug": "blackrock-us-dollar-bond-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/344464/blackrock-us-dollar-bond-fund",
-    "ytd": "-1.95"
+    "ytd": "-4.56"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/344464/blackrock-us-dollar-bond-fund"

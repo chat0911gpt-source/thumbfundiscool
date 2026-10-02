@@ -18019,19 +18019,19 @@
   "product": {
     "classLabel": "A2 HKD",
     "currency": "HKD",
-    "display": "貝萊德中國基金｜A2 HKD｜淨值 19.55｜2026年9月30日",
+    "display": "貝萊德中國基金｜A2 HKD｜淨值 19.55｜2026年10月1日",
     "hedged": false,
     "id": "229546",
     "inceptionDate": "2008年7月18日",
     "name": "貝萊德中國基金",
     "nav": "19.55",
-    "navDate": "2026年9月30日",
-    "oneYear": "-1.17",
+    "navDate": "2026年10月1日",
+    "oneYear": "-13.38",
     "shareClass": "A2",
     "slug": "blackrock-china-fund-a2-hkd",
-    "threeYear": "30.60",
+    "threeYear": "30.77",
     "url": "https://www.blackrock.com/tw/products/229546/blackrock-china-fund-a2-hkd",
-    "ytd": "-3.49"
+    "ytd": "-6.55"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229546/blackrock-china-fund-a2-hkd"

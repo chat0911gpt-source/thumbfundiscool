@@ -19027,19 +19027,19 @@
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德環球企業債券基金｜A2 EUR 避險｜淨值 12.36｜2026年9月30日",
+    "display": "貝萊德環球企業債券基金｜A2 EUR 避險｜淨值 12.30｜2026年10月1日",
     "hedged": true,
     "id": "228651",
     "inceptionDate": "2007年10月19日",
     "name": "貝萊德環球企業債券基金",
-    "nav": "12.36",
-    "navDate": "2026年9月30日",
-    "oneYear": "-0.24",
+    "nav": "12.30",
+    "navDate": "2026年10月1日",
+    "oneYear": "-3.36",
     "shareClass": "A2",
     "slug": "blackrock-global-corporate-bond-fund-a2-eur-hedged",
-    "threeYear": "9.34",
+    "threeYear": "8.90",
     "url": "https://www.blackrock.com/tw/products/228651/blackrock-global-corporate-bond-fund-a2-eur-hedged",
-    "ytd": "-1.48"
+    "ytd": "-3.66"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/228651/blackrock-global-corporate-bond-fund-a2-eur-hedged"

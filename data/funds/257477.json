@@ -13063,19 +13063,19 @@
   "product": {
     "classLabel": "A2 USD 避險",
     "currency": "USD",
-    "display": "貝萊德歐元市場基金｜A2 USD 避險｜淨值 32.50｜2026年9月30日",
+    "display": "貝萊德歐元市場基金｜A2 USD 避險｜淨值 32.06｜2026年10月1日",
     "hedged": true,
     "id": "257477",
     "inceptionDate": "2013年9月25日",
     "name": "貝萊德歐元市場基金",
-    "nav": "32.50",
-    "navDate": "2026年9月30日",
-    "oneYear": "17.36",
+    "nav": "32.06",
+    "navDate": "2026年10月1日",
+    "oneYear": "14.16",
     "shareClass": "A2",
     "slug": "blackrock-euro-markets-fund-a2-usd-hedged",
-    "threeYear": "54.88",
+    "threeYear": "62.01",
     "url": "https://www.blackrock.com/tw/products/257477/blackrock-euro-markets-fund-a2-usd-hedged",
-    "ytd": "11.49"
+    "ytd": "11.45"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/257477/blackrock-euro-markets-fund-a2-usd-hedged"

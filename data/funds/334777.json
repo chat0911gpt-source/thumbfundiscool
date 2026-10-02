@@ -2787,19 +2787,19 @@
   "product": {
     "classLabel": "ID 334777",
     "currency": "",
-    "display": "貝萊德美元非投資等級債券基金｜ID 334777｜淨值 847.00｜2026年9月30日",
+    "display": "貝萊德美元非投資等級債券基金｜ID 334777｜淨值 844.00｜2026年10月1日",
     "hedged": false,
     "id": "334777",
     "inceptionDate": "2023年12月20日",
     "name": "貝萊德美元非投資等級債券基金",
-    "nav": "847.00",
-    "navDate": "2026年9月30日",
-    "oneYear": "0.83",
+    "nav": "844.00",
+    "navDate": "2026年10月1日",
+    "oneYear": "-2.16",
     "shareClass": "",
     "slug": "blackrock-us-dollar-high-yield-bond-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/334777/blackrock-us-dollar-high-yield-bond-fund",
-    "ytd": "-0.20"
+    "ytd": "-2.86"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/334777/blackrock-us-dollar-high-yield-bond-fund"

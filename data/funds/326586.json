@@ -4515,19 +4515,19 @@
   "product": {
     "classLabel": "ID 326586",
     "currency": "",
-    "display": "貝萊德ESG社會責任多元資產基金｜ID 326586｜淨值 10.36｜2026年9月30日",
+    "display": "貝萊德ESG社會責任多元資產基金｜ID 326586｜淨值 10.34｜2026年10月1日",
     "hedged": false,
     "id": "326586",
     "inceptionDate": "2022年3月30日",
     "name": "貝萊德ESG社會責任多元資產基金",
-    "nav": "10.36",
-    "navDate": "2026年9月30日",
-    "oneYear": "17.48",
+    "nav": "10.34",
+    "navDate": "2026年10月1日",
+    "oneYear": "13.58",
     "shareClass": "",
     "slug": "blackrock-esg-multi-asset-fund",
-    "threeYear": "37.16",
+    "threeYear": "40.44",
     "url": "https://www.blackrock.com/tw/products/326586/blackrock-esg-multi-asset-fund",
-    "ytd": "9.78"
+    "ytd": "9.18"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/326586/blackrock-esg-multi-asset-fund"

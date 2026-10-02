@@ -2787,19 +2787,19 @@
   "product": {
     "classLabel": "ID 334754",
     "currency": "",
-    "display": "貝萊德環球企業債券基金｜ID 334754｜淨值 837.00｜2026年9月30日",
+    "display": "貝萊德環球企業債券基金｜ID 334754｜淨值 834.00｜2026年10月1日",
     "hedged": false,
     "id": "334754",
     "inceptionDate": "2023年12月20日",
     "name": "貝萊德環球企業債券基金",
-    "nav": "837.00",
-    "navDate": "2026年9月30日",
-    "oneYear": "-1.67",
+    "nav": "834.00",
+    "navDate": "2026年10月1日",
+    "oneYear": "-4.90",
     "shareClass": "",
     "slug": "blackrock-global-corporate-bond-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/334754/blackrock-global-corporate-bond-fund",
-    "ytd": "-2.39"
+    "ytd": "-4.80"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/334754/blackrock-global-corporate-bond-fund"

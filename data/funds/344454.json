@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-30",
+  "latestDate": "2026-10-01",
   "pageName": "貝萊德亞洲老虎債券基金 | B2",
-  "pointCount": 300,
+  "pointCount": 301,
   "points": [
     [
       "2025-07-23",
@@ -1202,24 +1202,28 @@
     [
       "2026-09-30",
       10.28
+    ],
+    [
+      "2026-10-01",
+      10.26
     ]
   ],
   "product": {
     "classLabel": "ID 344454",
     "currency": "",
-    "display": "貝萊德亞洲老虎債券基金｜ID 344454｜淨值 10.28｜2026年9月30日",
+    "display": "貝萊德亞洲老虎債券基金｜ID 344454｜淨值 10.26｜2026年10月1日",
     "hedged": false,
     "id": "344454",
     "inceptionDate": "2025年7月23日",
     "name": "貝萊德亞洲老虎債券基金",
-    "nav": "10.28",
-    "navDate": "2026年9月30日",
-    "oneYear": "2.85",
+    "nav": "10.26",
+    "navDate": "2026年10月1日",
+    "oneYear": "-0.58",
     "shareClass": "",
     "slug": "blackrock-asian-tiger-bond-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/344454/blackrock-asian-tiger-bond-fund",
-    "ytd": "0.58"
+    "ytd": "-1.25"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/344454/blackrock-asian-tiger-bond-fund"

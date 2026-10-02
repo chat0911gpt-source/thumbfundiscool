@@ -1199,19 +1199,19 @@
   "product": {
     "classLabel": "ID 344441",
     "currency": "",
-    "display": "貝萊德新興市場債券基金｜ID 344441｜淨值 10.72｜2026年9月30日",
+    "display": "貝萊德新興市場債券基金｜ID 344441｜淨值 10.62｜2026年10月1日",
     "hedged": false,
     "id": "344441",
     "inceptionDate": "2025年7月23日",
     "name": "貝萊德新興市場債券基金",
-    "nav": "10.72",
-    "navDate": "2026年9月30日",
-    "oneYear": "9.11",
+    "nav": "10.62",
+    "navDate": "2026年10月1日",
+    "oneYear": "2.98",
     "shareClass": "",
     "slug": "blackrock-emerging-markets-bond-fund",
     "threeYear": "-",
     "url": "https://www.blackrock.com/tw/products/344441/blackrock-emerging-markets-bond-fund",
-    "ytd": "3.44"
+    "ytd": "-0.46"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/344441/blackrock-emerging-markets-bond-fund"

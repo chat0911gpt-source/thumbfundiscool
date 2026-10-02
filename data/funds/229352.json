@@ -21343,19 +21343,19 @@
   "product": {
     "classLabel": "A2 GBP",
     "currency": "GBP",
-    "display": "貝萊德世界科技基金｜A2 GBP｜淨值 115.75｜2026年9月30日",
+    "display": "貝萊德世界科技基金｜A2 GBP｜淨值 116.17｜2026年10月1日",
     "hedged": false,
     "id": "229352",
     "inceptionDate": "2002年7月1日",
     "name": "貝萊德世界科技基金",
-    "nav": "115.75",
-    "navDate": "2026年9月30日",
-    "oneYear": "37.55",
+    "nav": "116.17",
+    "navDate": "2026年10月1日",
+    "oneYear": "38.47",
     "shareClass": "A2",
     "slug": "blackrock-world-technology-fund-a2-gbp",
-    "threeYear": "108.14",
+    "threeYear": "128.94",
     "url": "https://www.blackrock.com/tw/products/229352/blackrock-world-technology-fund-a2-gbp",
-    "ytd": "28.74"
+    "ytd": "38.51"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229352/blackrock-world-technology-fund-a2-gbp"

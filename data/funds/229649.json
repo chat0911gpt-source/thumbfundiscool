@@ -21351,19 +21351,19 @@
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德歐洲基金｜A2 USD｜淨值 243.21｜2026年9月30日",
+    "display": "貝萊德歐洲基金｜A2 USD｜淨值 238.55｜2026年10月1日",
     "hedged": false,
     "id": "229649",
     "inceptionDate": "1993年11月30日",
     "name": "貝萊德歐洲基金",
-    "nav": "243.21",
-    "navDate": "2026年9月30日",
-    "oneYear": "12.53",
+    "nav": "238.55",
+    "navDate": "2026年10月1日",
+    "oneYear": "6.40",
     "shareClass": "A2",
     "slug": "blackrock-european-fund-a2-usd",
-    "threeYear": "34.16",
+    "threeYear": "39.70",
     "url": "https://www.blackrock.com/tw/products/229649/blackrock-european-fund-a2-usd",
-    "ytd": "8.47"
+    "ytd": "5.15"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229649/blackrock-european-fund-a2-usd"

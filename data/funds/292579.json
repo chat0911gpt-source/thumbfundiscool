@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-30",
+  "latestDate": "2026-10-01",
   "pageName": "貝萊德多元收益成長基金 | A8 避險股份",
-  "pointCount": 2168,
+  "pointCount": 2169,
   "points": [
     [
       "2018-02-06",
@@ -8674,24 +8674,28 @@
     [
       "2026-09-30",
       7.76
+    ],
+    [
+      "2026-10-01",
+      7.7
     ]
   ],
   "product": {
     "classLabel": "ID 292579",
     "currency": "",
-    "display": "貝萊德多元收益成長基金｜ID 292579｜淨值 7.76｜2026年9月30日",
+    "display": "貝萊德多元收益成長基金｜ID 292579｜淨值 7.70｜2026年10月1日",
     "hedged": false,
     "id": "292579",
     "inceptionDate": "2018年2月6日",
     "name": "貝萊德多元收益成長基金",
-    "nav": "7.76",
-    "navDate": "2026年9月30日",
-    "oneYear": "11.10",
+    "nav": "7.70",
+    "navDate": "2026年10月1日",
+    "oneYear": "7.58",
     "shareClass": "",
     "slug": "blackrock-dynamic-high-income-fund",
-    "threeYear": "34.46",
+    "threeYear": "34.90",
     "url": "https://www.blackrock.com/tw/products/292579/blackrock-dynamic-high-income-fund",
-    "ytd": "7.38"
+    "ytd": "5.11"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/292579/blackrock-dynamic-high-income-fund"
