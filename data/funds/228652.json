@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-01",
+  "latestDate": "2026-10-02",
   "pageName": "貝萊德環球企業債券基金 | A2",
-  "pointCount": 4755,
+  "pointCount": 4756,
   "points": [
     [
       "2007-10-19",
@@ -19022,18 +19022,22 @@
     [
       "2026-10-01",
       15.75
+    ],
+    [
+      "2026-10-02",
+      15.82
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德環球企業債券基金｜A2 USD｜淨值 15.75｜2026年10月1日",
+    "display": "貝萊德環球企業債券基金｜A2 USD｜淨值 15.82｜2026年10月2日",
     "hedged": false,
     "id": "228652",
     "inceptionDate": "2007年10月19日",
     "name": "貝萊德環球企業債券基金",
-    "nav": "15.75",
-    "navDate": "2026年10月1日",
+    "nav": "15.82",
+    "navDate": "2026年10月2日",
     "oneYear": "-1.56",
     "shareClass": "A2",
     "slug": "blackrock-global-corporate-bond-fund-a2-usd",

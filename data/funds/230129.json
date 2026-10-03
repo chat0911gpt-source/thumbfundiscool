@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-01",
+  "latestDate": "2026-10-02",
   "pageName": "貝萊德世界能源基金 | A2 避險股份",
-  "pointCount": 3581,
+  "pointCount": 3582,
   "points": [
     [
       "2012-06-13",
@@ -14326,24 +14326,28 @@
     [
       "2026-10-01",
       16.04
+    ],
+    [
+      "2026-10-02",
+      16.19
     ]
   ],
   "product": {
     "classLabel": "A2 HKD 避險",
     "currency": "HKD",
-    "display": "貝萊德世界能源基金｜A2 HKD 避險｜淨值 16.04｜2026年10月1日",
+    "display": "貝萊德世界能源基金｜A2 HKD 避險｜淨值 16.19｜2026年10月2日",
     "hedged": true,
     "id": "230129",
     "inceptionDate": "2012年6月13日",
     "name": "貝萊德世界能源基金",
-    "nav": "16.04",
-    "navDate": "2026年10月1日",
-    "oneYear": "39.86",
+    "nav": "16.19",
+    "navDate": "2026年10月2日",
+    "oneYear": "37.57",
     "shareClass": "A2",
     "slug": "blackrock-world-energy-fund-a2-hkd-hedged",
-    "threeYear": "46.74",
+    "threeYear": "39.24",
     "url": "https://www.blackrock.com/tw/products/230129/blackrock-world-energy-fund-a2-hkd-hedged",
-    "ytd": "38.80"
+    "ytd": "36.18"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/230129/blackrock-world-energy-fund-a2-hkd-hedged"

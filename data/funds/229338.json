@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-01",
+  "latestDate": "2026-10-02",
   "pageName": "貝萊德世界健康科學基金 | A2",
-  "pointCount": 5334,
+  "pointCount": 5335,
   "points": [
     [
       "2005-07-01",
@@ -21338,24 +21338,28 @@
     [
       "2026-10-01",
       78.16
+    ],
+    [
+      "2026-10-02",
+      77.27
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德世界健康科學基金｜A2 USD｜淨值 78.16｜2026年10月1日",
+    "display": "貝萊德世界健康科學基金｜A2 USD｜淨值 77.27｜2026年10月2日",
     "hedged": false,
     "id": "229338",
     "inceptionDate": "2001年4月6日",
     "name": "貝萊德世界健康科學基金",
-    "nav": "78.16",
-    "navDate": "2026年10月1日",
-    "oneYear": "17.53",
+    "nav": "77.27",
+    "navDate": "2026年10月2日",
+    "oneYear": "17.35",
     "shareClass": "A2",
     "slug": "blackrock-world-healthscience-fund-a2-usd",
-    "threeYear": "22.10",
+    "threeYear": "26.92",
     "url": "https://www.blackrock.com/tw/products/229338/blackrock-world-healthscience-fund-a2-usd",
-    "ytd": "5.39"
+    "ytd": "5.48"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229338/blackrock-world-healthscience-fund-a2-usd"

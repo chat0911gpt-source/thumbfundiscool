@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-01",
+  "latestDate": "2026-10-02",
   "pageName": "貝萊德新興市場當地債券基金 | A3",
-  "pointCount": 4934,
+  "pointCount": 4935,
   "points": [
     [
       "2007-02-05",
@@ -19738,18 +19738,22 @@
     [
       "2026-10-01",
       2.69
+    ],
+    [
+      "2026-10-02",
+      2.7
     ]
   ],
   "product": {
     "classLabel": "A3 EUR",
     "currency": "EUR",
-    "display": "貝萊德新興市場當地債券基金｜A3 EUR｜淨值 2.69｜2026年10月1日",
+    "display": "貝萊德新興市場當地債券基金｜A3 EUR｜淨值 2.70｜2026年10月2日",
     "hedged": false,
     "id": "229846",
     "inceptionDate": "2007年2月2日",
     "name": "貝萊德新興市場當地債券基金",
-    "nav": "2.69",
-    "navDate": "2026年10月1日",
+    "nav": "2.70",
+    "navDate": "2026年10月2日",
     "oneYear": "6.22",
     "shareClass": "A3",
     "slug": "blackrock-emerging-markets-local-currency-bond-fund-a3-eur",

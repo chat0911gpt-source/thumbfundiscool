@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-01",
+  "latestDate": "2026-10-02",
   "pageName": "貝萊德美國價值型基金 | C2",
-  "pointCount": 5333,
+  "pointCount": 5334,
   "points": [
     [
       "2005-07-01",
@@ -21334,24 +21334,28 @@
     [
       "2026-10-01",
       116.01
+    ],
+    [
+      "2026-10-02",
+      117.0
     ]
   ],
   "product": {
     "classLabel": "C2 USD",
     "currency": "USD",
-    "display": "貝萊德美國價值型基金｜C2 USD｜淨值 116.01｜2026年10月1日",
+    "display": "貝萊德美國價值型基金｜C2 USD｜淨值 117.00｜2026年10月2日",
     "hedged": false,
     "id": "229311",
     "inceptionDate": "2002年7月1日",
     "name": "貝萊德美國價值型基金",
-    "nav": "116.01",
-    "navDate": "2026年10月1日",
-    "oneYear": "20.71",
+    "nav": "117.00",
+    "navDate": "2026年10月2日",
+    "oneYear": "16.74",
     "shareClass": "C2",
     "slug": "blackrock-us-basic-value-fund-c2-usd",
-    "threeYear": "51.66",
+    "threeYear": "52.11",
     "url": "https://www.blackrock.com/tw/products/229311/blackrock-us-basic-value-fund-c2-usd",
-    "ytd": "14.12"
+    "ytd": "10.86"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/229311/blackrock-us-basic-value-fund-c2-usd"
