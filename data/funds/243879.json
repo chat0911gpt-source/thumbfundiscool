@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-09-24",
-  "pageName": "BGF Fixed Income Global Opportunities Fund | D2",
-  "pointCount": 3997,
+  "latestDate": "2026-10-05",
+  "pageName": "貝萊德環球債券機會基金 | D2",
+  "pointCount": 4004,
   "points": [
     [
       "2007-01-31",
@@ -15990,24 +15990,52 @@
     [
       "2026-09-24",
       18.8
+    ],
+    [
+      "2026-09-25",
+      18.75
+    ],
+    [
+      "2026-09-28",
+      18.73
+    ],
+    [
+      "2026-09-29",
+      18.71
+    ],
+    [
+      "2026-09-30",
+      18.71
+    ],
+    [
+      "2026-10-01",
+      18.68
+    ],
+    [
+      "2026-10-02",
+      18.71
+    ],
+    [
+      "2026-10-05",
+      18.7
     ]
   ],
   "product": {
     "classLabel": "D2 USD",
     "currency": "USD",
-    "display": "BGF Fixed Income Global Opportunities Fund｜D2 USD｜淨值 18.80｜2026年9月24日",
+    "display": "貝萊德環球債券機會基金｜D2 USD｜淨值 18.70｜2026年10月5日",
     "hedged": false,
     "id": "243879",
     "inceptionDate": "2012年10月18日",
-    "name": "BGF Fixed Income Global Opportunities Fund",
-    "nav": "18.80",
-    "navDate": "2026年9月24日",
-    "oneYear": "3.82",
+    "name": "貝萊德環球債券機會基金",
+    "nav": "18.70",
+    "navDate": "2026年10月5日",
+    "oneYear": "1.14",
     "shareClass": "D2",
     "slug": "blackrock-fixed-income-global-opp-d2-usd-fund",
-    "threeYear": "20.92",
+    "threeYear": "19.71",
     "url": "https://www.blackrock.com/tw/products/243879/blackrock-fixed-income-global-opp-d2-usd-fund",
-    "ytd": "1.39"
+    "ytd": "-0.27"
   },
   "seriesKind": "nav",
   "source": "https://www.blackrock.com/tw/products/243879/blackrock-fixed-income-global-opp-d2-usd-fund"
