@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-07",
+  "latestDate": "2026-10-08",
   "pageName": "貝萊德環球政府債券基金 | C3",
-  "pointCount": 5340,
+  "pointCount": 5341,
   "points": [
     [
       "2005-07-01",
@@ -21362,18 +21362,22 @@
     [
       "2026-10-07",
       18.25
+    ],
+    [
+      "2026-10-08",
+      18.29
     ]
   ],
   "product": {
     "classLabel": "C3 USD",
     "currency": "USD",
-    "display": "貝萊德環球政府債券基金｜C3 USD｜淨值 18.25｜2026年10月7日",
+    "display": "貝萊德環球政府債券基金｜C3 USD｜淨值 18.29｜2026年10月8日",
     "hedged": false,
     "id": "229180",
     "inceptionDate": "2007年10月3日",
     "name": "貝萊德環球政府債券基金",
-    "nav": "18.25",
-    "navDate": "2026年10月7日",
+    "nav": "18.29",
+    "navDate": "2026年10月8日",
     "oneYear": "-3.16",
     "shareClass": "C3",
     "slug": "blackrock-global-government-bond-fund-c3-usd",

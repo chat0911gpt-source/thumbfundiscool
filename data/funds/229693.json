@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-07",
+  "latestDate": "2026-10-08",
   "pageName": "貝萊德環球動力股票基金 | A2",
-  "pointCount": 5169,
+  "pointCount": 5170,
   "points": [
     [
       "2006-02-28",
@@ -20678,18 +20678,22 @@
     [
       "2026-10-07",
       41.04
+    ],
+    [
+      "2026-10-08",
+      40.99
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德環球動力股票基金｜A2 EUR｜淨值 41.04｜2026年10月7日",
+    "display": "貝萊德環球動力股票基金｜A2 EUR｜淨值 40.99｜2026年10月8日",
     "hedged": false,
     "id": "229693",
     "inceptionDate": "2006年7月31日",
     "name": "貝萊德環球動力股票基金",
-    "nav": "41.04",
-    "navDate": "2026年10月7日",
+    "nav": "40.99",
+    "navDate": "2026年10月8日",
     "oneYear": "19.78",
     "shareClass": "A2",
     "slug": "blackrock-global-dynamic-equity-fund-a2-eur",

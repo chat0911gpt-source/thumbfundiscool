@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-07",
+  "latestDate": "2026-10-08",
   "pageName": "貝萊德全球通膨連結債券基金 | A3",
-  "pointCount": 4321,
+  "pointCount": 4322,
   "points": [
     [
       "2009-07-23",
@@ -17286,18 +17286,22 @@
     [
       "2026-10-07",
       16.21
+    ],
+    [
+      "2026-10-08",
+      16.25
     ]
   ],
   "product": {
     "classLabel": "A3 USD",
     "currency": "USD",
-    "display": "貝萊德全球通膨連結債券基金｜A3 USD｜淨值 16.21｜2026年10月7日",
+    "display": "貝萊德全球通膨連結債券基金｜A3 USD｜淨值 16.25｜2026年10月8日",
     "hedged": false,
     "id": "228343",
     "inceptionDate": "2009年7月23日",
     "name": "貝萊德全球通膨連結債券基金",
-    "nav": "16.21",
-    "navDate": "2026年10月7日",
+    "nav": "16.25",
+    "navDate": "2026年10月8日",
     "oneYear": "-0.70",
     "shareClass": "A3",
     "slug": "blackrock-global-inflation-linked-bond-fund-a3-usd",
