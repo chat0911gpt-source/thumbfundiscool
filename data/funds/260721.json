@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-08",
+  "latestDate": "2026-10-09",
   "pageName": "貝萊德世界能源基金 | A2 避險股份",
-  "pointCount": 3164,
+  "pointCount": 3165,
   "points": [
     [
       "2014-02-26",
@@ -12658,18 +12658,22 @@
     [
       "2026-10-08",
       13.35
+    ],
+    [
+      "2026-10-09",
+      13.51
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德世界能源基金｜A2 AUD 避險｜淨值 13.35｜2026年10月8日",
+    "display": "貝萊德世界能源基金｜A2 AUD 避險｜淨值 13.51｜2026年10月9日",
     "hedged": true,
     "id": "260721",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德世界能源基金",
-    "nav": "13.35",
-    "navDate": "2026年10月8日",
+    "nav": "13.51",
+    "navDate": "2026年10月9日",
     "oneYear": "39.07",
     "shareClass": "A2",
     "slug": "bgf-world-energy-fund-a2-aud-hedged",
