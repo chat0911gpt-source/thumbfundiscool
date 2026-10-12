@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-07",
+  "latestDate": "2026-10-08",
   "pageName": "貝萊德iShares安碩世界股票ETF | 009826",
-  "pointCount": 53,
+  "pointCount": 54,
   "points": [
     [
       "2026-07-22",
@@ -214,18 +214,22 @@
     [
       "2026-10-07",
       10.07
+    ],
+    [
+      "2026-10-08",
+      10.04
     ]
   ],
   "product": {
     "classLabel": "ID 351824",
     "currency": "",
-    "display": "貝萊德iShares安碩世界股票ETF｜ID 351824｜淨值 10.07｜2026年10月7日",
+    "display": "貝萊德iShares安碩世界股票ETF｜ID 351824｜淨值 10.04｜2026年10月8日",
     "hedged": false,
     "id": "351824",
     "inceptionDate": "2026年7月22日",
     "name": "貝萊德iShares安碩世界股票ETF",
-    "nav": "10.07",
-    "navDate": "2026年10月7日",
+    "nav": "10.04",
+    "navDate": "2026年10月8日",
     "oneYear": "-",
     "shareClass": "",
     "slug": "blackrock-ishares-global-all-cap-etf",

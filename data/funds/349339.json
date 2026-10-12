@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-07",
+  "latestDate": "2026-10-08",
   "pageName": "貝萊德iShares安碩收益優化投資等級債主動式ETF | 00985D",
-  "pointCount": 134,
+  "pointCount": 135,
   "points": [
     [
       "2026-03-20",
@@ -538,18 +538,22 @@
     [
       "2026-10-07",
       9.3873
+    ],
+    [
+      "2026-10-08",
+      9.4782
     ]
   ],
   "product": {
     "classLabel": "ID 349339",
     "currency": "",
-    "display": "貝萊德iShares安碩收益優化投資等級債主動式ETF｜ID 349339｜淨值 9.39｜2026年10月7日",
+    "display": "貝萊德iShares安碩收益優化投資等級債主動式ETF｜ID 349339｜淨值 9.48｜2026年10月8日",
     "hedged": false,
     "id": "349339",
     "inceptionDate": "2026年3月20日",
     "name": "貝萊德iShares安碩收益優化投資等級債主動式ETF",
-    "nav": "9.39",
-    "navDate": "2026年10月7日",
+    "nav": "9.48",
+    "navDate": "2026年10月8日",
     "oneYear": "-",
     "shareClass": "",
     "slug": "blackrock-ishares-income-plus-active-etf",
