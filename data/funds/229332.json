@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-09",
+  "latestDate": "2026-10-12",
   "pageName": "貝萊德世界黃金基金 | A2",
-  "pointCount": 5342,
+  "pointCount": 5343,
   "points": [
     [
       "2005-07-01",
@@ -21370,18 +21370,22 @@
     [
       "2026-10-09",
       92.88
+    ],
+    [
+      "2026-10-12",
+      92.88
     ]
   ],
   "product": {
     "classLabel": "A2 EUR",
     "currency": "EUR",
-    "display": "貝萊德世界黃金基金｜A2 EUR｜淨值 92.88｜2026年10月9日",
+    "display": "貝萊德世界黃金基金｜A2 EUR｜淨值 92.88｜2026年10月12日",
     "hedged": false,
     "id": "229332",
     "inceptionDate": "2001年4月5日",
     "name": "貝萊德世界黃金基金",
     "nav": "92.88",
-    "navDate": "2026年10月9日",
+    "navDate": "2026年10月12日",
     "oneYear": "28.41",
     "shareClass": "A2",
     "slug": "blackrock-world-gold-fund-a2-eur",
