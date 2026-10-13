@@ -2315,13 +2315,13 @@
     {
       "classLabel": "ID 240166",
       "currency": "",
-      "display": "貝萊德寶利基金｜ID 240166｜淨值 194.05｜2026年10月12日",
+      "display": "貝萊德寶利基金｜ID 240166｜淨值 187.29｜2026年10月13日",
       "hedged": false,
       "id": "240166",
       "inceptionDate": "1999年5月10日",
       "name": "貝萊德寶利基金",
-      "nav": "194.05",
-      "navDate": "2026年10月12日",
+      "nav": "187.29",
+      "navDate": "2026年10月13日",
       "oneYear": "124.66",
       "shareClass": "",
       "slug": "blackrock-baoli-fund",
@@ -5918,5 +5918,5 @@
     }
   ],
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-10-13T06:54:26+00:00"
+  "updatedAt": "2026-10-13T19:22:58+00:00"
 }
