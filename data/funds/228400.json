@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-13",
+  "latestDate": "2026-10-14",
   "pageName": "貝萊德美元非投資等級債券基金 | A2 避險股份",
-  "pointCount": 3913,
+  "pointCount": 3914,
   "points": [
     [
       "2011-03-04",
@@ -15654,18 +15654,22 @@
     [
       "2026-10-13",
       21.05
+    ],
+    [
+      "2026-10-14",
+      20.98
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德美元非投資等級債券基金｜A2 AUD 避險｜淨值 21.05｜2026年10月13日",
+    "display": "貝萊德美元非投資等級債券基金｜A2 AUD 避險｜淨值 20.98｜2026年10月14日",
     "hedged": true,
     "id": "228400",
     "inceptionDate": "2011年3月4日",
     "name": "貝萊德美元非投資等級債券基金",
-    "nav": "21.05",
-    "navDate": "2026年10月13日",
+    "nav": "20.98",
+    "navDate": "2026年10月14日",
     "oneYear": "1.25",
     "shareClass": "A2",
     "slug": "blackrock-us-dollar-high-yield-bond-fund-a2-aud-hedged",
