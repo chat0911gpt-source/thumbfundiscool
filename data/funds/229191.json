@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-14",
+  "latestDate": "2026-10-15",
   "pageName": "貝萊德環球非投資等級債券基金 | A2 避險股份",
-  "pointCount": 5344,
+  "pointCount": 5345,
   "points": [
     [
       "2005-07-01",
@@ -21378,18 +21378,22 @@
     [
       "2026-10-14",
       18.9
+    ],
+    [
+      "2026-10-15",
+      18.87
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德環球非投資等級債券基金｜A2 EUR 避險｜淨值 18.90｜2026年10月14日",
+    "display": "貝萊德環球非投資等級債券基金｜A2 EUR 避險｜淨值 18.87｜2026年10月15日",
     "hedged": true,
     "id": "229191",
     "inceptionDate": "2003年5月16日",
     "name": "貝萊德環球非投資等級債券基金",
-    "nav": "18.90",
-    "navDate": "2026年10月14日",
+    "nav": "18.87",
+    "navDate": "2026年10月15日",
     "oneYear": "-0.47",
     "shareClass": "A2",
     "slug": "blackrock-global-high-yield-bond-fund-a2-eur-hedged",

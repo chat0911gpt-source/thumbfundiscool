@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-14",
+  "latestDate": "2026-10-15",
   "pageName": "貝萊德環球非投資等級債券基金 | A3",
-  "pointCount": 5344,
+  "pointCount": 5345,
   "points": [
     [
       "2005-07-01",
@@ -21378,18 +21378,22 @@
     [
       "2026-10-14",
       7.34
+    ],
+    [
+      "2026-10-15",
+      7.34
     ]
   ],
   "product": {
     "classLabel": "A3 USD",
     "currency": "USD",
-    "display": "貝萊德環球非投資等級債券基金｜A3 USD｜淨值 7.34｜2026年10月14日",
+    "display": "貝萊德環球非投資等級債券基金｜A3 USD｜淨值 7.34｜2026年10月15日",
     "hedged": false,
     "id": "229756",
     "inceptionDate": "2007年6月8日",
     "name": "貝萊德環球非投資等級債券基金",
     "nav": "7.34",
-    "navDate": "2026年10月14日",
+    "navDate": "2026年10月15日",
     "oneYear": "1.44",
     "shareClass": "A3",
     "slug": "blackrock-global-high-yield-bond-fund-a3-usd",

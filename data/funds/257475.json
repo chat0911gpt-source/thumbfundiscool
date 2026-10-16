@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-14",
+  "latestDate": "2026-10-15",
   "pageName": "貝萊德歐洲多元增長股票基金 | A2 避險股份",
-  "pointCount": 3273,
+  "pointCount": 3274,
   "points": [
     [
       "2013-09-25",
@@ -13094,18 +13094,22 @@
     [
       "2026-10-14",
       28.06
+    ],
+    [
+      "2026-10-15",
+      27.72
     ]
   ],
   "product": {
     "classLabel": "A2 USD 避險",
     "currency": "USD",
-    "display": "貝萊德歐洲多元增長股票基金｜A2 USD 避險｜淨值 28.06｜2026年10月14日",
+    "display": "貝萊德歐洲多元增長股票基金｜A2 USD 避險｜淨值 27.72｜2026年10月15日",
     "hedged": true,
     "id": "257475",
     "inceptionDate": "2013年9月25日",
     "name": "貝萊德歐洲多元增長股票基金",
-    "nav": "28.06",
-    "navDate": "2026年10月14日",
+    "nav": "27.72",
+    "navDate": "2026年10月15日",
     "oneYear": "6.26",
     "shareClass": "A2",
     "slug": "blackrock-european-special-situations-fund-a2-usd-hedged",
