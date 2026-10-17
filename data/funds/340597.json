@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-15",
+  "latestDate": "2026-10-16",
   "pageName": "貝萊德世界黃金基金 | B10",
-  "pointCount": 455,
+  "pointCount": 456,
   "points": [
     [
       "2024-12-18",
@@ -1822,18 +1822,22 @@
     [
       "2026-10-15",
       21.02
+    ],
+    [
+      "2026-10-16",
+      22.08
     ]
   ],
   "product": {
     "classLabel": "ID 340597",
     "currency": "",
-    "display": "貝萊德世界黃金基金｜ID 340597｜淨值 21.02｜2026年10月15日",
+    "display": "貝萊德世界黃金基金｜ID 340597｜淨值 22.08｜2026年10月16日",
     "hedged": false,
     "id": "340597",
     "inceptionDate": "2024年12月18日",
     "name": "貝萊德世界黃金基金",
-    "nav": "21.02",
-    "navDate": "2026年10月15日",
+    "nav": "22.08",
+    "navDate": "2026年10月16日",
     "oneYear": "22.22",
     "shareClass": "",
     "slug": "blackrock-world-gold-fund",

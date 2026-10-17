@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-15",
+  "latestDate": "2026-10-16",
   "pageName": "貝萊德全球股票收益基金 | A6",
-  "pointCount": 3686,
+  "pointCount": 3687,
   "points": [
     [
       "2012-02-01",
@@ -14746,18 +14746,22 @@
     [
       "2026-10-15",
       20.04
+    ],
+    [
+      "2026-10-16",
+      20.23
     ]
   ],
   "product": {
     "classLabel": "A6 USD",
     "currency": "USD",
-    "display": "貝萊德全球股票收益基金｜A6 USD｜淨值 20.04｜2026年10月15日",
+    "display": "貝萊德全球股票收益基金｜A6 USD｜淨值 20.23｜2026年10月16日",
     "hedged": false,
     "id": "229727",
     "inceptionDate": "2012年2月1日",
     "name": "貝萊德全球股票收益基金",
-    "nav": "20.04",
-    "navDate": "2026年10月15日",
+    "nav": "20.23",
+    "navDate": "2026年10月16日",
     "oneYear": "13.51",
     "shareClass": "A6",
     "slug": "blackrock-global-equity-income-fund-a6-usd",

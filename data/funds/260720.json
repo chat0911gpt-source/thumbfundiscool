@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-15",
+  "latestDate": "2026-10-16",
   "pageName": "貝萊德歐洲價值型基金 | A2 避險股份",
-  "pointCount": 3169,
+  "pointCount": 3170,
   "points": [
     [
       "2014-02-26",
@@ -12678,18 +12678,22 @@
     [
       "2026-10-15",
       260.09
+    ],
+    [
+      "2026-10-16",
+      263.37
     ]
   ],
   "product": {
     "classLabel": "A2 HKD 避險",
     "currency": "HKD",
-    "display": "貝萊德歐洲價值型基金｜A2 HKD 避險｜淨值 260.09｜2026年10月15日",
+    "display": "貝萊德歐洲價值型基金｜A2 HKD 避險｜淨值 263.37｜2026年10月16日",
     "hedged": true,
     "id": "260720",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德歐洲價值型基金",
-    "nav": "260.09",
-    "navDate": "2026年10月15日",
+    "nav": "263.37",
+    "navDate": "2026年10月16日",
     "oneYear": "16.12",
     "shareClass": "A2",
     "slug": "bgf-european-value-fund-a2-hkd-hedged",

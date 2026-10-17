@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-15",
+  "latestDate": "2026-10-16",
   "pageName": "貝萊德環球債券機會基金 | B11",
-  "pointCount": 191,
+  "pointCount": 192,
   "points": [
     [
       "2026-01-14",
@@ -766,18 +766,22 @@
     [
       "2026-10-15",
       9.35
+    ],
+    [
+      "2026-10-16",
+      9.35
     ]
   ],
   "product": {
     "classLabel": "ID 347736",
     "currency": "",
-    "display": "貝萊德環球債券機會基金｜ID 347736｜淨值 9.35｜2026年10月15日",
+    "display": "貝萊德環球債券機會基金｜ID 347736｜淨值 9.35｜2026年10月16日",
     "hedged": false,
     "id": "347736",
     "inceptionDate": "2026年1月14日",
     "name": "貝萊德環球債券機會基金",
     "nav": "9.35",
-    "navDate": "2026年10月15日",
+    "navDate": "2026年10月16日",
     "oneYear": "-",
     "shareClass": "",
     "slug": "blackrock-fixed-income-global-opportunities-fund",

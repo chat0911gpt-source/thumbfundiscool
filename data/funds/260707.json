@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-15",
+  "latestDate": "2026-10-16",
   "pageName": "貝萊德中國基金 | A2 避險股份",
-  "pointCount": 3125,
+  "pointCount": 3126,
   "points": [
     [
       "2014-02-26",
@@ -12502,18 +12502,22 @@
     [
       "2026-10-15",
       13.26
+    ],
+    [
+      "2026-10-16",
+      13.27
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德中國基金｜A2 AUD 避險｜淨值 13.26｜2026年10月15日",
+    "display": "貝萊德中國基金｜A2 AUD 避險｜淨值 13.27｜2026年10月16日",
     "hedged": true,
     "id": "260707",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德中國基金",
-    "nav": "13.26",
-    "navDate": "2026年10月15日",
+    "nav": "13.27",
+    "navDate": "2026年10月16日",
     "oneYear": "-14.72",
     "shareClass": "A2",
     "slug": "bgf-china-fund-a2-aud-hedged",

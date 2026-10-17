@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-15",
+  "latestDate": "2026-10-16",
   "pageName": "貝萊德新興市場債券基金 | A2",
-  "pointCount": 5340,
+  "pointCount": 5341,
   "points": [
     [
       "2005-07-01",
@@ -21362,18 +21362,22 @@
     [
       "2026-10-15",
       23.53
+    ],
+    [
+      "2026-10-16",
+      23.53
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德新興市場債券基金｜A2 USD｜淨值 23.53｜2026年10月15日",
+    "display": "貝萊德新興市場債券基金｜A2 USD｜淨值 23.53｜2026年10月16日",
     "hedged": false,
     "id": "228473",
     "inceptionDate": "2004年10月1日",
     "name": "貝萊德新興市場債券基金",
     "nav": "23.53",
-    "navDate": "2026年10月15日",
+    "navDate": "2026年10月16日",
     "oneYear": "4.06",
     "shareClass": "A2",
     "slug": "blackrock-emerging-markets-bond-fund-a2-usd",

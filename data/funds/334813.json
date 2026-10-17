@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-15",
+  "latestDate": "2026-10-16",
   "pageName": "貝萊德新興市場中國除外基金 | A2",
-  "pointCount": 609,
+  "pointCount": 610,
   "points": [
     [
       "2024-05-13",
@@ -2438,18 +2438,22 @@
     [
       "2026-10-15",
       121.18
+    ],
+    [
+      "2026-10-16",
+      122.38
     ]
   ],
   "product": {
     "classLabel": "ID 334813",
     "currency": "",
-    "display": "貝萊德新興市場中國除外基金｜ID 334813｜淨值 121.18｜2026年10月15日",
+    "display": "貝萊德新興市場中國除外基金｜ID 334813｜淨值 122.38｜2026年10月16日",
     "hedged": false,
     "id": "334813",
     "inceptionDate": "2024年5月13日",
     "name": "貝萊德新興市場中國除外基金",
-    "nav": "121.18",
-    "navDate": "2026年10月15日",
+    "nav": "122.38",
+    "navDate": "2026年10月16日",
     "oneYear": "56.04",
     "shareClass": "",
     "slug": "emerging-markets-ex-china-fund",
