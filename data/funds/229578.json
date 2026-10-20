@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-16",
+  "latestDate": "2026-10-19",
   "pageName": "貝萊德新興市場債券基金 | A3",
-  "pointCount": 5341,
+  "pointCount": 5342,
   "points": [
     [
       "2005-07-01",
@@ -21366,18 +21366,22 @@
     [
       "2026-10-16",
       9.5
+    ],
+    [
+      "2026-10-19",
+      9.46
     ]
   ],
   "product": {
     "classLabel": "A3 USD",
     "currency": "USD",
-    "display": "貝萊德新興市場債券基金｜A3 USD｜淨值 9.50｜2026年10月16日",
+    "display": "貝萊德新興市場債券基金｜A3 USD｜淨值 9.46｜2026年10月19日",
     "hedged": false,
     "id": "229578",
     "inceptionDate": "2004年10月1日",
     "name": "貝萊德新興市場債券基金",
-    "nav": "9.50",
-    "navDate": "2026年10月16日",
+    "nav": "9.46",
+    "navDate": "2026年10月19日",
     "oneYear": "3.41",
     "shareClass": "A3",
     "slug": "blackrock-emerging-markets-bond-fund-a3-usd",
