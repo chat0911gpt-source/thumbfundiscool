@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-19",
+  "latestDate": "2026-10-20",
   "pageName": "貝萊德世界健康科學基金 | A2 避險股份",
-  "pointCount": 3171,
+  "pointCount": 3172,
   "points": [
     [
       "2014-02-26",
@@ -12686,18 +12686,22 @@
     [
       "2026-10-19",
       25.53
+    ],
+    [
+      "2026-10-20",
+      25.88
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德世界健康科學基金｜A2 AUD 避險｜淨值 25.53｜2026年10月19日",
+    "display": "貝萊德世界健康科學基金｜A2 AUD 避險｜淨值 25.88｜2026年10月20日",
     "hedged": true,
     "id": "260718",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德世界健康科學基金",
-    "nav": "25.53",
-    "navDate": "2026年10月19日",
+    "nav": "25.88",
+    "navDate": "2026年10月20日",
     "oneYear": "18.02",
     "shareClass": "A2",
     "slug": "bgf-world-healthscience-fund-a2-aud-hedged",
