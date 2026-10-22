@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-20",
+  "latestDate": "2026-10-21",
   "pageName": "貝萊德新興市場基金 | C2",
-  "pointCount": 5341,
+  "pointCount": 5342,
   "points": [
     [
       "2005-07-01",
@@ -21366,18 +21366,22 @@
     [
       "2026-10-20",
       37.52
+    ],
+    [
+      "2026-10-21",
+      37.85
     ]
   ],
   "product": {
     "classLabel": "C2 USD",
     "currency": "USD",
-    "display": "貝萊德新興市場基金｜C2 USD｜淨值 37.52｜2026年10月20日",
+    "display": "貝萊德新興市場基金｜C2 USD｜淨值 37.85｜2026年10月21日",
     "hedged": false,
     "id": "229595",
     "inceptionDate": "2002年7月1日",
     "name": "貝萊德新興市場基金",
-    "nav": "37.52",
-    "navDate": "2026年10月20日",
+    "nav": "37.85",
+    "navDate": "2026年10月21日",
     "oneYear": "27.49",
     "shareClass": "C2",
     "slug": "blackrock-emerging-markets-fund-c2-usd",

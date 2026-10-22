@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-20",
+  "latestDate": "2026-10-21",
   "pageName": "貝萊德歐洲多元增長股票基金 | C2",
-  "pointCount": 5349,
+  "pointCount": 5350,
   "points": [
     [
       "2005-07-01",
@@ -21398,18 +21398,22 @@
     [
       "2026-10-20",
       46.47
+    ],
+    [
+      "2026-10-21",
+      47.12
     ]
   ],
   "product": {
     "classLabel": "C2 EUR",
     "currency": "EUR",
-    "display": "貝萊德歐洲多元增長股票基金｜C2 EUR｜淨值 46.47｜2026年10月20日",
+    "display": "貝萊德歐洲多元增長股票基金｜C2 EUR｜淨值 47.12｜2026年10月21日",
     "hedged": false,
     "id": "229664",
     "inceptionDate": "2003年3月20日",
     "name": "貝萊德歐洲多元增長股票基金",
-    "nav": "46.47",
-    "navDate": "2026年10月20日",
+    "nav": "47.12",
+    "navDate": "2026年10月21日",
     "oneYear": "2.83",
     "shareClass": "C2",
     "slug": "blackrock-european-special-situations-fund-c2-eur",
