@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-23",
+  "latestDate": "2026-10-26",
   "pageName": "貝萊德全球股票收益基金 | A10",
-  "pointCount": 1000,
+  "pointCount": 1001,
   "points": [
     [
       "2022-10-26",
@@ -4002,18 +4002,22 @@
     [
       "2026-10-23",
       12.0
+    ],
+    [
+      "2026-10-26",
+      12.07
     ]
   ],
   "product": {
     "classLabel": "ID 329973",
     "currency": "",
-    "display": "貝萊德全球股票收益基金｜ID 329973｜淨值 12.00｜2026年10月23日",
+    "display": "貝萊德全球股票收益基金｜ID 329973｜淨值 12.07｜2026年10月26日",
     "hedged": false,
     "id": "329973",
     "inceptionDate": "2022年10月26日",
     "name": "貝萊德全球股票收益基金",
-    "nav": "12.00",
-    "navDate": "2026年10月23日",
+    "nav": "12.07",
+    "navDate": "2026年10月26日",
     "oneYear": "13.50",
     "shareClass": "",
     "slug": "blackrock-global-equity-income-fund",
