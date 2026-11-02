@@ -112,12 +112,12 @@
       "name": "貝萊德ESG社會責任多元資產基金",
       "nav": "66.58",
       "navDate": "2026年10月30日",
-      "oneYear": "13.50",
+      "oneYear": "9.56",
       "shareClass": "A2",
       "slug": "blackrock-esg-multiasset-fund-a2-usd-hedged",
-      "threeYear": "40.36",
+      "threeYear": "44.39",
       "url": "https://www.blackrock.com/tw/products/229685/blackrock-esg-multiasset-fund-a2-usd-hedged",
-      "ytd": "9.17"
+      "ytd": "9.02"
     },
     {
       "classLabel": "A8 USD 避險",
@@ -197,23 +197,23 @@
       "name": "貝萊德iShares安碩0-3月美國國庫證券指數基金",
       "nav": "10.09",
       "navDate": "2026年10月29日",
-      "oneYear": "3.30",
+      "oneYear": "3.28",
       "shareClass": "",
       "slug": "blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/340390/blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
-      "ytd": "2.38"
+      "ytd": "2.70"
     },
     {
       "classLabel": "USD",
       "currency": "USD",
-      "display": "貝萊德iShares安碩10年期以上A級美元公司債ETF (基金之配息來源可能為收益平準金)｜USD｜淨值 15.02｜2026年10月29日",
+      "display": "貝萊德iShares安碩10年期以上A級美元公司債ETF (基金之配息來源可能為收益平準金)｜USD｜淨值 15.03｜2026年10月30日",
       "hedged": false,
       "id": "351827",
       "inceptionDate": "2026年7月22日",
       "name": "貝萊德iShares安碩10年期以上A級美元公司債ETF (基金之配息來源可能為收益平準金)",
-      "nav": "15.02",
-      "navDate": "2026年10月29日",
+      "nav": "15.03",
+      "navDate": "2026年10月30日",
       "oneYear": "-",
       "shareClass": "",
       "slug": "blackrock-ishares-10+-year-usd-a-rated-corporate-bond-etf",
@@ -224,13 +224,13 @@
     {
       "classLabel": "ID 351824",
       "currency": "",
-      "display": "貝萊德iShares安碩世界股票ETF｜ID 351824｜淨值 10.19｜2026年10月29日",
+      "display": "貝萊德iShares安碩世界股票ETF｜ID 351824｜淨值 10.04｜2026年10月30日",
       "hedged": false,
       "id": "351824",
       "inceptionDate": "2026年7月22日",
       "name": "貝萊德iShares安碩世界股票ETF",
-      "nav": "10.19",
-      "navDate": "2026年10月29日",
+      "nav": "10.04",
+      "navDate": "2026年10月30日",
       "oneYear": "-",
       "shareClass": "",
       "slug": "blackrock-ishares-global-all-cap-etf",
@@ -241,13 +241,13 @@
     {
       "classLabel": "ID 349339",
       "currency": "",
-      "display": "貝萊德iShares安碩收益優化投資等級債主動式ETF｜ID 349339｜淨值 9.87｜2026年10月29日",
+      "display": "貝萊德iShares安碩收益優化投資等級債主動式ETF｜ID 349339｜淨值 9.87｜2026年10月30日",
       "hedged": false,
       "id": "349339",
       "inceptionDate": "2026年3月20日",
       "name": "貝萊德iShares安碩收益優化投資等級債主動式ETF",
       "nav": "9.87",
-      "navDate": "2026年10月29日",
+      "navDate": "2026年10月30日",
       "oneYear": "-",
       "shareClass": "",
       "slug": "blackrock-ishares-income-plus-active-etf",
@@ -258,13 +258,13 @@
     {
       "classLabel": "ID 345655",
       "currency": "",
-      "display": "貝萊德iShares安碩標普500卓越50 ETF｜ID 345655｜淨值 11.63｜2026年10月29日",
+      "display": "貝萊德iShares安碩標普500卓越50 ETF｜ID 345655｜淨值 11.37｜2026年10月30日",
       "hedged": false,
       "id": "345655",
       "inceptionDate": "2025年10月8日",
       "name": "貝萊德iShares安碩標普500卓越50 ETF",
-      "nav": "11.63",
-      "navDate": "2026年10月29日",
+      "nav": "11.37",
+      "navDate": "2026年10月30日",
       "oneYear": "11.61",
       "shareClass": "",
       "slug": "blackrock-ishares-s-p-500-top-50-etf",
@@ -486,12 +486,12 @@
       "name": "貝萊德世界地產證券基金",
       "nav": "9.66",
       "navDate": "2026年10月30日",
-      "oneYear": "3.20",
+      "oneYear": "3.49",
       "shareClass": "A6",
       "slug": "blackrock-world-real-estate-securities-a6-usd",
-      "threeYear": "33.46",
+      "threeYear": "33.83",
       "url": "https://www.blackrock.com/tw/products/285321/blackrock-world-real-estate-securities-a6-usd",
-      "ytd": "2.31"
+      "ytd": "2.60"
     },
     {
       "classLabel": "ID 329983",
@@ -503,12 +503,12 @@
       "name": "貝萊德世界礦業基金",
       "nav": "13.22",
       "navDate": "2026年10月30日",
-      "oneYear": "31.83",
+      "oneYear": "19.59",
       "shareClass": "",
       "slug": "blackrock-world-mining-fund",
-      "threeYear": "82.54",
+      "threeYear": "79.06",
       "url": "https://www.blackrock.com/tw/products/329983/blackrock-world-mining-fund",
-      "ytd": "13.24"
+      "ytd": "3.23"
     },
     {
       "classLabel": "ID 336568",
@@ -826,12 +826,12 @@
       "name": "貝萊德世界能源基金",
       "nav": "14.39",
       "navDate": "2026年10月30日",
-      "oneYear": "52.98",
+      "oneYear": "53.81",
       "shareClass": "",
       "slug": "blackrock-world-energy-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/340609/blackrock-world-energy-fund",
-      "ytd": "49.67"
+      "ytd": "50.49"
     },
     {
       "classLabel": "A2 AUD 避險",
@@ -928,12 +928,12 @@
       "name": "貝萊德世界金融基金",
       "nav": "16.93",
       "navDate": "2026年10月30日",
-      "oneYear": "1.42",
+      "oneYear": "2.27",
       "shareClass": "",
       "slug": "blackrock-world-financials-fund",
-      "threeYear": "107.03",
+      "threeYear": "108.75",
       "url": "https://www.blackrock.com/tw/products/329914/blackrock-world-financials-fund",
-      "ytd": "-7.82"
+      "ytd": "-7.06"
     },
     {
       "classLabel": "ID 344455",
@@ -1183,12 +1183,12 @@
       "name": "貝萊德中國基金",
       "nav": "12.63",
       "navDate": "2026年10月30日",
-      "oneYear": "-15.99",
+      "oneYear": "-17.99",
       "shareClass": "A2",
       "slug": "blackrock-china-fund-a2-eur-hedged",
-      "threeYear": "21.84",
+      "threeYear": "19.26",
       "url": "https://www.blackrock.com/tw/products/229550/blackrock-china-fund-a2-eur-hedged",
-      "ytd": "-8.85"
+      "ytd": "-14.72"
     },
     {
       "classLabel": "A2 HKD",
@@ -1302,12 +1302,12 @@
       "name": "貝萊德亞洲老虎債券基金",
       "nav": "74.02",
       "navDate": "2026年10月30日",
-      "oneYear": "1.22",
+      "oneYear": "1.94",
       "shareClass": "",
       "slug": "bgf-asian-tiger-bond-fund-a8-zar-hedged",
-      "threeYear": "32.49",
+      "threeYear": "33.44",
       "url": "https://www.blackrock.com/tw/products/260724/bgf-asian-tiger-bond-fund-a8-zar-hedged",
-      "ytd": "0.67"
+      "ytd": "1.40"
     },
     {
       "classLabel": "ID 334012",
@@ -1404,12 +1404,12 @@
       "name": "貝萊德亞洲老虎債券基金",
       "nav": "8.00",
       "navDate": "2026年10月30日",
-      "oneYear": "-0.94",
+      "oneYear": "-0.41",
       "shareClass": "A6",
       "slug": "blackrock-asian-tiger-bond-fund-a6-usd",
-      "threeYear": "23.06",
+      "threeYear": "23.72",
       "url": "https://www.blackrock.com/tw/products/228329/blackrock-asian-tiger-bond-fund-a6-usd",
-      "ytd": "-1.11"
+      "ytd": "-0.59"
     },
     {
       "classLabel": "A8 AUD 避險",
@@ -1421,12 +1421,12 @@
       "name": "貝萊德亞洲老虎債券基金",
       "nav": "7.76",
       "navDate": "2026年10月30日",
-      "oneYear": "-0.85",
+      "oneYear": "-0.30",
       "shareClass": "A8",
       "slug": "blackrock-asian-tiger-bond-fund-a8-aud-hedged",
-      "threeYear": "20.73",
+      "threeYear": "21.40",
       "url": "https://www.blackrock.com/tw/products/246706/blackrock-asian-tiger-bond-fund-a8-aud-hedged",
-      "ytd": "-0.87"
+      "ytd": "-0.32"
     },
     {
       "classLabel": "ID 297801",
@@ -1591,12 +1591,12 @@
       "name": "貝萊德全球智慧數據股票入息基金",
       "nav": "1,083.00",
       "navDate": "2026年10月30日",
-      "oneYear": "11.49",
+      "oneYear": "12.24",
       "shareClass": "",
       "slug": "blackrock-systematic-global-equity-high-income-fund",
-      "threeYear": "44.81",
+      "threeYear": "45.79",
       "url": "https://www.blackrock.com/tw/products/332883/blackrock-systematic-global-equity-high-income-fund",
-      "ytd": "10.52"
+      "ytd": "11.27"
     },
     {
       "classLabel": "ID 336567",
@@ -1778,12 +1778,12 @@
       "name": "貝萊德全球智慧數據股票入息基金",
       "nav": "9.27",
       "navDate": "2026年10月30日",
-      "oneYear": "15.10",
+      "oneYear": "15.85",
       "shareClass": "",
       "slug": "blackrock-global-enhanced-equity-yield-fund-a8-hedged-aud",
-      "threeYear": "59.33",
+      "threeYear": "60.38",
       "url": "https://www.blackrock.com/tw/products/270405/blackrock-global-enhanced-equity-yield-fund-a8-hedged-aud",
-      "ytd": "13.55"
+      "ytd": "14.30"
     },
     {
       "classLabel": "NZD 避險",
@@ -1795,12 +1795,12 @@
       "name": "貝萊德全球智慧數據股票入息基金",
       "nav": "9.33",
       "navDate": "2026年10月30日",
-      "oneYear": "13.44",
+      "oneYear": "14.06",
       "shareClass": "",
       "slug": "blackrock-global-enhanced-equity-yield-fund-a8-hedged-nzd",
-      "threeYear": "58.28",
+      "threeYear": "59.15",
       "url": "https://www.blackrock.com/tw/products/270407/blackrock-global-enhanced-equity-yield-fund-a8-hedged-nzd",
-      "ytd": "12.07"
+      "ytd": "12.69"
     },
     {
       "classLabel": "A2 EUR 避險",
@@ -1812,12 +1812,12 @@
       "name": "貝萊德全球智慧數據股票入息基金",
       "nav": "14.98",
       "navDate": "2026年10月30日",
-      "oneYear": "12.36",
+      "oneYear": "13.83",
       "shareClass": "A2",
       "slug": "blackrock-global-enhanced-equity-yield-fund-a2-eur-hedged",
-      "threeYear": "51.07",
+      "threeYear": "56.04",
       "url": "https://www.blackrock.com/tw/products/229703/blackrock-global-enhanced-equity-yield-fund-a2-eur-hedged",
-      "ytd": "11.34"
+      "ytd": "12.55"
     },
     {
       "classLabel": "A2 USD",
@@ -1846,12 +1846,12 @@
       "name": "貝萊德全球智慧數據股票入息基金",
       "nav": "9.91",
       "navDate": "2026年10月30日",
-      "oneYear": "15.26",
+      "oneYear": "16.02",
       "shareClass": "A6",
       "slug": "blackrock-global-enhanced-equity-yield-fund-a6-usd",
-      "threeYear": "64.61",
+      "threeYear": "65.71",
       "url": "https://www.blackrock.com/tw/products/270404/blackrock-global-enhanced-equity-yield-fund-a6-usd",
-      "ytd": "13.48"
+      "ytd": "14.24"
     },
     {
       "classLabel": "避險",
@@ -1863,12 +1863,12 @@
       "name": "貝萊德全球股票收益基金",
       "nav": "160.26",
       "navDate": "2026年10月30日",
-      "oneYear": "11.82",
+      "oneYear": "12.14",
       "shareClass": "",
       "slug": "bgf-global-equity-income-fund-a8-zar-hedged",
-      "threeYear": "62.58",
+      "threeYear": "63.03",
       "url": "https://www.blackrock.com/tw/products/260711/bgf-global-equity-income-fund-a8-zar-hedged",
-      "ytd": "9.20"
+      "ytd": "9.51"
     },
     {
       "classLabel": "ID 329973",
@@ -1931,12 +1931,12 @@
       "name": "貝萊德全球股票收益基金",
       "nav": "19.85",
       "navDate": "2026年10月30日",
-      "oneYear": "9.82",
+      "oneYear": "9.99",
       "shareClass": "A6",
       "slug": "blackrock-global-equity-income-fund-a6-usd",
-      "threeYear": "53.40",
+      "threeYear": "53.64",
       "url": "https://www.blackrock.com/tw/products/229727/blackrock-global-equity-income-fund-a6-usd",
-      "ytd": "7.65"
+      "ytd": "7.81"
     },
     {
       "classLabel": "A8 AUD 避險",
@@ -1948,12 +1948,12 @@
       "name": "貝萊德全球股票收益基金",
       "nav": "14.88",
       "navDate": "2026年10月30日",
-      "oneYear": "9.74",
+      "oneYear": "9.89",
       "shareClass": "A8",
       "slug": "blackrock-global-equity-income-fund-a8-aud-hedged",
-      "threeYear": "48.31",
+      "threeYear": "48.52",
       "url": "https://www.blackrock.com/tw/products/256057/blackrock-global-equity-income-fund-a8-aud-hedged",
-      "ytd": "7.64"
+      "ytd": "7.79"
     },
     {
       "classLabel": "A2 EUR 避險",
@@ -2050,12 +2050,12 @@
       "name": "貝萊德多元收益成長基金",
       "nav": "7.64",
       "navDate": "2026年10月30日",
-      "oneYear": "5.19",
+      "oneYear": "5.89",
       "shareClass": "",
       "slug": "blackrock-dynamic-high-income-fund",
-      "threeYear": "36.44",
+      "threeYear": "37.35",
       "url": "https://www.blackrock.com/tw/products/292579/blackrock-dynamic-high-income-fund",
-      "ytd": "3.48"
+      "ytd": "4.18"
     },
     {
       "classLabel": "ID 292584",
@@ -2067,12 +2067,12 @@
       "name": "貝萊德多元收益成長基金",
       "nav": "8.02",
       "navDate": "2026年10月30日",
-      "oneYear": "5.27",
+      "oneYear": "6.02",
       "shareClass": "",
       "slug": "blackrock-dynamic-high-income-fund",
-      "threeYear": "40.29",
+      "threeYear": "41.29",
       "url": "https://www.blackrock.com/tw/products/292584/blackrock-dynamic-high-income-fund",
-      "ytd": "3.50"
+      "ytd": "4.24"
     },
     {
       "classLabel": "ID 292625",
@@ -2101,12 +2101,12 @@
       "name": "貝萊德多元收益成長基金",
       "nav": "920.00",
       "navDate": "2026年10月30日",
-      "oneYear": "1.70",
+      "oneYear": "2.47",
       "shareClass": "",
       "slug": "blackrock-dynamic-high-income-fund",
-      "threeYear": "22.71",
+      "threeYear": "23.65",
       "url": "https://www.blackrock.com/tw/products/332985/blackrock-dynamic-high-income-fund",
-      "ytd": "0.61"
+      "ytd": "1.37"
     },
     {
       "classLabel": "ID 340228",
@@ -2203,12 +2203,12 @@
       "name": "貝萊德多元收益成長基金",
       "nav": "9.73",
       "navDate": "2026年10月30日",
-      "oneYear": "7.68",
+      "oneYear": "5.96",
       "shareClass": "",
       "slug": "blackrock-dynamic-high-income-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/341717/blackrock-dynamic-high-income-fund",
-      "ytd": "5.16"
+      "ytd": "4.16"
     },
     {
       "classLabel": "ID 341723",
@@ -2577,12 +2577,12 @@
       "name": "貝萊德新興市場債券基金",
       "nav": "78.53",
       "navDate": "2026年10月30日",
-      "oneYear": "4.00",
+      "oneYear": "4.79",
       "shareClass": "",
       "slug": "blackRock-emerging-markets-bond-fund-a8-hedged-zar",
-      "threeYear": "45.88",
+      "threeYear": "46.99",
       "url": "https://www.blackrock.com/tw/products/270028/blackRock-emerging-markets-bond-fund-a8-hedged-zar",
-      "ytd": "1.91"
+      "ytd": "2.69"
     },
     {
       "classLabel": "ID 344441",
@@ -2713,12 +2713,12 @@
       "name": "貝萊德新興市場債券基金",
       "nav": "7.33",
       "navDate": "2026年10月30日",
-      "oneYear": "1.79",
+      "oneYear": "2.36",
       "shareClass": "A6",
       "slug": "blackrock-emerging-market-bond-fund-a6-usd",
-      "threeYear": "35.75",
+      "threeYear": "36.51",
       "url": "https://www.blackrock.com/tw/products/228326/blackrock-emerging-market-bond-fund-a6-usd",
-      "ytd": "0.10"
+      "ytd": "0.66"
     },
     {
       "classLabel": "A8 AUD 避險",
@@ -2730,12 +2730,12 @@
       "name": "貝萊德新興市場債券基金",
       "nav": "6.98",
       "navDate": "2026年10月30日",
-      "oneYear": "1.74",
+      "oneYear": "2.32",
       "shareClass": "A8",
       "slug": "blackrock-emerging-markets-bond-fund-a8-aud-hedged",
-      "threeYear": "32.88",
+      "threeYear": "33.64",
       "url": "https://www.blackrock.com/tw/products/246708/blackrock-emerging-markets-bond-fund-a8-aud-hedged",
-      "ytd": "0.13"
+      "ytd": "0.71"
     },
     {
       "classLabel": "A2 EUR",
@@ -2883,12 +2883,12 @@
       "name": "貝萊德新興市場股票收益基金",
       "nav": "17.17",
       "navDate": "2026年10月30日",
-      "oneYear": "12.02",
+      "oneYear": "12.23",
       "shareClass": "A6",
       "slug": "blackrock-emerging-markets-equity-inc-a6-usd-fund",
-      "threeYear": "70.05",
+      "threeYear": "70.36",
       "url": "https://www.blackrock.com/tw/products/262190/blackrock-emerging-markets-equity-inc-a6-usd-fund",
-      "ytd": "9.21"
+      "ytd": "9.41"
     },
     {
       "classLabel": "A2 EUR",
@@ -2951,12 +2951,12 @@
       "name": "貝萊德日本特別時機基金",
       "nav": "111.35",
       "navDate": "2026年10月30日",
-      "oneYear": "29.06",
+      "oneYear": "19.37",
       "shareClass": "A2",
       "slug": "blackrock-japan-small-and-midcap-opportunities-fund-a2-eur-hedged",
-      "threeYear": "102.20",
+      "threeYear": "92.71",
       "url": "https://www.blackrock.com/tw/products/229800/blackrock-japan-small-and-midcap-opportunities-fund-a2-eur-hedged",
-      "ytd": "19.52"
+      "ytd": "12.32"
     },
     {
       "classLabel": "A2 EUR",
@@ -3325,12 +3325,12 @@
       "name": "貝萊德智慧數據收益成長基金",
       "nav": "102.51",
       "navDate": "2026年10月30日",
-      "oneYear": "11.01",
+      "oneYear": "12.27",
       "shareClass": "",
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345298/blackrock-systematic-global-income-growth-fund",
-      "ytd": "8.38"
+      "ytd": "10.07"
     },
     {
       "classLabel": "ID 345299",
@@ -3359,12 +3359,12 @@
       "name": "貝萊德智慧數據收益成長基金",
       "nav": "996.00",
       "navDate": "2026年10月30日",
-      "oneYear": "5.39",
+      "oneYear": "6.70",
       "shareClass": "",
       "slug": "blackrock-systematic-global-income-growth-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345300/blackrock-systematic-global-income-growth-fund",
-      "ytd": "4.49"
+      "ytd": "5.67"
     },
     {
       "classLabel": "ID 345301",
@@ -3818,12 +3818,12 @@
       "name": "貝萊德歐洲基金",
       "nav": "35.93",
       "navDate": "2026年10月30日",
-      "oneYear": "12.10",
+      "oneYear": "7.48",
       "shareClass": "A2",
       "slug": "blackrock-european-fund-a2-usd-hedged",
-      "threeYear": "37.29",
+      "threeYear": "39.91",
       "url": "https://www.blackrock.com/tw/products/229656/blackrock-european-fund-a2-usd-hedged",
-      "ytd": "10.14"
+      "ytd": "6.52"
     },
     {
       "classLabel": "A2 AUD 避險",
@@ -4158,12 +4158,12 @@
       "name": "貝萊德環球企業債券基金",
       "nav": "9.42",
       "navDate": "2026年10月30日",
-      "oneYear": "-1.83",
+      "oneYear": "-1.43",
       "shareClass": "A6",
       "slug": "blackrock-global-corporate-bond-fund-a6-usd",
-      "threeYear": "17.34",
+      "threeYear": "17.82",
       "url": "https://www.blackrock.com/tw/products/230111/blackrock-global-corporate-bond-fund-a6-usd",
-      "ytd": "-1.88"
+      "ytd": "-1.48"
     },
     {
       "classLabel": "A8 AUD 避險",
@@ -4175,12 +4175,12 @@
       "name": "貝萊德環球企業債券基金",
       "nav": "9.28",
       "navDate": "2026年10月30日",
-      "oneYear": "-1.64",
+      "oneYear": "-1.21",
       "shareClass": "A8",
       "slug": "blackrock-global-corporate-bond-fund-a8-aud-hedged",
-      "threeYear": "15.06",
+      "threeYear": "15.56",
       "url": "https://www.blackrock.com/tw/products/246686/blackrock-global-corporate-bond-fund-a8-aud-hedged",
-      "ytd": "-1.77"
+      "ytd": "-1.34"
     },
     {
       "classLabel": "ID 347731",
@@ -4379,12 +4379,12 @@
       "name": "貝萊德環球債券機會基金",
       "nav": "11.08",
       "navDate": "2026年10月30日",
-      "oneYear": "-0.18",
+      "oneYear": "0.25",
       "shareClass": "A6",
       "slug": "blackrock-fixed-income-global-opp-a6-usd-fund",
-      "threeYear": "18.32",
+      "threeYear": "18.83",
       "url": "https://www.blackrock.com/tw/products/262189/blackrock-fixed-income-global-opp-a6-usd-fund",
-      "ytd": "-0.83"
+      "ytd": "-0.40"
     },
     {
       "classLabel": "D2 USD",
@@ -4515,12 +4515,12 @@
       "name": "貝萊德環球動態趨勢多元資產組合基金",
       "nav": "15.99",
       "navDate": "2026年10月29日",
-      "oneYear": "12.09",
+      "oneYear": "8.11",
       "shareClass": "",
       "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "threeYear": "54.92",
+      "threeYear": "56.46",
       "url": "https://www.blackrock.com/tw/products/327648/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "ytd": "8.13"
+      "ytd": "6.60"
     },
     {
       "classLabel": "ID 327649",
@@ -4532,12 +4532,12 @@
       "name": "貝萊德環球動態趨勢多元資產組合基金",
       "nav": "15.88",
       "navDate": "2026年10月29日",
-      "oneYear": "5.39",
+      "oneYear": "1.21",
       "shareClass": "",
       "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "threeYear": "42.16",
+      "threeYear": "42.17",
       "url": "https://www.blackrock.com/tw/products/327649/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "ytd": "3.84"
+      "ytd": "1.66"
     },
     {
       "classLabel": "ID 327650",
@@ -4549,12 +4549,12 @@
       "name": "貝萊德環球動態趨勢多元資產組合基金",
       "nav": "17.49",
       "navDate": "2026年10月29日",
-      "oneYear": "17.10",
+      "oneYear": "14.24",
       "shareClass": "",
       "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "threeYear": "52.95",
+      "threeYear": "56.86",
       "url": "https://www.blackrock.com/tw/products/327650/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "ytd": "9.51"
+      "ytd": "10.14"
     },
     {
       "classLabel": "ID 327652",
@@ -4583,12 +4583,12 @@
       "name": "貝萊德環球動態趨勢多元資產組合基金",
       "nav": "12.47",
       "navDate": "2026年10月29日",
-      "oneYear": "5.49",
+      "oneYear": "1.18",
       "shareClass": "",
       "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "threeYear": "42.23",
+      "threeYear": "42.11",
       "url": "https://www.blackrock.com/tw/products/327653/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "ytd": "3.90"
+      "ytd": "1.70"
     },
     {
       "classLabel": "ID 327654",
@@ -4617,12 +4617,12 @@
       "name": "貝萊德環球動態趨勢多元資產組合基金",
       "nav": "12.47",
       "navDate": "2026年10月29日",
-      "oneYear": "5.49",
+      "oneYear": "1.18",
       "shareClass": "",
       "slug": "blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "threeYear": "42.23",
+      "threeYear": "42.11",
       "url": "https://www.blackrock.com/tw/products/327655/blackrock-global-dynamic-trends-multi-asset-fund-of-funds-aggregate",
-      "ytd": "3.90"
+      "ytd": "1.70"
     },
     {
       "classLabel": "ID 327656",
@@ -4855,12 +4855,12 @@
       "name": "貝萊德環球資產配置基金",
       "nav": "1,031.00",
       "navDate": "2026年10月30日",
-      "oneYear": "1.26",
+      "oneYear": "1.66",
       "shareClass": "",
       "slug": "blackrock-global-allocation-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/340673/blackrock-global-allocation-fund",
-      "ytd": "0.58"
+      "ytd": "0.98"
     },
     {
       "classLabel": "ID 340674",
@@ -5059,12 +5059,12 @@
       "name": "貝萊德環球資產配置基金",
       "nav": "26.11",
       "navDate": "2026年10月30日",
-      "oneYear": "8.94",
+      "oneYear": "5.07",
       "shareClass": "A2",
       "slug": "blackrock-global-allocation-fund-a2-aud-hedged",
-      "threeYear": "42.54",
+      "threeYear": "43.62",
       "url": "https://www.blackrock.com/tw/products/228294/blackrock-global-allocation-fund-a2-aud-hedged",
-      "ytd": "5.60"
+      "ytd": "3.78"
     },
     {
       "classLabel": "A2 EUR",
@@ -5144,12 +5144,12 @@
       "name": "貝萊德環球非投資等級債券基金",
       "nav": "74.75",
       "navDate": "2026年10月30日",
-      "oneYear": "2.58",
+      "oneYear": "3.44",
       "shareClass": "",
       "slug": "bgf-global-high-yield-bond-fund-a8-zar-hedged",
-      "threeYear": "34.32",
+      "threeYear": "35.45",
       "url": "https://www.blackrock.com/tw/products/260725/bgf-global-high-yield-bond-fund-a8-zar-hedged",
-      "ytd": "1.03"
+      "ytd": "1.88"
     },
     {
       "classLabel": "ID 334759",
@@ -5263,12 +5263,12 @@
       "name": "貝萊德環球非投資等級債券基金",
       "nav": "5.64",
       "navDate": "2026年10月30日",
-      "oneYear": "0.42",
+      "oneYear": "1.05",
       "shareClass": "A6",
       "slug": "blackrock-global-high-yield-bond-fund-a6-usd",
-      "threeYear": "24.72",
+      "threeYear": "25.51",
       "url": "https://www.blackrock.com/tw/products/228328/blackrock-global-high-yield-bond-fund-a6-usd",
-      "ytd": "-0.76"
+      "ytd": "-0.14"
     },
     {
       "classLabel": "A8 AUD 避險",
@@ -5280,12 +5280,12 @@
       "name": "貝萊德環球非投資等級債券基金",
       "nav": "5.45",
       "navDate": "2026年10月30日",
-      "oneYear": "0.59",
+      "oneYear": "1.26",
       "shareClass": "A8",
       "slug": "blackrock-global-high-yield-bond-fund-a8-aud-hedged",
-      "threeYear": "22.45",
+      "threeYear": "23.27",
       "url": "https://www.blackrock.com/tw/products/246684/blackrock-global-high-yield-bond-fund-a8-aud-hedged",
-      "ytd": "-0.52"
+      "ytd": "0.15"
     },
     {
       "classLabel": "ID 344463",
@@ -5501,12 +5501,12 @@
       "name": "貝萊德美元非投資等級債券基金",
       "nav": "75.43",
       "navDate": "2026年10月30日",
-      "oneYear": "2.59",
+      "oneYear": "3.44",
       "shareClass": "",
       "slug": "bgf-usd-high-yield-bond-fund-a8-zar-hedged",
-      "threeYear": "34.33",
+      "threeYear": "35.44",
       "url": "https://www.blackrock.com/tw/products/260726/bgf-usd-high-yield-bond-fund-a8-zar-hedged",
-      "ytd": "0.92"
+      "ytd": "1.75"
     },
     {
       "classLabel": "A2 AUD 避險",
@@ -5586,12 +5586,12 @@
       "name": "貝萊德美元非投資等級債券基金",
       "nav": "4.13",
       "navDate": "2026年10月30日",
-      "oneYear": "0.28",
+      "oneYear": "0.92",
       "shareClass": "A6",
       "slug": "blackrock-us-dollar-high-yield-bond-fund-a6-usd",
-      "threeYear": "24.73",
+      "threeYear": "25.52",
       "url": "https://www.blackrock.com/tw/products/228393/blackrock-us-dollar-high-yield-bond-fund-a6-usd",
-      "ytd": "-0.89"
+      "ytd": "-0.27"
     },
     {
       "classLabel": "A8 AUD 避險",
@@ -5603,12 +5603,12 @@
       "name": "貝萊德美元非投資等級債券基金",
       "nav": "7.49",
       "navDate": "2026年10月30日",
-      "oneYear": "0.54",
+      "oneYear": "1.20",
       "shareClass": "A8",
       "slug": "blackrock-us-dollar-high-yield-bond-fund-a8-aud-hedged",
-      "threeYear": "22.61",
+      "threeYear": "23.42",
       "url": "https://www.blackrock.com/tw/products/246709/blackrock-us-dollar-high-yield-bond-fund-a8-aud-hedged",
-      "ytd": "-0.66"
+      "ytd": "0.00"
     },
     {
       "classLabel": "A2 AUD 避險",
@@ -5918,5 +5918,5 @@
     }
   ],
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-11-01T17:59:20+00:00"
+  "updatedAt": "2026-11-02T06:28:39+00:00"
 }
