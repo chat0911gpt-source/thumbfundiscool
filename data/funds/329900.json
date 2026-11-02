@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-30",
+  "latestDate": "2026-11-02",
   "pageName": "貝萊德世界能源基金 | A10",
-  "pointCount": 1010,
+  "pointCount": 1011,
   "points": [
     [
       "2022-10-19",
@@ -4042,18 +4042,22 @@
     [
       "2026-10-30",
       13.78
+    ],
+    [
+      "2026-11-02",
+      13.56
     ]
   ],
   "product": {
     "classLabel": "ID 329900",
     "currency": "",
-    "display": "貝萊德世界能源基金｜ID 329900｜淨值 13.78｜2026年10月30日",
+    "display": "貝萊德世界能源基金｜ID 329900｜淨值 13.56｜2026年11月2日",
     "hedged": false,
     "id": "329900",
     "inceptionDate": "2022年10月19日",
     "name": "貝萊德世界能源基金",
-    "nav": "13.78",
-    "navDate": "2026年10月30日",
+    "nav": "13.56",
+    "navDate": "2026年11月2日",
     "oneYear": "56.25",
     "shareClass": "",
     "slug": "blackrock-world-energy-fund",

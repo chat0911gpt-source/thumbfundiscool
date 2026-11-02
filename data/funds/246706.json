@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-10-30",
+  "latestDate": "2026-11-02",
   "pageName": "貝萊德亞洲老虎債券基金 | A8 避險股份",
-  "pointCount": 3431,
+  "pointCount": 3432,
   "points": [
     [
       "2013-02-22",
@@ -13726,18 +13726,22 @@
     [
       "2026-10-30",
       7.76
+    ],
+    [
+      "2026-11-02",
+      7.78
     ]
   ],
   "product": {
     "classLabel": "A8 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德亞洲老虎債券基金｜A8 AUD 避險｜淨值 7.76｜2026年10月30日",
+    "display": "貝萊德亞洲老虎債券基金｜A8 AUD 避險｜淨值 7.78｜2026年11月2日",
     "hedged": true,
     "id": "246706",
     "inceptionDate": "2013年2月20日",
     "name": "貝萊德亞洲老虎債券基金",
-    "nav": "7.76",
-    "navDate": "2026年10月30日",
+    "nav": "7.78",
+    "navDate": "2026年11月2日",
     "oneYear": "-0.30",
     "shareClass": "A8",
     "slug": "blackrock-asian-tiger-bond-fund-a8-aud-hedged",
