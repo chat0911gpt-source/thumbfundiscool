@@ -163,12 +163,12 @@
       "name": "貝萊德iShares安碩0-3月美國國庫證券指數基金",
       "nav": "10.55",
       "navDate": "2026年10月30日",
-      "oneYear": "9.48",
+      "oneYear": "9.56",
       "shareClass": "",
       "slug": "blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/340388/blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
-      "ytd": "6.51"
+      "ytd": "6.59"
     },
     {
       "classLabel": "ID 340389",
@@ -180,12 +180,12 @@
       "name": "貝萊德iShares安碩0-3月美國國庫證券指數基金",
       "nav": "10.60",
       "navDate": "2026年10月30日",
-      "oneYear": "3.28",
+      "oneYear": "3.32",
       "shareClass": "",
       "slug": "blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/340389/blackrock-ishares-0-3-month-us-treasury-securities-index-fund",
-      "ytd": "2.70"
+      "ytd": "2.74"
     },
     {
       "classLabel": "ID 340390",
@@ -207,13 +207,13 @@
     {
       "classLabel": "USD",
       "currency": "USD",
-      "display": "貝萊德iShares安碩10年期以上A級美元公司債ETF (基金之配息來源可能為收益平準金)｜USD｜淨值 15.03｜2026年10月30日",
+      "display": "貝萊德iShares安碩10年期以上A級美元公司債ETF (基金之配息來源可能為收益平準金)｜USD｜淨值 15.08｜2026年11月2日",
       "hedged": false,
       "id": "351827",
       "inceptionDate": "2026年7月22日",
       "name": "貝萊德iShares安碩10年期以上A級美元公司債ETF (基金之配息來源可能為收益平準金)",
-      "nav": "15.03",
-      "navDate": "2026年10月30日",
+      "nav": "15.08",
+      "navDate": "2026年11月2日",
       "oneYear": "-",
       "shareClass": "",
       "slug": "blackrock-ishares-10+-year-usd-a-rated-corporate-bond-etf",
@@ -224,13 +224,13 @@
     {
       "classLabel": "ID 351824",
       "currency": "",
-      "display": "貝萊德iShares安碩世界股票ETF｜ID 351824｜淨值 10.04｜2026年10月30日",
+      "display": "貝萊德iShares安碩世界股票ETF｜ID 351824｜淨值 10.03｜2026年11月2日",
       "hedged": false,
       "id": "351824",
       "inceptionDate": "2026年7月22日",
       "name": "貝萊德iShares安碩世界股票ETF",
-      "nav": "10.04",
-      "navDate": "2026年10月30日",
+      "nav": "10.03",
+      "navDate": "2026年11月2日",
       "oneYear": "-",
       "shareClass": "",
       "slug": "blackrock-ishares-global-all-cap-etf",
@@ -241,13 +241,13 @@
     {
       "classLabel": "ID 349339",
       "currency": "",
-      "display": "貝萊德iShares安碩收益優化投資等級債主動式ETF｜ID 349339｜淨值 9.87｜2026年10月30日",
+      "display": "貝萊德iShares安碩收益優化投資等級債主動式ETF｜ID 349339｜淨值 9.89｜2026年11月2日",
       "hedged": false,
       "id": "349339",
       "inceptionDate": "2026年3月20日",
       "name": "貝萊德iShares安碩收益優化投資等級債主動式ETF",
-      "nav": "9.87",
-      "navDate": "2026年10月30日",
+      "nav": "9.89",
+      "navDate": "2026年11月2日",
       "oneYear": "-",
       "shareClass": "",
       "slug": "blackrock-ishares-income-plus-active-etf",
@@ -258,19 +258,19 @@
     {
       "classLabel": "ID 345655",
       "currency": "",
-      "display": "貝萊德iShares安碩標普500卓越50 ETF｜ID 345655｜淨值 11.37｜2026年10月30日",
+      "display": "貝萊德iShares安碩標普500卓越50 ETF｜ID 345655｜淨值 11.27｜2026年11月2日",
       "hedged": false,
       "id": "345655",
       "inceptionDate": "2025年10月8日",
       "name": "貝萊德iShares安碩標普500卓越50 ETF",
-      "nav": "11.37",
-      "navDate": "2026年10月30日",
-      "oneYear": "11.61",
+      "nav": "11.27",
+      "navDate": "2026年11月2日",
+      "oneYear": "9.12",
       "shareClass": "",
       "slug": "blackrock-ishares-s-p-500-top-50-etf",
       "threeYear": "-",
       "url": "https://www.blackrock.com/tw/products/345655/blackrock-ishares-s-p-500-top-50-etf",
-      "ytd": "10.24"
+      "ytd": "7.77"
     },
     {
       "classLabel": "ID 329975",
@@ -1438,12 +1438,12 @@
       "name": "貝萊德享退休系列2030目標日期組合基金",
       "nav": "14.15",
       "navDate": "2026年10月30日",
-      "oneYear": "11.16",
+      "oneYear": "10.76",
       "shareClass": "",
       "slug": "blackrock-lifepath-series-2030-target-date-fund-of-funds-aggregate",
-      "threeYear": "31.85",
+      "threeYear": "35.89",
       "url": "https://www.blackrock.com/tw/products/297801/blackrock-lifepath-series-2030-target-date-fund-of-funds-aggregate",
-      "ytd": "6.16"
+      "ytd": "8.07"
     },
     {
       "classLabel": "ID 297795",
@@ -1455,12 +1455,12 @@
       "name": "貝萊德享退休系列2040目標日期組合基金",
       "nav": "15.84",
       "navDate": "2026年10月30日",
-      "oneYear": "15.38",
+      "oneYear": "14.00",
       "shareClass": "",
       "slug": "blackrock-lifepath-series-2040-target-date-fund-of-funds-aggregate",
-      "threeYear": "43.18",
+      "threeYear": "47.50",
       "url": "https://www.blackrock.com/tw/products/297795/blackrock-lifepath-series-2040-target-date-fund-of-funds-aggregate",
-      "ytd": "9.68"
+      "ytd": "11.14"
     },
     {
       "classLabel": "ID 297799",
@@ -1472,12 +1472,12 @@
       "name": "貝萊德享退休系列2050目標日期組合基金",
       "nav": "18.60",
       "navDate": "2026年10月30日",
-      "oneYear": "18.35",
+      "oneYear": "16.91",
       "shareClass": "",
       "slug": "blackrock-lifepath-series-2050-target-date-fund-of-funds-aggregate",
-      "threeYear": "65.03",
+      "threeYear": "63.01",
       "url": "https://www.blackrock.com/tw/products/297799/blackrock-lifepath-series-2050-target-date-fund-of-funds-aggregate",
-      "ytd": "15.17"
+      "ytd": "13.76"
     },
     {
       "classLabel": "ID 287606",
@@ -1540,12 +1540,12 @@
       "name": "貝萊德全方位資產收益組合基金",
       "nav": "16.07",
       "navDate": "2026年10月30日",
-      "oneYear": "14.01",
+      "oneYear": "13.73",
       "shareClass": "",
       "slug": "blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-acc",
-      "threeYear": "40.82",
+      "threeYear": "40.47",
       "url": "https://www.blackrock.com/tw/products/287609/blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-acc",
-      "ytd": "10.04"
+      "ytd": "9.77"
     },
     {
       "classLabel": "ID 287610",
@@ -1557,12 +1557,12 @@
       "name": "貝萊德全方位資產收益組合基金",
       "nav": "15.13",
       "navDate": "2026年10月30日",
-      "oneYear": "7.90",
+      "oneYear": "7.69",
       "shareClass": "",
       "slug": "blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-acc",
-      "threeYear": "40.50",
+      "threeYear": "40.22",
       "url": "https://www.blackrock.com/tw/products/287610/blackrock-global-multi-asset-income-fund-of-funds-aggregate-class-acc",
-      "ytd": "6.46"
+      "ytd": "6.25"
     },
     {
       "classLabel": "ID 316528",
@@ -5918,5 +5918,5 @@
     }
   ],
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-11-02T21:49:00+00:00"
+  "updatedAt": "2026-11-03T07:00:26+00:00"
 }
