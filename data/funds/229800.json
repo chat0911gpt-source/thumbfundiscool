@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-02",
+  "latestDate": "2026-11-03",
   "pageName": "貝萊德日本特別時機基金 | A2 避險股份",
-  "pointCount": 4998,
+  "pointCount": 4999,
   "points": [
     [
       "2006-05-29",
@@ -19994,18 +19994,22 @@
     [
       "2026-11-02",
       111.04
+    ],
+    [
+      "2026-11-03",
+      110.72
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德日本特別時機基金｜A2 EUR 避險｜淨值 111.04｜2026年11月2日",
+    "display": "貝萊德日本特別時機基金｜A2 EUR 避險｜淨值 110.72｜2026年11月3日",
     "hedged": true,
     "id": "229800",
     "inceptionDate": "2006年5月29日",
     "name": "貝萊德日本特別時機基金",
-    "nav": "111.04",
-    "navDate": "2026年11月2日",
+    "nav": "110.72",
+    "navDate": "2026年11月3日",
     "oneYear": "19.37",
     "shareClass": "A2",
     "slug": "blackrock-japan-small-and-midcap-opportunities-fund-a2-eur-hedged",
