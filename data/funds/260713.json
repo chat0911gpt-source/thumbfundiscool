@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-04",
+  "latestDate": "2026-11-05",
   "pageName": "貝萊德拉丁美洲基金 | A2 避險股份",
-  "pointCount": 3182,
+  "pointCount": 3183,
   "points": [
     [
       "2014-02-26",
@@ -12730,18 +12730,22 @@
     [
       "2026-11-04",
       9.69
+    ],
+    [
+      "2026-11-05",
+      9.67
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德拉丁美洲基金｜A2 AUD 避險｜淨值 9.69｜2026年11月4日",
+    "display": "貝萊德拉丁美洲基金｜A2 AUD 避險｜淨值 9.67｜2026年11月5日",
     "hedged": true,
     "id": "260713",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德拉丁美洲基金",
-    "nav": "9.69",
-    "navDate": "2026年11月4日",
+    "nav": "9.67",
+    "navDate": "2026年11月5日",
     "oneYear": "-2.02",
     "shareClass": "A2",
     "slug": "bgf-latin-american-fund-a2-aud-hedged",
