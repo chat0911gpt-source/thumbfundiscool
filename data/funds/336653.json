@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-03",
+  "latestDate": "2026-11-04",
   "pageName": "貝萊德美元非投資等級債券基金 | B6 避險股份",
-  "pointCount": 648,
+  "pointCount": 649,
   "points": [
     [
       "2024-04-03",
@@ -2594,18 +2594,22 @@
     [
       "2026-11-03",
       831.0
+    ],
+    [
+      "2026-11-04",
+      833.0
     ]
   ],
   "product": {
     "classLabel": "ID 336653",
     "currency": "",
-    "display": "貝萊德美元非投資等級債券基金｜ID 336653｜淨值 831.00｜2026年11月3日",
+    "display": "貝萊德美元非投資等級債券基金｜ID 336653｜淨值 833.00｜2026年11月4日",
     "hedged": false,
     "id": "336653",
     "inceptionDate": "2024年4月3日",
     "name": "貝萊德美元非投資等級債券基金",
-    "nav": "831.00",
-    "navDate": "2026年11月3日",
+    "nav": "833.00",
+    "navDate": "2026年11月4日",
     "oneYear": "-3.93",
     "shareClass": "",
     "slug": "blackrock-us-dollar-high-yield-bond-fund",

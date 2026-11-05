@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-03",
+  "latestDate": "2026-11-04",
   "pageName": "貝萊德iShares安碩10年期以上A級美元公司債ETF (基金之配息來源可能為收益平準金) | 00991B",
-  "pointCount": 68,
+  "pointCount": 69,
   "points": [
     [
       "2026-07-22",
@@ -274,18 +274,22 @@
     [
       "2026-11-03",
       15.1024
+    ],
+    [
+      "2026-11-04",
+      15.2683
     ]
   ],
   "product": {
     "classLabel": "USD",
     "currency": "USD",
-    "display": "貝萊德iShares安碩10年期以上A級美元公司債ETF (基金之配息來源可能為收益平準金)｜USD｜淨值 15.10｜2026年11月3日",
+    "display": "貝萊德iShares安碩10年期以上A級美元公司債ETF (基金之配息來源可能為收益平準金)｜USD｜淨值 15.27｜2026年11月4日",
     "hedged": false,
     "id": "351827",
     "inceptionDate": "2026年7月22日",
     "name": "貝萊德iShares安碩10年期以上A級美元公司債ETF (基金之配息來源可能為收益平準金)",
-    "nav": "15.10",
-    "navDate": "2026年11月3日",
+    "nav": "15.27",
+    "navDate": "2026年11月4日",
     "oneYear": "-",
     "shareClass": "",
     "slug": "blackrock-ishares-10+-year-usd-a-rated-corporate-bond-etf",
