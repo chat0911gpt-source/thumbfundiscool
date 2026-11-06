@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-05",
+  "latestDate": "2026-11-06",
   "pageName": "貝萊德多元收益成長基金 | A11",
-  "pointCount": 424,
+  "pointCount": 425,
   "points": [
     [
       "2025-02-26",
@@ -1698,18 +1698,22 @@
     [
       "2026-11-05",
       9.72
+    ],
+    [
+      "2026-11-06",
+      9.58
     ]
   ],
   "product": {
     "classLabel": "ID 341717",
     "currency": "",
-    "display": "貝萊德多元收益成長基金｜ID 341717｜淨值 9.72｜2026年11月5日",
+    "display": "貝萊德多元收益成長基金｜ID 341717｜淨值 9.58｜2026年11月6日",
     "hedged": false,
     "id": "341717",
     "inceptionDate": "2025年2月26日",
     "name": "貝萊德多元收益成長基金",
-    "nav": "9.72",
-    "navDate": "2026年11月5日",
+    "nav": "9.58",
+    "navDate": "2026年11月6日",
     "oneYear": "5.96",
     "shareClass": "",
     "slug": "blackrock-dynamic-high-income-fund",

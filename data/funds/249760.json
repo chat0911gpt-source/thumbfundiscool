@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-05",
+  "latestDate": "2026-11-06",
   "pageName": "貝萊德世界地產證券基金 | A2",
-  "pointCount": 3433,
+  "pointCount": 3434,
   "points": [
     [
       "2013-02-27",
@@ -13734,18 +13734,22 @@
     [
       "2026-11-05",
       17.54
+    ],
+    [
+      "2026-11-06",
+      17.15
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德世界地產證券基金｜A2 USD｜淨值 17.54｜2026年11月5日",
+    "display": "貝萊德世界地產證券基金｜A2 USD｜淨值 17.15｜2026年11月6日",
     "hedged": false,
     "id": "249760",
     "inceptionDate": "2013年2月25日",
     "name": "貝萊德世界地產證券基金",
-    "nav": "17.54",
-    "navDate": "2026年11月5日",
+    "nav": "17.15",
+    "navDate": "2026年11月6日",
     "oneYear": "3.51",
     "shareClass": "A2",
     "slug": "blackrock-world-real-estate-securites-a2-usd-fund",
