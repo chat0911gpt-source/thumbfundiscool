@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-06",
+  "latestDate": "2026-11-09",
   "pageName": "貝萊德環球債券機會基金 | Class I2",
-  "pointCount": 3265,
+  "pointCount": 3266,
   "points": [
     [
       "2013-10-30",
@@ -13062,18 +13062,22 @@
     [
       "2026-11-06",
       15.16
+    ],
+    [
+      "2026-11-09",
+      15.19
     ]
   ],
   "product": {
     "classLabel": "I2 USD",
     "currency": "USD",
-    "display": "貝萊德環球債券機會基金｜I2 USD｜淨值 15.16｜2026年11月6日",
+    "display": "貝萊德環球債券機會基金｜I2 USD｜淨值 15.19｜2026年11月9日",
     "hedged": false,
     "id": "258237",
     "inceptionDate": "2013年10月30日",
     "name": "貝萊德環球債券機會基金",
-    "nav": "15.16",
-    "navDate": "2026年11月6日",
+    "nav": "15.19",
+    "navDate": "2026年11月9日",
     "oneYear": "0.87",
     "shareClass": "I2",
     "slug": "blackrock-fixed-income-global-opp-i2-usd-fund",

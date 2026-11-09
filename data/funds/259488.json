@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-06",
+  "latestDate": "2026-11-09",
   "pageName": "貝萊德環球債券機會基金 | A2 避險股份",
-  "pointCount": 3220,
+  "pointCount": 3221,
   "points": [
     [
       "2014-01-08",
@@ -12882,18 +12882,22 @@
     [
       "2026-11-06",
       998.0
+    ],
+    [
+      "2026-11-09",
+      999.0
     ]
   ],
   "product": {
     "classLabel": "A2 JPY 避險",
     "currency": "JPY",
-    "display": "貝萊德環球債券機會基金｜A2 JPY 避險｜淨值 998.00｜2026年11月6日",
+    "display": "貝萊德環球債券機會基金｜A2 JPY 避險｜淨值 999.00｜2026年11月9日",
     "hedged": true,
     "id": "259488",
     "inceptionDate": "2014年1月8日",
     "name": "貝萊德環球債券機會基金",
-    "nav": "998.00",
-    "navDate": "2026年11月6日",
+    "nav": "999.00",
+    "navDate": "2026年11月9日",
     "oneYear": "-2.93",
     "shareClass": "A2",
     "slug": "blackrock-fixed-income-gbl-opp-hedged-a2-jpy-fund",
