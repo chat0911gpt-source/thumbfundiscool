@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-10",
+  "latestDate": "2026-11-11",
   "pageName": "貝萊德歐洲多元增長股票基金 | A2 避險股份",
-  "pointCount": 3187,
+  "pointCount": 3188,
   "points": [
     [
       "2014-02-26",
@@ -12750,18 +12750,22 @@
     [
       "2026-11-10",
       24.28
+    ],
+    [
+      "2026-11-11",
+      24.28
     ]
   ],
   "product": {
     "classLabel": "A2 AUD 避險",
     "currency": "AUD",
-    "display": "貝萊德歐洲多元增長股票基金｜A2 AUD 避險｜淨值 24.28｜2026年11月10日",
+    "display": "貝萊德歐洲多元增長股票基金｜A2 AUD 避險｜淨值 24.28｜2026年11月11日",
     "hedged": true,
     "id": "260716",
     "inceptionDate": "2014年2月26日",
     "name": "貝萊德歐洲多元增長股票基金",
     "nav": "24.28",
-    "navDate": "2026年11月10日",
+    "navDate": "2026年11月11日",
     "oneYear": "3.25",
     "shareClass": "A2",
     "slug": "bgf-european-special-situations-fund-a2-aud-hedged",
