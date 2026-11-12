@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-11",
+  "latestDate": "2026-11-12",
   "pageName": "貝萊德環球債券機會基金 | A11 避險股份",
-  "pointCount": 210,
+  "pointCount": 211,
   "points": [
     [
       "2026-01-14",
@@ -842,18 +842,22 @@
     [
       "2026-11-11",
       931.0
+    ],
+    [
+      "2026-11-12",
+      929.0
     ]
   ],
   "product": {
     "classLabel": "ID 347737",
     "currency": "",
-    "display": "貝萊德環球債券機會基金｜ID 347737｜淨值 931.00｜2026年11月11日",
+    "display": "貝萊德環球債券機會基金｜ID 347737｜淨值 929.00｜2026年11月12日",
     "hedged": false,
     "id": "347737",
     "inceptionDate": "2026年1月14日",
     "name": "貝萊德環球債券機會基金",
-    "nav": "931.00",
-    "navDate": "2026年11月11日",
+    "nav": "929.00",
+    "navDate": "2026年11月12日",
     "oneYear": "-",
     "shareClass": "",
     "slug": "blackrock-fixed-income-global-opportunities-fund",

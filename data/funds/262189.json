@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-11",
+  "latestDate": "2026-11-12",
   "pageName": "貝萊德環球債券機會基金 | A6",
-  "pointCount": 3162,
+  "pointCount": 3163,
   "points": [
     [
       "2014-04-03",
@@ -12650,18 +12650,22 @@
     [
       "2026-11-11",
       11.1
+    ],
+    [
+      "2026-11-12",
+      11.08
     ]
   ],
   "product": {
     "classLabel": "A6 USD",
     "currency": "USD",
-    "display": "貝萊德環球債券機會基金｜A6 USD｜淨值 11.10｜2026年11月11日",
+    "display": "貝萊德環球債券機會基金｜A6 USD｜淨值 11.08｜2026年11月12日",
     "hedged": false,
     "id": "262189",
     "inceptionDate": "2014年4月2日",
     "name": "貝萊德環球債券機會基金",
-    "nav": "11.10",
-    "navDate": "2026年11月11日",
+    "nav": "11.08",
+    "navDate": "2026年11月12日",
     "oneYear": "0.25",
     "shareClass": "A6",
     "slug": "blackrock-fixed-income-global-opp-a6-usd-fund",

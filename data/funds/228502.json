@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-11",
+  "latestDate": "2026-11-12",
   "pageName": "貝萊德世界債券基金 | A2 避險股份",
-  "pointCount": 4744,
+  "pointCount": 4745,
   "points": [
     [
       "2007-12-14",
@@ -18978,18 +18978,22 @@
     [
       "2026-11-11",
       175.19
+    ],
+    [
+      "2026-11-12",
+      174.79
     ]
   ],
   "product": {
     "classLabel": "A2 EUR 避險",
     "currency": "EUR",
-    "display": "貝萊德世界債券基金｜A2 EUR 避險｜淨值 175.19｜2026年11月11日",
+    "display": "貝萊德世界債券基金｜A2 EUR 避險｜淨值 174.79｜2026年11月12日",
     "hedged": true,
     "id": "228502",
     "inceptionDate": "2007年12月14日",
     "name": "貝萊德世界債券基金",
-    "nav": "175.19",
-    "navDate": "2026年11月11日",
+    "nav": "174.79",
+    "navDate": "2026年11月12日",
     "oneYear": "-3.10",
     "shareClass": "A2",
     "slug": "blackrock-world-bond-fund-a2-eur-hedged",
