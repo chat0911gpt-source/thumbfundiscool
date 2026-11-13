@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-12",
+  "latestDate": "2026-11-13",
   "pageName": "貝萊德環球債券機會基金 | D2",
-  "pointCount": 4032,
+  "pointCount": 4033,
   "points": [
     [
       "2007-01-31",
@@ -16130,18 +16130,22 @@
     [
       "2026-11-12",
       18.78
+    ],
+    [
+      "2026-11-13",
+      18.73
     ]
   ],
   "product": {
     "classLabel": "D2 USD",
     "currency": "USD",
-    "display": "貝萊德環球債券機會基金｜D2 USD｜淨值 18.78｜2026年11月12日",
+    "display": "貝萊德環球債券機會基金｜D2 USD｜淨值 18.73｜2026年11月13日",
     "hedged": false,
     "id": "243879",
     "inceptionDate": "2012年10月18日",
     "name": "貝萊德環球債券機會基金",
-    "nav": "18.78",
-    "navDate": "2026年11月12日",
+    "nav": "18.73",
+    "navDate": "2026年11月13日",
     "oneYear": "0.75",
     "shareClass": "D2",
     "slug": "blackrock-fixed-income-global-opp-d2-usd-fund",
