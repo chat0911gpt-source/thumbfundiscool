@@ -1,16 +1,10 @@
 {
-  "changedFundFiles": 0,
-  "failureCount": 1,
-  "failures": [
-    {
-      "error": "The read operation timed out；沿用既有資料",
-      "id": "246706",
-      "name": "貝萊德亞洲老虎債券基金"
-    }
-  ],
+  "changedFundFiles": 4,
+  "failureCount": 0,
+  "failures": [],
   "fundCount": 348,
   "productCount": 348,
   "requestedFundCount": 348,
   "source": "https://www.blackrock.com/tw/products/products-list",
-  "updatedAt": "2026-11-15T18:58:46+00:00"
+  "updatedAt": "2026-11-16T06:51:35+00:00"
 }
