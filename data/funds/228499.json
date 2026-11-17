@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-16",
+  "latestDate": "2026-11-17",
   "pageName": "貝萊德世界債券基金 | A3",
-  "pointCount": 5366,
+  "pointCount": 5367,
   "points": [
     [
       "2005-07-01",
@@ -21466,18 +21466,22 @@
     [
       "2026-11-16",
       51.7
+    ],
+    [
+      "2026-11-17",
+      51.66
     ]
   ],
   "product": {
     "classLabel": "A3 USD",
     "currency": "USD",
-    "display": "貝萊德世界債券基金｜A3 USD｜淨值 51.70｜2026年11月16日",
+    "display": "貝萊德世界債券基金｜A3 USD｜淨值 51.66｜2026年11月17日",
     "hedged": false,
     "id": "228499",
     "inceptionDate": "2004年4月2日",
     "name": "貝萊德世界債券基金",
-    "nav": "51.70",
-    "navDate": "2026年11月16日",
+    "nav": "51.66",
+    "navDate": "2026年11月17日",
     "oneYear": "-1.33",
     "shareClass": "A3",
     "slug": "blackrock-world-bond-fund-a3-usd",
