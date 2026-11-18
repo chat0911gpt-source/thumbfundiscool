@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-17",
+  "latestDate": "2026-11-18",
   "pageName": "貝萊德新興市場債券基金 | B2",
-  "pointCount": 331,
+  "pointCount": 332,
   "points": [
     [
       "2025-07-23",
@@ -1326,18 +1326,22 @@
     [
       "2026-11-17",
       10.63
+    ],
+    [
+      "2026-11-18",
+      10.62
     ]
   ],
   "product": {
     "classLabel": "ID 344441",
     "currency": "",
-    "display": "貝萊德新興市場債券基金｜ID 344441｜淨值 10.63｜2026年11月17日",
+    "display": "貝萊德新興市場債券基金｜ID 344441｜淨值 10.62｜2026年11月18日",
     "hedged": false,
     "id": "344441",
     "inceptionDate": "2025年7月23日",
     "name": "貝萊德新興市場債券基金",
-    "nav": "10.63",
-    "navDate": "2026年11月17日",
+    "nav": "10.62",
+    "navDate": "2026年11月18日",
     "oneYear": "1.41",
     "shareClass": "",
     "slug": "blackrock-emerging-markets-bond-fund",

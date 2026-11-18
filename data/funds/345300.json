@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-17",
+  "latestDate": "2026-11-18",
   "pageName": "貝萊德智慧數據收益成長基金 | A6 避險股份",
-  "pointCount": 310,
+  "pointCount": 311,
   "points": [
     [
       "2025-08-27",
@@ -1242,18 +1242,22 @@
     [
       "2026-11-17",
       982.0
+    ],
+    [
+      "2026-11-18",
+      975.0
     ]
   ],
   "product": {
     "classLabel": "ID 345300",
     "currency": "",
-    "display": "貝萊德智慧數據收益成長基金｜ID 345300｜淨值 982.00｜2026年11月17日",
+    "display": "貝萊德智慧數據收益成長基金｜ID 345300｜淨值 975.00｜2026年11月18日",
     "hedged": false,
     "id": "345300",
     "inceptionDate": "2025年8月27日",
     "name": "貝萊德智慧數據收益成長基金",
-    "nav": "982.00",
-    "navDate": "2026年11月17日",
+    "nav": "975.00",
+    "navDate": "2026年11月18日",
     "oneYear": "6.70",
     "shareClass": "",
     "slug": "blackrock-systematic-global-income-growth-fund",
