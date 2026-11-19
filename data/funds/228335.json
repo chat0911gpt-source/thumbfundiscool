@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-18",
+  "latestDate": "2026-11-19",
   "pageName": "貝萊德美元儲備基金 | A2",
-  "pointCount": 5366,
+  "pointCount": 5367,
   "points": [
     [
       "2005-07-01",
@@ -21466,18 +21466,22 @@
     [
       "2026-11-18",
       188.69
+    ],
+    [
+      "2026-11-19",
+      188.71
     ]
   ],
   "product": {
     "classLabel": "A2 USD",
     "currency": "USD",
-    "display": "貝萊德美元儲備基金｜A2 USD｜淨值 188.69｜2026年11月18日",
+    "display": "貝萊德美元儲備基金｜A2 USD｜淨值 188.71｜2026年11月19日",
     "hedged": false,
     "id": "228335",
     "inceptionDate": "1993年11月30日",
     "name": "貝萊德美元儲備基金",
-    "nav": "188.69",
-    "navDate": "2026年11月18日",
+    "nav": "188.71",
+    "navDate": "2026年11月19日",
     "oneYear": "3.38",
     "shareClass": "A2",
     "slug": "blackrock-us-dollar-reserve-fund-a2-usd",

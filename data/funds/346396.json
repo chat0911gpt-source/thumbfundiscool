@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-18",
+  "latestDate": "2026-11-19",
   "pageName": "貝萊德環球資產配置基金 | B11 避險股份",
-  "pointCount": 276,
+  "pointCount": 277,
   "points": [
     [
       "2025-10-15",
@@ -1106,18 +1106,22 @@
     [
       "2026-11-18",
       918.0
+    ],
+    [
+      "2026-11-19",
+      917.0
     ]
   ],
   "product": {
     "classLabel": "ID 346396",
     "currency": "",
-    "display": "貝萊德環球資產配置基金｜ID 346396｜淨值 918.00｜2026年11月18日",
+    "display": "貝萊德環球資產配置基金｜ID 346396｜淨值 917.00｜2026年11月19日",
     "hedged": false,
     "id": "346396",
     "inceptionDate": "2025年10月15日",
     "name": "貝萊德環球資產配置基金",
-    "nav": "918.00",
-    "navDate": "2026年11月18日",
+    "nav": "917.00",
+    "navDate": "2026年11月19日",
     "oneYear": "0.13",
     "shareClass": "",
     "slug": "blackrock-global-allocation-fund",
