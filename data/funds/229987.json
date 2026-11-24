@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-20",
+  "latestDate": "2026-11-23",
   "pageName": "貝萊德世界礦業基金 | C2",
-  "pointCount": 5372,
+  "pointCount": 5373,
   "points": [
     [
       "2005-07-01",
@@ -21490,18 +21490,22 @@
     [
       "2026-11-20",
       61.85
+    ],
+    [
+      "2026-11-23",
+      62.67
     ]
   ],
   "product": {
     "classLabel": "C2 USD",
     "currency": "USD",
-    "display": "貝萊德世界礦業基金｜C2 USD｜淨值 61.85｜2026年11月20日",
+    "display": "貝萊德世界礦業基金｜C2 USD｜淨值 62.67｜2026年11月23日",
     "hedged": false,
     "id": "229987",
     "inceptionDate": "2003年11月24日",
     "name": "貝萊德世界礦業基金",
-    "nav": "61.85",
-    "navDate": "2026年11月20日",
+    "nav": "62.67",
+    "navDate": "2026年11月23日",
     "oneYear": "18.07",
     "shareClass": "C2",
     "slug": "blackrock-world-mining-fund-c2-usd",
