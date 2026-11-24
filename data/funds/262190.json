@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-23",
+  "latestDate": "2026-11-24",
   "pageName": "貝萊德新興市場股票收益基金 | A6",
-  "pointCount": 3164,
+  "pointCount": 3165,
   "points": [
     [
       "2014-04-02",
@@ -12658,18 +12658,22 @@
     [
       "2026-11-23",
       15.97
+    ],
+    [
+      "2026-11-24",
+      15.74
     ]
   ],
   "product": {
     "classLabel": "A6 USD",
     "currency": "USD",
-    "display": "貝萊德新興市場股票收益基金｜A6 USD｜淨值 15.97｜2026年11月23日",
+    "display": "貝萊德新興市場股票收益基金｜A6 USD｜淨值 15.74｜2026年11月24日",
     "hedged": false,
     "id": "262190",
     "inceptionDate": "2014年4月2日",
     "name": "貝萊德新興市場股票收益基金",
-    "nav": "15.97",
-    "navDate": "2026年11月23日",
+    "nav": "15.74",
+    "navDate": "2026年11月24日",
     "oneYear": "12.23",
     "shareClass": "A6",
     "slug": "blackrock-emerging-markets-equity-inc-a6-usd-fund",
