@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-25",
+  "latestDate": "2026-11-26",
   "pageName": "貝萊德世界健康科學基金 | A10",
-  "pointCount": 1023,
+  "pointCount": 1024,
   "points": [
     [
       "2022-10-26",
@@ -4094,18 +4094,22 @@
     [
       "2026-11-25",
       10.49
+    ],
+    [
+      "2026-11-26",
+      10.55
     ]
   ],
   "product": {
     "classLabel": "ID 329975",
     "currency": "",
-    "display": "貝萊德世界健康科學基金｜ID 329975｜淨值 10.49｜2026年11月25日",
+    "display": "貝萊德世界健康科學基金｜ID 329975｜淨值 10.55｜2026年11月26日",
     "hedged": false,
     "id": "329975",
     "inceptionDate": "2022年10月26日",
     "name": "貝萊德世界健康科學基金",
-    "nav": "10.49",
-    "navDate": "2026年11月25日",
+    "nav": "10.55",
+    "navDate": "2026年11月26日",
     "oneYear": "22.08",
     "shareClass": "",
     "slug": "blackrock-world-healthscience-fund",

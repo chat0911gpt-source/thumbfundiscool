@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-25",
+  "latestDate": "2026-11-26",
   "pageName": "貝萊德美國靈活股票基金 | A10",
-  "pointCount": 143,
+  "pointCount": 144,
   "points": [
     [
       "2026-05-06",
@@ -574,18 +574,22 @@
     [
       "2026-11-25",
       8.79
+    ],
+    [
+      "2026-11-26",
+      9.0
     ]
   ],
   "product": {
     "classLabel": "ID 350766",
     "currency": "",
-    "display": "貝萊德美國靈活股票基金｜ID 350766｜淨值 8.79｜2026年11月25日",
+    "display": "貝萊德美國靈活股票基金｜ID 350766｜淨值 9.00｜2026年11月26日",
     "hedged": false,
     "id": "350766",
     "inceptionDate": "2026年5月6日",
     "name": "貝萊德美國靈活股票基金",
-    "nav": "8.79",
-    "navDate": "2026年11月25日",
+    "nav": "9.00",
+    "navDate": "2026年11月26日",
     "oneYear": "-",
     "shareClass": "",
     "slug": "blackrock-us-flexible-equity-fund",
