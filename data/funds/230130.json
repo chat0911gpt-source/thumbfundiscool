@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-26",
+  "latestDate": "2026-11-27",
   "pageName": "貝萊德世界黃金基金 | A2 避險股份",
-  "pointCount": 3623,
+  "pointCount": 3624,
   "points": [
     [
       "2012-06-13",
@@ -14494,18 +14494,22 @@
     [
       "2026-11-26",
       15.99
+    ],
+    [
+      "2026-11-27",
+      16.51
     ]
   ],
   "product": {
     "classLabel": "A2 HKD 避險",
     "currency": "HKD",
-    "display": "貝萊德世界黃金基金｜A2 HKD 避險｜淨值 15.99｜2026年11月26日",
+    "display": "貝萊德世界黃金基金｜A2 HKD 避險｜淨值 16.51｜2026年11月27日",
     "hedged": true,
     "id": "230130",
     "inceptionDate": "2012年6月13日",
     "name": "貝萊德世界黃金基金",
-    "nav": "15.99",
-    "navDate": "2026年11月26日",
+    "nav": "16.51",
+    "navDate": "2026年11月27日",
     "oneYear": "12.41",
     "shareClass": "A2",
     "slug": "blackrock-world-gold-fund-a2-hkd-hedged",

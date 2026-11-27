@@ -1,7 +1,7 @@
 {
-  "latestDate": "2026-11-26",
+  "latestDate": "2026-11-27",
   "pageName": "貝萊德ESG社會責任多元資產基金 | B2 避險股份",
-  "pointCount": 485,
+  "pointCount": 486,
   "points": [
     [
       "2024-12-18",
@@ -1942,18 +1942,22 @@
     [
       "2026-11-26",
       11.5
+    ],
+    [
+      "2026-11-27",
+      11.54
     ]
   ],
   "product": {
     "classLabel": "ID 340592",
     "currency": "",
-    "display": "貝萊德ESG社會責任多元資產基金｜ID 340592｜淨值 11.50｜2026年11月26日",
+    "display": "貝萊德ESG社會責任多元資產基金｜ID 340592｜淨值 11.54｜2026年11月27日",
     "hedged": false,
     "id": "340592",
     "inceptionDate": "2024年12月18日",
     "name": "貝萊德ESG社會責任多元資產基金",
-    "nav": "11.50",
-    "navDate": "2026年11月26日",
+    "nav": "11.54",
+    "navDate": "2026年11月27日",
     "oneYear": "8.47",
     "shareClass": "",
     "slug": "blackrock-esg-multi-asset-fund",
